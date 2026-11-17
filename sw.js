@@ -1,6 +1,7 @@
-const CORE='deutsch-core-v1';
+const CORE='deutsch-core-v2';
 const FILES=['./','index.html','style.css','app.js','content.js','manifest.webmanifest','icons/icon-192.png','icons/icon-512.png','icons/icon-180.png'];
 self.addEventListener('install',event=>event.waitUntil(caches.open(CORE).then(c=>c.addAll(FILES)).then(()=>self.skipWaiting())));
-self.addEventListener('activate',event=>event.waitUntil(self.clients.claim()));
+self.addEventListener('activate',event=>event.waitUntil(caches.keys().then(keys=>Promise.all(keys.filter(k=>k.startsWith('deutsch-core-')&&k!==CORE).map(k=>caches.delete(k)))).then(()=>self.clients.claim())));
 async function ranged(request,response){const range=request.headers.get('range');if(!range)return response;const buffer=await response.arrayBuffer(),size=buffer.byteLength,m=/^bytes=(\d*)-(\d*)$/.exec(range);if(!m||(!m[1]&&!m[2]))return new Response(null,{status:416,headers:{'Content-Range':`bytes */${size}`}});let start=m[1]?Number(m[1]):Math.max(0,size-Number(m[2])),end=m[1]?(m[2]?Math.min(Number(m[2]),size-1):size-1):size-1;if(start>=size||start>end)return new Response(null,{status:416,headers:{'Content-Range':`bytes */${size}`}});const headers=new Headers(response.headers);headers.set('Content-Range',`bytes ${start}-${end}/${size}`);headers.set('Content-Length',String(end-start+1));headers.set('Accept-Ranges','bytes');return new Response(buffer.slice(start,end+1),{status:206,headers})}
 self.addEventListener('fetch',event=>{const r=event.request,url=new URL(r.url);if(r.method!=='GET'||url.origin!==location.origin)return;event.respondWith((async()=>{const cached=await caches.match(r.url);if(cached)return ranged(r,cached);try{return await fetch(r)}catch{return new Response('尚未下载该内容，请联网后保存本册离线包。',{status:503,headers:{'Content-Type':'text/plain;charset=utf-8'}})}})())});
+
