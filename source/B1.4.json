@@ -1,0 +1,3869 @@
+{
+  "units": [
+    {
+      "title": "经历与转折：讲一个完整故事",
+      "de": "Erlebnisse zusammenhängend erzählen",
+      "goal": "叙述一次改变：交代背景、事件顺序和今天的评价，回应时间线追问。",
+      "keys": [
+        "time",
+        "when",
+        "links",
+        "relative",
+        "cases"
+      ],
+      "vocab": [
+        [
+          "der Wendepunkt, -e",
+          "turning point",
+          "转折点"
+        ],
+        [
+          "die Erinnerung, -en",
+          "memory",
+          "记忆"
+        ],
+        [
+          "die Entscheidung, -en",
+          "decision",
+          "决定"
+        ],
+        [
+          "der Anfang, Anfänge",
+          "beginning",
+          "开始"
+        ],
+        [
+          "die Gelegenheit, -en",
+          "opportunity",
+          "机会"
+        ],
+        [
+          "der Eindruck, Eindrücke",
+          "impression",
+          "印象"
+        ],
+        [
+          "die Unterstützung, -en",
+          "support",
+          "支持"
+        ],
+        [
+          "die Erfahrung, -en",
+          "experience",
+          "经历、经验"
+        ],
+        [
+          "der Kollege, -n",
+          "colleague",
+          "男同事"
+        ],
+        [
+          "die Kollegin, -nen",
+          "colleague",
+          "女同事"
+        ],
+        [
+          "sich erinnern an",
+          "remember",
+          "回忆起"
+        ],
+        [
+          "anfangen",
+          "begin",
+          "开始"
+        ],
+        [
+          "sich entscheiden für",
+          "decide on",
+          "决定选"
+        ],
+        [
+          "aufgeben",
+          "give up",
+          "放弃"
+        ],
+        [
+          "ermutigen",
+          "encourage",
+          "鼓励"
+        ],
+        [
+          "damals",
+          "at that time",
+          "当时"
+        ],
+        [
+          "inzwischen",
+          "by now",
+          "如今、期间"
+        ],
+        [
+          "zunächst",
+          "initially",
+          "起初"
+        ],
+        [
+          "schließlich",
+          "finally",
+          "最终"
+        ],
+        [
+          "rückblickend",
+          "in retrospect",
+          "回头看"
+        ]
+      ],
+      "dialogue": [
+        [
+          "A: Wann hast du zum ersten Mal einen Vortrag auf Deutsch gehalten?",
+          "你第一次用德语作报告是什么时候？"
+        ],
+        [
+          "B: Vor einem Jahr, bei einem Treffen unseres Vereins.",
+          "一年前在协会会议上。"
+        ],
+        [
+          "A: Hattest du vorher schon vor einer Gruppe gesprochen?",
+          "此前你在小组面前讲过吗？"
+        ],
+        [
+          "B: Ja, aber nur in meiner Muttersprache.",
+          "讲过，但只用母语。"
+        ],
+        [
+          "A: Was war diesmal besonders schwierig?",
+          "这次什么特别难？"
+        ],
+        [
+          "B: Ich wollte zuerst jeden Satz auswendig lernen.",
+          "我起初想把每句话背下来。"
+        ],
+        [
+          "A: Hat das funktioniert?",
+          "那奏效了吗？"
+        ],
+        [
+          "B: Nicht gut. Ein Kollege, dem ich vertraue, empfahl mir Stichwörter.",
+          "不太好。一位我信任的同事建议用关键词。"
+        ],
+        [
+          "A: Und während des Vortrags?",
+          "报告过程中呢？"
+        ],
+        [
+          "B: Ich vergaß ein Wort, erklärte es aber mit einem Beispiel.",
+          "忘了一个词，但用例子解释了。"
+        ],
+        [
+          "A: Was hast du daraus gelernt?",
+          "你由此学到什么？"
+        ],
+        [
+          "B: Ein verständlicher Gedanke ist wichtiger als ein perfekter Satz.",
+          "清楚的意思比完美的句子重要。"
+        ]
+      ],
+      "mono": [
+        [
+          "Als ich neu im Verein war, sprach ich selten in der Gruppe.",
+          "刚进协会时我很少在小组里发言。"
+        ],
+        [
+          "Ich hatte Deutsch gelernt, aber noch keinen Vortrag gehalten.",
+          "我学过德语，但没作过报告。"
+        ],
+        [
+          "Eine Kollegin fragte mich nach meinem Hobby.",
+          "一位女同事问我的爱好。"
+        ],
+        [
+          "Daraufhin bereitete ich einen kurzen Beitrag vor.",
+          "于是我准备了简短分享。"
+        ],
+        [
+          "Zunächst schrieb ich zu viel auf.",
+          "最初我写得太多。"
+        ],
+        [
+          "Dann beschränkte ich mich auf fünf Stichwörter.",
+          "后来我只用五个关键词。"
+        ],
+        [
+          "Obwohl ich Pausen machte, konnten die anderen mir folgen.",
+          "虽然有停顿，大家仍能理解。"
+        ],
+        [
+          "Heute sehe ich diesen Abend als wichtigen Anfang.",
+          "今天我把那晚看作重要起点。"
+        ]
+      ],
+      "listen": [
+        "对话：何时首次德语报告？谁建议关键词？忘词后怎么做？独白列了几个关键词？",
+        "一年前；信任的同事；用例子解释；五个。"
+      ],
+      "speak": "A讲两分钟真实或虚构经历；B追问先后、帮助者和当时感受。A必须区分一个更早事件和现在的评价，然后交换角色。",
+      "writing": "写130至160词经历帖：背景、转折、一个具体困难、解决过程、今天的收获。至少一处als和一处时间层次对比。",
+      "model": [
+        "Vor einem Jahr sollte ich bei einem Vereinstreffen mein Hobby vorstellen. Obwohl ich schon länger Deutsch gelernt hatte, hatte ich noch nie vor einer Gruppe auf Deutsch gesprochen. Deshalb schrieb ich zunächst einen vollständigen Text. Beim Üben merkte ich aber, dass ich ständig auf das Blatt schaute. Ein Kollege, dem ich vertraue, schlug mir vor, nur wichtige Wörter zu notieren. Das machte mir zuerst Angst. Trotzdem probierte ich seinen Rat aus und übte mit fünf Stichwörtern. Während des Vortrags vergaß ich den Namen eines Werkzeugs. Statt lange zu schweigen, beschrieb ich, wofür man es benutzt. Die anderen verstanden mich und stellten interessierte Fragen. Rückblickend war dieser kleine Fehler der wichtigste Moment des Abends. Ich lernte, dass ich ein Gespräch auch ohne perfekte Wörter weiterführen kann. Heute bereite ich Beispiele vor und lasse Platz für Rückfragen.",
+        "一年前介绍爱好，虽学德语很久却没用德语对小组演讲。先写全文，练习时一直盯纸。同事建议五个关键词。报告中忘记工具名，改说用途，大家理解并追问。由此学会不靠完美用词也能继续沟通；现在准备例子并留出提问时间。"
+      ],
+      "culture": "讲个人经历时可以明确虚构，不必披露隐私。回应经历先追问具体情境，再分享自己的类似经验；不要把对方的一次困难推广为某个群体的特点。",
+      "trans": [
+        [
+          "中→德：我到达时，活动已经开始了。",
+          "Als ich ankam, hatte die Veranstaltung schon begonnen.",
+          "主线过去，到达之前用过去完成时。"
+        ],
+        [
+          "德→中：Damals kannte ich niemanden, dem ich die Frage stellen konnte.",
+          "当时我不认识任何可以向其提问的人。",
+          "jemandem eine Frage stellen，关系代词dem。"
+        ],
+        [
+          "英→德：After that, I tried again.",
+          "Danach versuchte ich es noch einmal.",
+          "Danach占前场，versuchte第二位。"
+        ],
+        [
+          "德→英：Heute sehe ich die Erfahrung anders.",
+          "Today I see the experience differently.",
+          "现在评价用现在时。"
+        ]
+      ]
+    },
+    {
+      "title": "旅行中的变动：制定可行替代方案",
+      "de": "Unterwegs reagieren und gemeinsam umplanen",
+      "goal": "处理行程变更，询问缺失信息，比较备选方案并确认分工。",
+      "keys": [
+        "request",
+        "condition",
+        "indirect",
+        "purpose",
+        "future"
+      ],
+      "vocab": [
+        [
+          "die Verbindung, -en",
+          "connection",
+          "交通连接"
+        ],
+        [
+          "der Anschluss, Anschlüsse",
+          "connecting service",
+          "接续班次"
+        ],
+        [
+          "die Verspätung, -en",
+          "delay",
+          "延误"
+        ],
+        [
+          "die Auskunft, Auskünfte",
+          "information",
+          "问询信息"
+        ],
+        [
+          "die Unterkunft, Unterkünfte",
+          "accommodation",
+          "住宿"
+        ],
+        [
+          "die Buchung, -en",
+          "booking",
+          "预订"
+        ],
+        [
+          "der Ersatz, Sg.",
+          "replacement",
+          "替代"
+        ],
+        [
+          "der Treffpunkt, -e",
+          "meeting point",
+          "集合点"
+        ],
+        [
+          "das Gepäck, Sg.",
+          "luggage",
+          "行李"
+        ],
+        [
+          "die Bestätigung, -en",
+          "confirmation",
+          "确认"
+        ],
+        [
+          "ausfallen",
+          "be cancelled",
+          "取消、停开"
+        ],
+        [
+          "umbuchen",
+          "rebook",
+          "改订"
+        ],
+        [
+          "erreichen",
+          "reach",
+          "到达、赶上"
+        ],
+        [
+          "sich erkundigen nach",
+          "inquire about",
+          "询问"
+        ],
+        [
+          "bestätigen",
+          "confirm",
+          "确认"
+        ],
+        [
+          "voraussichtlich",
+          "probably/as scheduled",
+          "预计"
+        ],
+        [
+          "rechtzeitig",
+          "in time",
+          "及时"
+        ],
+        [
+          "verfügbar",
+          "available",
+          "可用的"
+        ],
+        [
+          "unterwegs",
+          "on the way",
+          "途中"
+        ],
+        [
+          "alternativ",
+          "alternatively",
+          "作为替代"
+        ]
+      ],
+      "dialogue": [
+        [
+          "A: Unser Zug fällt aus. Was machen wir jetzt?",
+          "我们的火车取消了，现在怎么办？"
+        ],
+        [
+          "B: Könntest du fragen, ob es eine andere Verbindung gibt?",
+          "你能问问是否有其他班次吗？"
+        ],
+        [
+          "A: Laut Anzeige fährt in vierzig Minuten ein Bus.",
+          "显示屏说四十分钟后有公交。"
+        ],
+        [
+          "B: Weißt du, ob unsere Karten dort gelten?",
+          "知道我们的票在那边能用吗？"
+        ],
+        [
+          "A: Noch nicht. Das kläre ich an der Auskunft.",
+          "还不知道，我去问询处确认。"
+        ],
+        [
+          "B: Ich rufe inzwischen bei der Unterkunft an.",
+          "与此同时我给住宿处打电话。"
+        ],
+        [
+          "A: Damit sie wissen, dass wir später kommen?",
+          "为了让他们知道我们会迟到？"
+        ],
+        [
+          "B: Genau. Wenn wir erst nach acht ankommen, brauchen wir eine Lösung.",
+          "对。如果八点后才到，我们需要办法。"
+        ],
+        [
+          "A: Falls der Bus nicht passt, könnten wir einen späteren Zug nehmen.",
+          "如果公交不合适，可以坐晚一点的火车。"
+        ],
+        [
+          "B: Dann müssten wir aber das Museum verschieben.",
+          "但那样要改博物馆安排。"
+        ],
+        [
+          "A: Wir treffen uns in zehn Minuten wieder hier.",
+          "十分钟后在这里重聚。"
+        ],
+        [
+          "B: Gut. Erst sammeln wir Informationen, dann entscheiden wir.",
+          "好，先收信息，再决定。"
+        ]
+      ],
+      "mono": [
+        [
+          "Unsere Reise verlief anders als geplant.",
+          "旅行与计划不同。"
+        ],
+        [
+          "Der erste Zug fiel am Morgen aus.",
+          "早晨第一班火车取消。"
+        ],
+        [
+          "Wir fragten nach einer anderen Verbindung.",
+          "我们询问替代班次。"
+        ],
+        [
+          "Dabei prüften wir auch die Gültigkeit unserer Karten.",
+          "同时检查车票是否适用。"
+        ],
+        [
+          "Ich informierte die Unterkunft über die Verspätung.",
+          "我把延误通知住宿处。"
+        ],
+        [
+          "Die Mitarbeiterin erklärte uns die spätere Ankunft.",
+          "工作人员说明晚到的安排。"
+        ],
+        [
+          "Den Museumsbesuch verschoben wir auf Sonntag.",
+          "我们把博物馆改到周日。"
+        ],
+        [
+          "So blieb genug Zeit, ohne ständig zu hetzen.",
+          "这样时间充足，不用一直赶。"
+        ]
+      ],
+      "listen": [
+        "公交何时发车？车票是否已确认有效？谁联系住宿？何时重聚？",
+        "四十分钟后；尚未；B；十分钟后原处。"
+      ],
+      "speak": "A知道公交时间但不知道车票规则；B知道住宿八点后需提前约定。两人互问、提出两种方案、明确各自行动。加入“公交满员”后重新协商。",
+      "writing": "写130至160词给旅伴：原计划、变更、待确认事项、备选安排、你负责什么，以及何时再联系。",
+      "model": [
+        "Liebe Eva, unser Zug am Samstagmorgen fällt leider aus. Ich habe eine andere Verbindung gefunden, mit der wir ungefähr zwei Stunden später ankommen würden. Allerdings weiß ich noch nicht, ob unsere bisherigen Karten dafür gelten. Ich werde das heute bei der Auskunft klären und dir anschließend schreiben. Könntest du inzwischen bei der Unterkunft nachfragen, bis wann wir ankommen können? Falls die spätere Ankunft möglich ist, würde ich diese Verbindung nehmen. Den Museumsbesuch könnten wir auf Sonntag verschieben, damit wir am Samstag nicht alles unter Zeitdruck machen müssen. Wenn die Unterkunft keine passende Lösung anbietet, sollten wir noch eine frühere Busfahrt prüfen. Bitte buche aber noch nichts zusätzlich, bevor wir beide Informationen haben. Ich schlage vor, dass wir heute um sieben kurz telefonieren. Dann können wir gemeinsam entscheiden und die endgültigen Zeiten notieren. Viele Grüße, Ben",
+        "周六早班取消，找到晚到两小时的路线，车票是否适用待查。请Eva问住宿接待时间；若可晚到就选该班次，博物馆改周日；否则查早班公交。先不另订，今晚七点通话后决定。"
+      ],
+      "culture": "交通与住宿信息可能随地点和日期变化。教学对话练习的是询问、确认和保留凭据的语言；其中班次、时间与票务条件都是虚构情境。",
+      "trans": [
+        [
+          "中→德：您能告诉我下一班公交何时出发吗？",
+          "Könnten Sie mir sagen, wann der nächste Bus abfährt?",
+          "间接疑问末位，可分动词合并。"
+        ],
+        [
+          "德→中：Falls wir später ankommen, informiere ich die Unterkunft.",
+          "如果我们晚到，我会通知住宿处。",
+          "现实可能条件，可用现在时。"
+        ],
+        [
+          "英→德：I will call so that you can plan.",
+          "Ich rufe an, damit du planen kannst.",
+          "不同主语用damit。"
+        ],
+        [
+          "德→英：Die Ankunft ist voraussichtlich um acht.",
+          "Arrival is expected at eight.",
+          "voraussichtlich保留预计语气。"
+        ]
+      ]
+    },
+    {
+      "title": "预约与服务：清楚说明需求",
+      "de": "Termine vereinbaren und Anliegen klären",
+      "goal": "说明服务需求、区分申请与确认，记录下一步和所需材料。",
+      "keys": [
+        "passive",
+        "infinitive",
+        "prep",
+        "negative",
+        "register"
+      ],
+      "vocab": [
+        [
+          "der Termin, -e",
+          "appointment",
+          "预约"
+        ],
+        [
+          "das Anliegen, -",
+          "request/concern",
+          "诉求"
+        ],
+        [
+          "die Anmeldung, -en",
+          "registration",
+          "登记"
+        ],
+        [
+          "die Unterlage, -n",
+          "document",
+          "材料"
+        ],
+        [
+          "die Rückmeldung, -en",
+          "response",
+          "反馈"
+        ],
+        [
+          "die Sprechstunde, -n",
+          "consultation hour",
+          "接待时段"
+        ],
+        [
+          "die Bearbeitung, -en",
+          "processing",
+          "办理"
+        ],
+        [
+          "die Frist, -en",
+          "deadline",
+          "期限"
+        ],
+        [
+          "die Kopie, -n",
+          "copy",
+          "复印件"
+        ],
+        [
+          "das Original, -e",
+          "original",
+          "原件"
+        ],
+        [
+          "vereinbaren",
+          "arrange",
+          "约定"
+        ],
+        [
+          "verschieben",
+          "postpone/reschedule",
+          "改期"
+        ],
+        [
+          "einreichen",
+          "submit",
+          "提交"
+        ],
+        [
+          "nachreichen",
+          "submit later",
+          "补交"
+        ],
+        [
+          "sich wenden an",
+          "contact",
+          "联系"
+        ],
+        [
+          "vollständig",
+          "complete",
+          "完整的"
+        ],
+        [
+          "zuständig",
+          "responsible",
+          "负责的"
+        ],
+        [
+          "schriftlich",
+          "in writing",
+          "书面的"
+        ],
+        [
+          "vorläufig",
+          "provisional",
+          "暂定的"
+        ],
+        [
+          "noch nicht",
+          "not yet",
+          "尚未"
+        ]
+      ],
+      "dialogue": [
+        [
+          "A: Guten Tag, ich möchte einen Beratungstermin vereinbaren.",
+          "您好，我想约咨询。"
+        ],
+        [
+          "B: Worum geht es bei Ihrem Anliegen?",
+          "您的事项是什么？"
+        ],
+        [
+          "A: Ich interessiere mich für einen Abendkurs und brauche Hilfe bei der Auswahl.",
+          "我对晚课有兴趣，想咨询如何选择。"
+        ],
+        [
+          "B: Haben Sie bereits eine Anmeldung geschickt?",
+          "您已经提交报名了吗？"
+        ],
+        [
+          "A: Nur eine Anfrage. Ich habe noch keinen Platz gebucht.",
+          "只是问询，还没订名额。"
+        ],
+        [
+          "B: Verstanden. Die Beratung findet am Dienstag statt.",
+          "明白，咨询在周二。"
+        ],
+        [
+          "A: Muss ich Unterlagen mitbringen?",
+          "需要带材料吗？"
+        ],
+        [
+          "B: Bitte bringen Sie Ihre bisherigen Kursinformationen mit.",
+          "请带已有课程信息。"
+        ],
+        [
+          "A: Werden die Unterlagen vorher geprüft?",
+          "材料会提前审核吗？"
+        ],
+        [
+          "B: Nein, wir schauen sie gemeinsam im Gespräch an.",
+          "不，我们会谈时一起看。"
+        ],
+        [
+          "A: Könnten Sie mir Zeit und Raum schriftlich bestätigen?",
+          "能书面确认时间和房间吗？"
+        ],
+        [
+          "B: Ja. Sie erhalten heute eine Nachricht.",
+          "可以，今天会给您消息。"
+        ]
+      ],
+      "mono": [
+        [
+          "Ich möchte einen Kurs wählen, der zu meinen Arbeitszeiten passt.",
+          "我想选符合工作时间的课。"
+        ],
+        [
+          "Deshalb habe ich um einen Beratungstermin gebeten.",
+          "所以申请了咨询预约。"
+        ],
+        [
+          "Meine erste Nachricht war nur eine Anfrage.",
+          "第一条消息只是问询。"
+        ],
+        [
+          "Ein Kursplatz ist dadurch noch nicht reserviert.",
+          "这还没有预留课程名额。"
+        ],
+        [
+          "Ich soll meine bisherigen Kursinformationen mitbringen.",
+          "我要带已有课程信息。"
+        ],
+        [
+          "Im Gespräch werden verschiedene Möglichkeiten verglichen.",
+          "会谈将比较不同选择。"
+        ],
+        [
+          "Danach kann ich mich für einen Kurs entscheiden.",
+          "之后我可以决定选课。"
+        ],
+        [
+          "Offene Fragen notiere ich vor dem Termin.",
+          "预约前我记下待问问题。"
+        ]
+      ],
+      "listen": [
+        "A是否已订课？咨询何日？带什么？材料何时看？",
+        "尚未；周二；已有课程信息；会谈时共同看。"
+      ],
+      "speak": "A请求把预约从周二改周四，B只知道周四上午可用但房间待定。明确暂定内容，提出确认方式，并复述材料要求。",
+      "writing": "写130至160词正式邮件：说明原预约、改期原因、两段可用时间、询问材料与房间、请求书面确认。",
+      "model": [
+        "Sehr geehrte Frau Berger, vielen Dank für den Beratungstermin am kommenden Dienstag. Leider wurde meine Arbeitszeit kurzfristig geändert, sodass ich an diesem Nachmittag nicht kommen kann. Ich möchte Sie deshalb bitten, den Termin zu verschieben. Am Donnerstag wäre ich zwischen neun und zwölf Uhr verfügbar, am Freitag könnte ich nach vierzehn Uhr kommen. Bitte teilen Sie mir mit, ob einer dieser Zeiträume möglich ist. Außerdem möchte ich wissen, welche Unterlagen ich zum Gespräch mitbringen soll. Die Informationen zu meinen bisherigen Kursen habe ich bereits zusammengestellt. Falls noch etwas fehlt, kann ich es vorab per E-Mail schicken. Mir ist bewusst, dass meine Anfrage noch keine neue Terminbestätigung ist. Ich warte daher auf Ihre Rückmeldung und werde erst danach meine Planung ändern. Könnten Sie mir bitte auch den Raum nennen? Vielen Dank für Ihre Hilfe. Mit freundlichen Grüßen, Lin Wei",
+        "因临时工作变动请求改周二预约，周四九至十二或周五十四点后可。询问材料，已有课程信息可预发。明确问询尚非确认，等回复再改安排，并请告知房间。"
+      ],
+      "culture": "正式服务沟通通常先说明事项和已有预约，再提出具体请求。确认收到邮件不等于确认预约；不理解时可请对方分步骤说明，而不必假装听懂。",
+      "trans": [
+        [
+          "中→德：我的申请尚未处理。",
+          "Meine Anmeldung wurde noch nicht bearbeitet.",
+          "noch nicht尚未；过去动作被动。"
+        ],
+        [
+          "德→中：Bitte denken Sie daran, die Unterlagen mitzubringen.",
+          "请记得带上材料。",
+          "daran预告不定式；mitzubringen。"
+        ],
+        [
+          "英→德：I am waiting for your confirmation.",
+          "Ich warte auf Ihre Bestätigung.",
+          "warten auf＋第四格。"
+        ],
+        [
+          "德→英：Die Anfrage ist noch keine Buchung.",
+          "The inquiry is not yet a booking.",
+          "保留尚非确认的区别。"
+        ]
+      ]
+    },
+    {
+      "title": "学习与数字生活：评价一种方法",
+      "de": "Lernmethoden vergleichen und Meinungen begründen",
+      "goal": "用个人例子评价学习方法，承认限制并提出可检验的小调整。",
+      "keys": [
+        "concession",
+        "comparison",
+        "cause",
+        "reference",
+        "register"
+      ],
+      "vocab": [
+        [
+          "die Methode, -n",
+          "method",
+          "方法"
+        ],
+        [
+          "die Gewohnheit, -en",
+          "habit",
+          "习惯"
+        ],
+        [
+          "die Ablenkung, -en",
+          "distraction",
+          "分心因素"
+        ],
+        [
+          "die Konzentration, Sg.",
+          "concentration",
+          "专注"
+        ],
+        [
+          "die Notiz, -en",
+          "note",
+          "笔记"
+        ],
+        [
+          "der Bildschirm, -e",
+          "screen",
+          "屏幕"
+        ],
+        [
+          "die Übung, -en",
+          "exercise",
+          "练习"
+        ],
+        [
+          "der Fortschritt, -e",
+          "progress",
+          "进展"
+        ],
+        [
+          "die Wiederholung, -en",
+          "revision/repetition",
+          "复习重复"
+        ],
+        [
+          "das Ziel, -e",
+          "goal",
+          "目标"
+        ],
+        [
+          "abschalten",
+          "switch off",
+          "关闭"
+        ],
+        [
+          "ausprobieren",
+          "try out",
+          "尝试"
+        ],
+        [
+          "vergleichen",
+          "compare",
+          "比较"
+        ],
+        [
+          "behalten",
+          "retain",
+          "记住、保留"
+        ],
+        [
+          "sich konzentrieren auf",
+          "concentrate on",
+          "专注于"
+        ],
+        [
+          "regelmäßig",
+          "regularly",
+          "定期"
+        ],
+        [
+          "hilfreich",
+          "helpful",
+          "有帮助的"
+        ],
+        [
+          "selbstständig",
+          "independently",
+          "独立"
+        ],
+        [
+          "bewusst",
+          "consciously",
+          "有意识地"
+        ],
+        [
+          "allerdings",
+          "however",
+          "不过"
+        ]
+      ],
+      "dialogue": [
+        [
+          "A: Lernst du lieber mit einer App oder mit Papier?",
+          "你更喜欢应用还是纸张学习？"
+        ],
+        [
+          "B: Für kurze Wiederholungen nutze ich eine App.",
+          "短时复习我用应用。"
+        ],
+        [
+          "A: Ich werde am Handy schnell abgelenkt.",
+          "我用手机很容易分心。"
+        ],
+        [
+          "B: Das kenne ich. Deshalb schalte ich Nachrichten aus.",
+          "我也有这情况，所以关通知。"
+        ],
+        [
+          "A: Behältst du die Wörter dadurch besser?",
+          "这样记词更牢吗？"
+        ],
+        [
+          "B: Das weiß ich noch nicht. Ich übe zunächst regelmäßiger.",
+          "还不知道，只是先练得更规律。"
+        ],
+        [
+          "A: Auf Papier schreibe ich eigene Beispielsätze.",
+          "我在纸上写自己的例句。"
+        ],
+        [
+          "B: Das könnte ich auch versuchen.",
+          "我也可以试试。"
+        ],
+        [
+          "A: Obwohl eine App bequem ist, ersetzt sie kein Gespräch.",
+          "应用虽方便，但不能代替对话。"
+        ],
+        [
+          "B: Einverstanden. Wir könnten beides mit einem Gespräch verbinden.",
+          "同意，可以把两者都与对话结合。"
+        ],
+        [
+          "A: Lass uns nach zwei Wochen neue Wörter ohne Hilfe verwenden.",
+          "两周后我们不看提示使用新词。"
+        ],
+        [
+          "B: Dann prüfen wir mehr als nur die Zahl der Übungen.",
+          "这样检验的不只是练习次数。"
+        ]
+      ],
+      "mono": [
+        [
+          "Ich lerne täglich etwa zwanzig Minuten.",
+          "我每天学约二十分钟。"
+        ],
+        [
+          "Eine App erinnert mich an die Wiederholung.",
+          "应用提醒我复习。"
+        ],
+        [
+          "Allerdings lasse ich mich leicht von Nachrichten ablenken.",
+          "但消息很容易让我分心。"
+        ],
+        [
+          "Deshalb schalte ich sie während des Lernens aus.",
+          "所以学习时关通知。"
+        ],
+        [
+          "Neue Wörter verbinde ich mit eigenen Beispielen.",
+          "新词配自己的例子。"
+        ],
+        [
+          "Einmal pro Woche spreche ich mit einer Partnerin.",
+          "每周一次和伙伴说话。"
+        ],
+        [
+          "Dabei merke ich, welche Wörter ich wirklich benutzen kann.",
+          "这时发现哪些词能真正用。"
+        ],
+        [
+          "Die Methode passe ich an mein Ziel an.",
+          "我按目标调整方法。"
+        ]
+      ],
+      "listen": [
+        "B用应用做什么？关闭什么？是否已证明记得更牢？两周后如何检查？",
+        "短时复习；消息通知；没有；不用提示使用新词。"
+      ],
+      "speak": "讨论手机学习是否有帮助，各给亲身或虚构例子，承认一个限制。共同设计两周试验，约定时间、任务和成果证据。",
+      "writing": "写130至160词论坛帖：介绍方法，举例说优点，承认困难，与另一方法比较，提出下一步。",
+      "model": [
+        "Seit einigen Wochen wiederhole ich neue Wörter mit einer App. Für mich ist das praktisch, weil ich auch in kurzen Pausen üben kann. Früher habe ich meine Notizen oft zu Hause vergessen. Jetzt wiederhole ich regelmäßiger. Trotzdem würde ich nicht behaupten, dass ich dadurch automatisch besser spreche. Beim letzten Gespräch kannte ich mehrere Wörter auf dem Bildschirm, konnte sie aber nicht selbst verwenden. Deshalb schreibe ich inzwischen zu jedem wichtigen Wort einen eigenen Satz und erzähle meiner Lernpartnerin einmal pro Woche eine kurze Geschichte. Papier finde ich dafür manchmal hilfreicher, weil mich keine Nachrichten unterbrechen. Meiner Meinung nach muss man nicht eine einzige Methode wählen. Entscheidend ist, was man erreichen möchte. In den nächsten zwei Wochen will ich prüfen, ob ich neue Wörter auch ohne Auswahlmöglichkeiten benutzen kann. Erst danach entscheide ich, welche Übungen ich beibehalte.",
+        "应用方便利用短时间，比以前更规律；但识别屏幕词不等于能说。现在写例句并每周讲故事，纸张少通知打断。方法应适合目标，下两周测试无选项主动用词，再决定保留哪些练习。"
+      ],
+      "culture": "学习经验适合用für mich、bei dieser Aufgabe等限制范围。讨论数字工具时，区分操作方便、练习频率和实际能力进步，不把一次体验当普遍证据。",
+      "trans": [
+        [
+          "中→德：虽然我每天练习，但我仍需要对话。",
+          "Obwohl ich täglich übe, brauche ich weiterhin Gespräche.",
+          "让步从句末位，主句动词随后。"
+        ],
+        [
+          "德→中：Die App ist zwar praktisch, aber nicht für jede Aufgabe geeignet.",
+          "应用虽方便，却不适合每项任务。",
+          "nicht jede保留范围。"
+        ],
+        [
+          "英→德：This method is more helpful than the other one.",
+          "Diese Methode ist hilfreicher als die andere.",
+          "比较级配als。"
+        ],
+        [
+          "德→英：Dadurch übe ich regelmäßiger.",
+          "As a result, I practise more regularly.",
+          "dadurch回指前述做法。"
+        ]
+      ]
+    },
+    {
+      "title": "搬家与新环境：安排、回顾和改进",
+      "de": "Einen Umzug planen und Erfahrungen auswerten",
+      "goal": "规划搬家任务，说明位置与方向，回顾失误并提出有依据的改进。",
+      "keys": [
+        "counterfact",
+        "time",
+        "space",
+        "position",
+        "when"
+      ],
+      "vocab": [
+        [
+          "der Umzug, Umzüge",
+          "move",
+          "搬家"
+        ],
+        [
+          "die Kiste, -n",
+          "box",
+          "箱子"
+        ],
+        [
+          "der Schlüssel, -",
+          "key",
+          "钥匙"
+        ],
+        [
+          "die Übergabe, -n",
+          "handover",
+          "交接"
+        ],
+        [
+          "der Eingang, Eingänge",
+          "entrance",
+          "入口"
+        ],
+        [
+          "das Stockwerk, -e",
+          "floor",
+          "楼层"
+        ],
+        [
+          "der Aufzug, Aufzüge",
+          "lift",
+          "电梯"
+        ],
+        [
+          "die Adresse, -n",
+          "address",
+          "地址"
+        ],
+        [
+          "das Werkzeug, -e",
+          "tool",
+          "工具"
+        ],
+        [
+          "die Reihenfolge, -n",
+          "order",
+          "顺序"
+        ],
+        [
+          "einpacken",
+          "pack",
+          "装箱"
+        ],
+        [
+          "auspacken",
+          "unpack",
+          "拆箱"
+        ],
+        [
+          "beschriften",
+          "label",
+          "标注"
+        ],
+        [
+          "tragen",
+          "carry",
+          "搬运"
+        ],
+        [
+          "abstellen",
+          "put down",
+          "放下"
+        ],
+        [
+          "vorher",
+          "beforehand",
+          "事先"
+        ],
+        [
+          "nachher",
+          "afterwards",
+          "事后"
+        ],
+        [
+          "oben",
+          "upstairs",
+          "上面"
+        ],
+        [
+          "unten",
+          "downstairs",
+          "下面"
+        ],
+        [
+          "vorsichtig",
+          "careful",
+          "小心的"
+        ]
+      ],
+      "dialogue": [
+        [
+          "A: Wo sollen die Bücherkisten hin?",
+          "书箱放哪？"
+        ],
+        [
+          "B: Bitte ins Arbeitszimmer, neben den Schreibtisch.",
+          "请放进书房，书桌旁。"
+        ],
+        [
+          "A: Neben dem Schreibtisch stehen schon zwei Kisten.",
+          "书桌旁已经有两箱。"
+        ],
+        [
+          "B: Dann stellen wir die neuen vor das Regal.",
+          "那新箱放书架前。"
+        ],
+        [
+          "A: Hast du die Kisten vorher beschriftet?",
+          "你事先标箱子了吗？"
+        ],
+        [
+          "B: Leider nicht alle. Das kostet uns jetzt Zeit.",
+          "可惜没全标，现在费时间。"
+        ],
+        [
+          "A: Wenn wir das vorher gemacht hätten, hätten wir weniger gesucht.",
+          "如果提前标了，就不用找这么多。"
+        ],
+        [
+          "B: Stimmt. Aber jetzt machen wir zuerst einen freien Weg.",
+          "对，但现在先清出通道。"
+        ],
+        [
+          "A: Wem gebe ich den Wohnungsschlüssel?",
+          "钥匙给谁？"
+        ],
+        [
+          "B: Gib ihn bitte Eva. Sie wartet unten.",
+          "请给Eva，她在楼下。"
+        ],
+        [
+          "A: Wann bringen wir die leeren Kisten weg?",
+          "何时拿走空箱？"
+        ],
+        [
+          "B: Nachdem wir alles ausgepackt haben.",
+          "全部拆完后。"
+        ]
+      ],
+      "mono": [
+        [
+          "Am Samstag bin ich in eine neue Wohnung gezogen.",
+          "周六搬进新住处。"
+        ],
+        [
+          "Vorher hatte ich die wichtigsten Sachen eingepackt.",
+          "此前已装好最重要物品。"
+        ],
+        [
+          "Einige Kisten waren aber nicht beschriftet.",
+          "但部分箱子没标。"
+        ],
+        [
+          "Deshalb suchten wir lange nach dem Werkzeug.",
+          "因此找工具很久。"
+        ],
+        [
+          "Während Eva die Küche ordnete, baute ich den Tisch auf.",
+          "Eva整理厨房时我组桌子。"
+        ],
+        [
+          "Die schweren Kisten stellten wir zunächst in den Flur.",
+          "重箱先放进走廊。"
+        ],
+        [
+          "Rückblickend hätten wir den Weg früher freimachen sollen.",
+          "回看本该早点清通道。"
+        ],
+        [
+          "Beim nächsten Mal werde ich Räume und Reihenfolge vorher notieren.",
+          "下次提前记好房间与顺序。"
+        ]
+      ],
+      "listen": [
+        "书箱原拟放哪？为何费时间？钥匙给谁？何时移走空箱？",
+        "书房书桌旁；未全部标注；Eva；全部拆完后。"
+      ],
+      "speak": "用纸画三个房间。A说明物品去向，B复述位置并追问。再回顾一个虚构搬家失误，用过去假设提出不同做法。",
+      "writing": "写130至160词给帮助搬家的朋友：感谢、回顾两件事、说明一个问题、假设改进、下次计划。",
+      "model": [
+        "Liebe Eva, vielen Dank für deine Hilfe beim Umzug. Ohne dich hätten wir die vielen Kisten wahrscheinlich nicht an einem Tag ausgepackt. Besonders hilfreich war, dass du zuerst die Küche geordnet hast, während ich den Tisch aufgebaut habe. Leider hatte ich vorher nicht alle Kisten beschriftet. Deshalb mussten wir lange nach dem Werkzeug suchen. Wenn ich die Räume deutlich aufgeschrieben hätte, hätten wir die Sachen schneller an den richtigen Platz gebracht. Auch der Flur war zeitweise zu voll. Beim nächsten Umzug möchte ich zuerst festlegen, welche Wege frei bleiben müssen und welche Möbel wir zuerst brauchen. Die schweren Bücherkisten stehen inzwischen neben dem Regal im Arbeitszimmer. Ich werde sie morgen vollständig auspacken und dir dann die leeren Kisten zurückbringen. Hättest du am Sonntag Zeit für ein kleines Essen? Ich würde mich gern in Ruhe bedanken. Viele Grüße, Amir",
+        "感谢帮忙，先整理厨房、组桌；未标箱导致找工具久，走廊也拥堵。若标房间就更快，下次先定通道与优先家具。明日拆书箱后归还，邀请周日吃饭。"
+      ],
+      "culture": "帮助者对任务、时长和体力的承受不同，提前说明比临时假定“大家都会帮到底”更妥当。搬家语言训练强调请求、感谢和清楚分工，不提供住房法律建议。",
+      "trans": [
+        [
+          "中→德：请把箱子放到桌子下面。",
+          "Bitte stell die Kiste unter den Tisch.",
+          "方向目标用第四格。"
+        ],
+        [
+          "德→中：Die Kiste steht unter dem Tisch.",
+          "箱子在桌子下面。",
+          "位置用第三格。"
+        ],
+        [
+          "英→德：If I had asked earlier, I would have received help.",
+          "Wenn ich früher gefragt hätte, hätte ich Hilfe bekommen.",
+          "过去反事实，不陈述实际发生。"
+        ],
+        [
+          "德→英：Ich gebe ihn ihr morgen.",
+          "I will give it to her tomorrow.",
+          "两个代词先第四格ihn再第三格ihr；性别取决于所指名词。"
+        ]
+      ]
+    },
+    {
+      "title": "活动流程：从报名到现场说明",
+      "de": "Abläufe erklären und verständliche Hinweise schreiben",
+      "goal": "说明公开活动流程，写清对象、步骤和完成状态，改进容易误解的提示。",
+      "keys": [
+        "nominal",
+        "participle",
+        "passive",
+        "cases",
+        "purpose"
+      ],
+      "vocab": [
+        [
+          "der Ablauf, Abläufe",
+          "procedure",
+          "流程"
+        ],
+        [
+          "die Anleitung, -en",
+          "instruction",
+          "说明"
+        ],
+        [
+          "der Empfang, Sg.",
+          "reception",
+          "接待"
+        ],
+        [
+          "die Station, -en",
+          "station",
+          "站点"
+        ],
+        [
+          "das Namensschild, -er",
+          "name badge",
+          "姓名牌"
+        ],
+        [
+          "der Plan, Pläne",
+          "plan",
+          "计划图"
+        ],
+        [
+          "der Hinweis, -e",
+          "notice",
+          "提示"
+        ],
+        [
+          "die Ausgabe, -n",
+          "distribution",
+          "发放"
+        ],
+        [
+          "die Rückgabe, -n",
+          "return",
+          "归还"
+        ],
+        [
+          "die Warteliste, -n",
+          "waiting list",
+          "等候名单"
+        ],
+        [
+          "vorbereiten",
+          "prepare",
+          "准备"
+        ],
+        [
+          "verteilen",
+          "distribute",
+          "分发"
+        ],
+        [
+          "kennzeichnen",
+          "mark",
+          "标示"
+        ],
+        [
+          "zurückgeben",
+          "return",
+          "归还"
+        ],
+        [
+          "weiterleiten",
+          "forward",
+          "转交"
+        ],
+        [
+          "übersichtlich",
+          "clear/well organised",
+          "清晰的"
+        ],
+        [
+          "verständlich",
+          "understandable",
+          "易懂的"
+        ],
+        [
+          "geöffnet",
+          "open",
+          "已开放的"
+        ],
+        [
+          "wartend",
+          "waiting",
+          "等候的"
+        ],
+        [
+          "anschließend",
+          "afterwards",
+          "随后"
+        ]
+      ],
+      "dialogue": [
+        [
+          "A: Wo melden sich die Gäste für den Werkstatttag an?",
+          "工作坊日客人在哪登记？"
+        ],
+        [
+          "B: Am Empfang werden die Namen geprüft und Schilder ausgegeben.",
+          "接待处核姓名并发牌。"
+        ],
+        [
+          "A: Ist die Liste schon geprüft?",
+          "清单已经核过了吗？"
+        ],
+        [
+          "B: Ja, sie ist aktuell. Neue Anmeldungen kommen auf ein eigenes Blatt.",
+          "是，最新的，新报名另列。"
+        ],
+        [
+          "A: Was machen die wartenden Gäste?",
+          "等候者做什么？"
+        ],
+        [
+          "B: Sie bekommen einen Plan, damit sie die Stationen auswählen können.",
+          "发图，以便选站点。"
+        ],
+        [
+          "A: Sollen wir die Erklärung kürzer schreiben?",
+          "说明要写短些吗？"
+        ],
+        [
+          "B: Ja. Statt „Durchführung der Rückgabe“ schreiben wir „Bitte hier abgeben“.",
+          "对，把“执行归还”改为“请交到这里”。"
+        ],
+        [
+          "A: Und wer beantwortet Fragen?",
+          "谁回答问题？"
+        ],
+        [
+          "B: Die Kollegin mit dem grünen Schild.",
+          "戴绿色牌的女同事。"
+        ],
+        [
+          "A: Werden die Pläne nachher eingesammelt?",
+          "结束收回图吗？"
+        ],
+        [
+          "B: Nein, nur die Namensschilder werden zurückgegeben.",
+          "不，只还姓名牌。"
+        ]
+      ],
+      "mono": [
+        [
+          "Am Werkstatttag führen wir die Gäste durch drei Stationen.",
+          "工作坊日带客人参观三个站点。"
+        ],
+        [
+          "Zuerst werden die Namen am Empfang geprüft.",
+          "先在接待处核姓名。"
+        ],
+        [
+          "Danach erhält jede Person ein Namensschild.",
+          "随后每人拿姓名牌。"
+        ],
+        [
+          "Die wartenden Gäste können bereits den Plan lesen.",
+          "等候者可先读图。"
+        ],
+        [
+          "Wir verwenden kurze Sätze und klare Verben.",
+          "我们用短句和明确动词。"
+        ],
+        [
+          "Damit vermeiden wir unnötige Rückfragen.",
+          "这样避免不必要的追问。"
+        ],
+        [
+          "Am Ende werden nur die Schilder eingesammelt.",
+          "结束只收牌。"
+        ],
+        [
+          "Die Pläne dürfen die Gäste mitnehmen.",
+          "图可带走。"
+        ]
+      ],
+      "listen": [
+        "客人先做什么？新报名在哪记？谁答疑？最后还什么？",
+        "核姓名领牌；另纸；绿牌女同事；只还姓名牌，不还图。"
+      ],
+      "speak": "A首次到场，B解释三个步骤。A故意把“还姓名牌”理解为“还所有材料”，B用对比澄清。交换角色并更换活动。",
+      "writing": "写130至160词活动通知：对象、到场步骤、等待时能做什么、咨询人、结束归还要求。尽量使用明确动词。",
+      "model": [
+        "Liebe Gäste, wir freuen uns auf Ihren Besuch bei unserem Werkstatttag am Samstag. Bitte kommen Sie zuerst zum Empfang im Erdgeschoss. Dort wird Ihr Name auf der Anmeldeliste geprüft, und Sie erhalten ein Namensschild. Falls Sie sich noch nicht angemeldet haben, wenden Sie sich bitte an die Kollegin mit dem grünen Schild. Sie prüft, ob noch ein Platz frei ist. Während Sie warten, können Sie auf dem ausliegenden Plan unsere drei Stationen ansehen. Jede Führung beginnt mit einer kurzen Erklärung, damit alle wissen, welche Aufgaben sie ausprobieren können. Bitte bleiben Sie bei Ihrer Gruppe und fragen Sie nach, wenn ein Hinweis unklar ist. Am Ende geben Sie nur das Namensschild am Empfang zurück. Den Plan dürfen Sie behalten. Wir sammeln anschließend Rückmeldungen, um die Erklärungen für den nächsten Termin zu verbessern. Vielen Dank für Ihre Mitarbeit und viel Freude beim Entdecken!",
+        "周六工作坊先一楼登记核名领牌，未报名找绿牌同事查余位。等候读三站图，每场先讲解。不懂就问；最后只还姓名牌，图可留。收反馈改下次说明。"
+      ],
+      "culture": "公共提示语越短不一定越清楚。“Bitte hier abgeben”必须配明确物品或实际位置。可请第一次接触活动的人读一遍，观察他是否知道谁、何时、在哪里做什么。",
+      "trans": [
+        [
+          "中→德：等候的客人会得到一张图。",
+          "Die wartenden Gäste bekommen einen Plan.",
+          "第一分词定语加-en。"
+        ],
+        [
+          "德→中：Die Liste ist bereits geprüft.",
+          "清单已经核查完毕。",
+          "状态而非正在审核。"
+        ],
+        [
+          "英→德：The badges are collected at the end.",
+          "Die Namensschilder werden am Ende eingesammelt.",
+          "动作被动werden＋分词。"
+        ],
+        [
+          "德→英：Bitte geben Sie nur das Namensschild zurück.",
+          "Please return only the name badge.",
+          "nur限制归还对象。"
+        ]
+      ]
+    },
+    {
+      "title": "共同生活：预算、选择与可持续习惯",
+      "de": "Gemeinsame Mahlzeiten sinnvoll organisieren",
+      "goal": "比较共同做饭方案，协商饮食需求和预算，形成有条件的试行计划。",
+      "keys": [
+        "comparison",
+        "condition",
+        "cause",
+        "interaction",
+        "future"
+      ],
+      "vocab": [
+        [
+          "das Budget, -s",
+          "budget",
+          "预算"
+        ],
+        [
+          "die Portion, -en",
+          "portion",
+          "份"
+        ],
+        [
+          "die Zutat, -en",
+          "ingredient",
+          "食材"
+        ],
+        [
+          "der Vorrat, Vorräte",
+          "stock",
+          "储备"
+        ],
+        [
+          "der Rest, -e",
+          "leftover",
+          "剩余"
+        ],
+        [
+          "die Menge, -n",
+          "quantity",
+          "数量"
+        ],
+        [
+          "der Einkauf, Einkäufe",
+          "shopping",
+          "采购"
+        ],
+        [
+          "die Verpackung, -en",
+          "packaging",
+          "包装"
+        ],
+        [
+          "der Speiseplan, Speisepläne",
+          "menu plan",
+          "餐单"
+        ],
+        [
+          "die Alternative, -n",
+          "alternative",
+          "替代选项"
+        ],
+        [
+          "verbrauchen",
+          "use up",
+          "消耗"
+        ],
+        [
+          "aufbewahren",
+          "store",
+          "保存"
+        ],
+        [
+          "aufteilen",
+          "divide",
+          "分配"
+        ],
+        [
+          "vermeiden",
+          "avoid",
+          "避免"
+        ],
+        [
+          "berücksichtigen",
+          "take into account",
+          "考虑"
+        ],
+        [
+          "preiswert",
+          "good value",
+          "实惠的"
+        ],
+        [
+          "übrig",
+          "left over",
+          "剩下的"
+        ],
+        [
+          "gemeinsam",
+          "together",
+          "共同"
+        ],
+        [
+          "ausreichend",
+          "sufficient",
+          "足够的"
+        ],
+        [
+          "höchstens",
+          "at most",
+          "最多"
+        ]
+      ],
+      "dialogue": [
+        [
+          "A: Wollen wir nächsten Monat zweimal gemeinsam kochen?",
+          "下月一起做两次饭吗？"
+        ],
+        [
+          "B: Gern, aber wir brauchen ein klares Budget.",
+          "好，但需明确预算。"
+        ],
+        [
+          "A: Höchstens sechs Euro pro Person für die Zutaten?",
+          "每人食材最多六欧元？"
+        ],
+        [
+          "B: Das passt. Wir sollten vorher nach besonderen Wünschen fragen.",
+          "可以。提前问特殊需求。"
+        ],
+        [
+          "A: Wir könnten entweder Suppe oder ein Reisgericht machen.",
+          "可以煮汤或米饭类。"
+        ],
+        [
+          "B: Je genauer wir die Zahl kennen, desto besser können wir einkaufen.",
+          "人数越准，越好采购。"
+        ],
+        [
+          "A: Was machen wir, falls jemand kurzfristig absagt?",
+          "若有人临时取消呢？"
+        ],
+        [
+          "B: Dann passen wir die Menge an, solange noch nicht eingekauft wurde.",
+          "尚未采购就调数量。"
+        ],
+        [
+          "A: Ich werde die Zusagen bis Mittwoch sammeln.",
+          "我周三前收确认。"
+        ],
+        [
+          "B: Ich prüfe, welche Zutaten schon da sind.",
+          "我查已有食材。"
+        ],
+        [
+          "A: So kaufen wir nicht alles doppelt.",
+          "这样不重复买。"
+        ],
+        [
+          "B: Nach dem zweiten Abend vergleichen wir Kosten und Reste.",
+          "第二晚后比较花费与剩余。"
+        ]
+      ],
+      "mono": [
+        [
+          "Unsere Gruppe möchte öfter gemeinsam essen.",
+          "小组想更常一起吃饭。"
+        ],
+        [
+          "Wir beginnen mit zwei Abenden statt mit einer festen Wochenregel.",
+          "先试两晚，不立每周固定规则。"
+        ],
+        [
+          "Pro Person planen wir höchstens sechs Euro für Zutaten.",
+          "每人食材最多六欧。"
+        ],
+        [
+          "Vor dem Einkauf prüfen wir die vorhandenen Vorräte.",
+          "采购前查储备。"
+        ],
+        [
+          "Auch unterschiedliche Wünsche werden berücksichtigt.",
+          "也考虑不同需求。"
+        ],
+        [
+          "Wenn die Zahl der Gäste feststeht, teilen wir die Aufgaben auf.",
+          "人数确定后分工。"
+        ],
+        [
+          "Anschließend notieren wir Kosten und übrig gebliebene Mengen.",
+          "之后记费用和剩余量。"
+        ],
+        [
+          "So können wir den nächsten Einkauf genauer planen.",
+          "这样更准确规划下次采购。"
+        ]
+      ],
+      "listen": [
+        "试几晚？预算含什么？谁收确认何时前？第二晚后查什么？",
+        "两晚；每人食材最多六欧；A周三前；费用与剩余。"
+      ],
+      "speak": "A想预算低，B想每个人都有合适选择。比较两种菜单、确认人数与分工。评定者增加两名客人，两人调整采购计划。",
+      "writing": "写130至160词提议邮件：两次试行、预算、需求收集、采购前检查、分工和评价办法。",
+      "model": [
+        "Liebe Mitbewohnerinnen und Mitbewohner, ich schlage vor, dass wir im nächsten Monat zweimal gemeinsam kochen. So können wir ausprobieren, ob das zu unseren unterschiedlichen Arbeitszeiten passt. Für die Zutaten sollten wir höchstens sechs Euro pro Person einplanen. Bevor wir einen Speiseplan festlegen, möchte ich nach euren Wünschen fragen. Bitte schreibt mir bis Mittwoch, ob ihr teilnehmen könnt und welche Zutaten für euch nicht infrage kommen. Danach vergleichen wir zwei einfache Gerichte. Ich werde außerdem prüfen, welche Vorräte bereits vorhanden sind, damit wir nichts unnötig doppelt kaufen. Den Einkauf und das Aufräumen sollten wir auf mehrere Personen verteilen. Falls sich die Zahl der Gäste ändert, passen wir die Mengen möglichst vor dem Einkauf an. Nach dem zweiten Abend könnten wir notieren, wie viel wir ausgegeben haben und was übrig geblieben ist. Erst dann entscheiden wir, ob wir regelmäßig zusammen kochen möchten. Viele Grüße, Nora",
+        "下月试两次共餐，看看是否合工作时间。食材每人最多六欧，周三前收参与和不能用食材；比较两种菜，查储备，分采购清理。人数变更尽量采购前调整，两晚后看支出剩余再决定是否固定。"
+      ],
+      "culture": "邀请共餐时直接询问具体需要比按国籍推测饮食偏好可靠。食品保存与过敏处理须按实际专业信息办理；本单元只练习询问需求与分工的语言。",
+      "trans": [
+        [
+          "中→德：我们知道人数越早，越容易规划。",
+          "Je früher wir die Zahl kennen, desto leichter können wir planen.",
+          "je从句末位；desto短语占前场。"
+        ],
+        [
+          "德→中：Falls jemand absagt, passen wir die Menge an.",
+          "若有人取消，我们调整数量。",
+          "条件仍未必发生。"
+        ],
+        [
+          "英→德：We can either cook soup or order food.",
+          "Wir können entweder Suppe kochen oder Essen bestellen.",
+          "两项为平行不定式组。"
+        ],
+        [
+          "德→英：Wir geben höchstens sechs Euro pro Person aus.",
+          "We spend at most six euros per person.",
+          "höchstens是上限。"
+        ]
+      ]
+    },
+    {
+      "title": "信息与转述：准确传达而不添加",
+      "de": "Nachrichten prüfen und für andere zusammenfassen",
+      "goal": "对照两份消息，区分确认、预测和未知，为他人写准确摘要。",
+      "keys": [
+        "indirect",
+        "reference",
+        "negative",
+        "prep",
+        "infinitive"
+      ],
+      "vocab": [
+        [
+          "die Quelle, -n",
+          "source",
+          "来源"
+        ],
+        [
+          "die Meldung, -en",
+          "news item",
+          "消息"
+        ],
+        [
+          "die Aussage, -n",
+          "statement",
+          "陈述"
+        ],
+        [
+          "die Überschrift, -en",
+          "headline",
+          "标题"
+        ],
+        [
+          "die Angabe, -n",
+          "detail",
+          "所述信息"
+        ],
+        [
+          "die Vermutung, -en",
+          "assumption",
+          "推测"
+        ],
+        [
+          "der Unterschied, -e",
+          "difference",
+          "差异"
+        ],
+        [
+          "die Zusammenfassung, -en",
+          "summary",
+          "摘要"
+        ],
+        [
+          "die Änderung, -en",
+          "change",
+          "变更"
+        ],
+        [
+          "der Stand, Stände",
+          "status",
+          "当前状态"
+        ],
+        [
+          "prüfen",
+          "check",
+          "核查"
+        ],
+        [
+          "zusammenfassen",
+          "summarise",
+          "概括"
+        ],
+        [
+          "weitergeben",
+          "pass on",
+          "转达"
+        ],
+        [
+          "behaupten",
+          "claim",
+          "声称"
+        ],
+        [
+          "ergänzen",
+          "add",
+          "补充"
+        ],
+        [
+          "bisher",
+          "so far",
+          "目前为止"
+        ],
+        [
+          "laut",
+          "according to",
+          "据"
+        ],
+        [
+          "vermutlich",
+          "presumably",
+          "推测"
+        ],
+        [
+          "bestätigt",
+          "confirmed",
+          "已确认"
+        ],
+        [
+          "unbekannt",
+          "unknown",
+          "未知"
+        ]
+      ],
+      "dialogue": [
+        [
+          "A: Im Gruppenchat steht, dass die Bibliothek ganz schließt.",
+          "群聊说图书馆全关。"
+        ],
+        [
+          "B: Woher kommt diese Information?",
+          "消息来自哪里？"
+        ],
+        [
+          "A: Jemand hat nur die Überschrift weitergegeben.",
+          "有人只转了标题。"
+        ],
+        [
+          "B: Auf der Seite steht, dass der Lesesaal drei Tage geschlossen bleibt.",
+          "网页说阅览室关三天。"
+        ],
+        [
+          "A: Gilt das auch für die Ausleihe?",
+          "借书区也关吗？"
+        ],
+        [
+          "B: Nein, sie bleibt laut Mitteilung geöffnet.",
+          "不，通知说仍开放。"
+        ],
+        [
+          "A: Dann war die erste Nachricht zu allgemein.",
+          "那第一条太笼统。"
+        ],
+        [
+          "B: Außerdem ist noch nicht bekannt, wann die Arbeiten beginnen.",
+          "而且开工时间还未知。"
+        ],
+        [
+          "A: Ich bitte die Gruppe, die vollständige Mitteilung zu lesen.",
+          "我请大家读完整通知。"
+        ],
+        [
+          "B: Und du könntest die Unterschiede kurz zusammenfassen.",
+          "你也可简述区别。"
+        ],
+        [
+          "A: Ich schreibe dazu, von welchem Datum die Information stammt.",
+          "我会写信息日期。"
+        ],
+        [
+          "B: Gut. Offene Fragen sollten offen bleiben.",
+          "好，未知不要擅自补。"
+        ]
+      ],
+      "mono": [
+        [
+          "Ich habe zwei Nachrichten zur Bibliothek verglichen.",
+          "我比较了两条图书馆消息。"
+        ],
+        [
+          "Die erste klang nach einer vollständigen Schließung.",
+          "第一条听起来像全关闭。"
+        ],
+        [
+          "Die zweite nannte nur den Lesesaal.",
+          "第二条只指阅览室。"
+        ],
+        [
+          "Laut dieser Mitteilung bleibt die Ausleihe geöffnet.",
+          "据该通知借书区仍开。"
+        ],
+        [
+          "Der Beginn der Arbeiten ist noch nicht bestätigt.",
+          "工程开始尚未确认。"
+        ],
+        [
+          "Deshalb gebe ich kein erfundenes Datum weiter.",
+          "所以不转达编造日期。"
+        ],
+        [
+          "In meiner Zusammenfassung nenne ich Quelle und Stand.",
+          "摘要注明来源与当前日期。"
+        ],
+        [
+          "Bei einer neuen Mitteilung werde ich den Text aktualisieren.",
+          "有新通知会更新。"
+        ]
+      ],
+      "listen": [
+        "哪里关闭多久？借书区如何？什么未知？摘要应注明什么？",
+        "阅览室三天；仍开；工程开始时间；来源和信息日期。"
+      ],
+      "speak": "A拿到“活动取消”的群聊，B拿到“只有上午场改期”的完整通知。互问信息来源，合写三句摘要，明确仍缺的具体日期。",
+      "writing": "写130至160词给学习小组，纠正图书馆传闻：仅阅览室三天、借书区开、起始日未定、资料来源及下一步。",
+      "model": [
+        "Liebe Lerngruppe, im Chat wurde gestern geschrieben, dass unsere Bibliothek vollständig schließt. Ich habe inzwischen die ausführliche Mitteilung der Bibliothek gelesen und möchte einige Punkte klarstellen. Nach dem aktuellen Stand wird nur der Lesesaal für drei Tage geschlossen. Die Ausleihe bleibt geöffnet, sodass wir weiterhin Bücher abholen können. Wann die Arbeiten genau beginnen, ist jedoch noch nicht bestätigt. Deshalb sollten wir kein bestimmtes Datum in unseren Kalender eintragen, bevor eine neue Nachricht vorliegt. Die kurze Überschrift allein erklärt diese Unterschiede nicht. Bitte lest bei Bedarf die vollständige Mitteilung und achtet auch auf ihr Datum. Ich werde die Seite am Freitag noch einmal prüfen und euch informieren, falls es Neuigkeiten gibt. Für unser nächstes Treffen könnten wir vorsichtshalber einen anderen Raum suchen. Das bedeutet aber nicht, dass die ganze Bibliothek bereits geschlossen ist. Viele Grüße, Eva",
+        "纠正全馆关闭传闻：仅阅览室关三天、借书可继续，开始日未知。先别填确定日期，读全文看日期。周五再查并转告，可先找备用房，但不能说全馆已关。"
+      ],
+      "culture": "转发消息时保留来源、日期和限定词，是对接收者有用的沟通习惯。读到标题与正文不一致时，先查完整范围，再使用“据该通知”标明依据。",
+      "trans": [
+        [
+          "中→德：我不知道工程何时开始。",
+          "Ich weiß nicht, wann die Arbeiten beginnen.",
+          "间接问句末位。"
+        ],
+        [
+          "德→中：Bisher wurde nur der Termin am Vormittag geändert.",
+          "目前只改了上午的时间。",
+          "bisher和nur均不可遗漏。"
+        ],
+        [
+          "英→德：Please ask them to read the whole message.",
+          "Könntest du sie bitten, die ganze Nachricht zu lesen?",
+          "用礼貌请求表达ask；bitten的宾语sie是不定式lesen的行动者。"
+        ],
+        [
+          "德→英：Laut der Mitteilung bleibt die Ausleihe geöffnet.",
+          "According to the notice, the lending service remains open.",
+          "保留来源，不推广到全馆。"
+        ]
+      ]
+    },
+    {
+      "title": "讨论与共识：组织一次小型辩论",
+      "de": "Argumente austauschen und einen Kompromiss finden",
+      "goal": "围绕熟悉话题表达立场、回应异议，形成兼顾限制的共同提案。",
+      "keys": [
+        "links",
+        "concession",
+        "interaction",
+        "request",
+        "position"
+      ],
+      "vocab": [
+        [
+          "die Diskussion, -en",
+          "discussion",
+          "讨论"
+        ],
+        [
+          "der Vorschlag, Vorschläge",
+          "proposal",
+          "提议"
+        ],
+        [
+          "der Einwand, Einwände",
+          "objection",
+          "异议"
+        ],
+        [
+          "der Kompromiss, -e",
+          "compromise",
+          "折中方案"
+        ],
+        [
+          "die Zustimmung, Sg.",
+          "agreement",
+          "赞同"
+        ],
+        [
+          "die Ablehnung, -en",
+          "rejection",
+          "拒绝"
+        ],
+        [
+          "die Rücksicht, Sg.",
+          "consideration",
+          "顾及"
+        ],
+        [
+          "der Zugang, Zugänge",
+          "access",
+          "通道、进入方式"
+        ],
+        [
+          "die Ausnahme, -n",
+          "exception",
+          "例外"
+        ],
+        [
+          "die Lösung, -en",
+          "solution",
+          "方案"
+        ],
+        [
+          "zustimmen",
+          "agree",
+          "赞同"
+        ],
+        [
+          "ablehnen",
+          "reject",
+          "拒绝"
+        ],
+        [
+          "unterbrechen",
+          "interrupt",
+          "打断"
+        ],
+        [
+          "vorschlagen",
+          "suggest",
+          "建议"
+        ],
+        [
+          "sich einigen auf",
+          "agree on",
+          "就…达成一致"
+        ],
+        [
+          "grundsätzlich",
+          "in principle",
+          "原则上"
+        ],
+        [
+          "teilweise",
+          "partly",
+          "部分"
+        ],
+        [
+          "dennoch",
+          "nevertheless",
+          "尽管如此"
+        ],
+        [
+          "fair",
+          "fair",
+          "公平的"
+        ],
+        [
+          "vorläufig",
+          "provisional",
+          "暂定的"
+        ]
+      ],
+      "dialogue": [
+        [
+          "A: Soll unser Hof am Festtag ohne Autos bleiben?",
+          "节庆那天院子禁车吗？"
+        ],
+        [
+          "B: Grundsätzlich finde ich das gut. Kinder hätten mehr Platz.",
+          "原则上赞同，孩子空间更大。"
+        ],
+        [
+          "A: Dann schließen wir die Zufahrt den ganzen Tag.",
+          "那全天封车道。"
+        ],
+        [
+          "B: Einen Moment. Einige Gäste können nicht weit laufen.",
+          "等等，有客人不能走远。"
+        ],
+        [
+          "A: Du meinst, wir brauchen einen Zugang zum Aussteigen?",
+          "意思是需要让客人下车的入口？"
+        ],
+        [
+          "B: Ja, außerdem müssen Materialien geliefert werden.",
+          "对，还得运材料。"
+        ],
+        [
+          "A: Könnten Lieferungen vor zehn stattfinden?",
+          "送货能十点前吗？"
+        ],
+        [
+          "B: Das wäre möglich. Für Gäste brauchen wir aber auch später eine Lösung.",
+          "可以，但客人晚些也需办法。"
+        ],
+        [
+          "A: Dann lassen wir eine betreute Zufahrt an der Seite frei.",
+          "那侧面保留有人员照看的车道。"
+        ],
+        [
+          "B: Damit kann ich leben, solange der Spielbereich getrennt bleibt.",
+          "只要和游戏区分开我能接受。"
+        ],
+        [
+          "A: Ich schicke dir den Vorschlag heute Abend.",
+          "今晚发你提案。"
+        ],
+        [
+          "B: Gut. Die Leitung muss ihn noch bestätigen.",
+          "好，还需负责人确认。"
+        ]
+      ],
+      "mono": [
+        [
+          "Unser Hof soll am Festtag mehr Platz für Begegnungen bieten.",
+          "节庆院子要提供更多交流空间。"
+        ],
+        [
+          "Ich unterstütze deshalb einen Bereich ohne parkende Autos.",
+          "所以支持不停车的区域。"
+        ],
+        [
+          "Trotzdem müssen wir unterschiedliche Bedürfnisse berücksichtigen.",
+          "仍需考虑不同需求。"
+        ],
+        [
+          "Einige Gäste brauchen einen kurzen Weg bis zum Eingang.",
+          "有客人需要到入口的短路径。"
+        ],
+        [
+          "Auch Lieferungen müssen möglich bleiben.",
+          "配送也要可行。"
+        ],
+        [
+          "Wir schlagen eine getrennte Zufahrt an der Seite vor.",
+          "建议侧面独立车道。"
+        ],
+        [
+          "Dieser Vorschlag ist noch keine endgültige Entscheidung.",
+          "提案还不是最终决定。"
+        ],
+        [
+          "Vor der Umsetzung fragen wir die zuständige Leitung.",
+          "实施前问负责人。"
+        ]
+      ],
+      "listen": [
+        "B原则是否支持？两项异议是什么？侧道要求如何？是否已获批准？",
+        "支持；客人行走困难、材料配送；专人照看并与游戏区分开；尚未。"
+      ],
+      "speak": "两人讨论校园或社区活动是否设无车区。每人两点理由和一个例子，复述对方顾虑，再提共同方案。教师增加“侧门不可用”，重新回应。",
+      "writing": "写130至160词会议摘要：双方理由、具体需求、共同提案、未决问题、确认责任与时间。",
+      "model": [
+        "Bei unserer Besprechung ging es darum, ob der Hof am Festtag ohne Autos bleiben soll. Viele fanden die Idee sinnvoll, weil dadurch mehr Platz für Spiele und Gespräche entsteht. Allerdings wurde auch darauf hingewiesen, dass einige Gäste nicht weit laufen können und Materialien angeliefert werden müssen. Deshalb haben wir nicht einfach eine vollständige Sperrung vorgeschlagen. Unser gemeinsamer Vorschlag ist, den größten Teil des Hofes frei zu halten und eine getrennte Zufahrt an der Seite zu ermöglichen. Lieferungen sollten möglichst vor zehn Uhr erfolgen. Für das kurze Aussteigen von Gästen brauchen wir auch später eine betreute Möglichkeit. Noch ist nicht geklärt, wer diese Aufgabe übernehmen kann. Ich werde den Vorschlag heute an die Leitung schicken und um eine Rückmeldung bis Mittwoch bitten. Erst nach ihrer Bestätigung können wir den endgültigen Plan veröffentlichen und die Helferinnen und Helfer informieren.",
+        "讨论无车院：利于游戏交流，但需照顾走不远客人和配送。建议大部空出、侧面独立通道，送货尽量十点前，之后有人照看临停下客。人员未定，今日发负责人请求周三前回复，确认后发布并通知志愿者。"
+      ],
+      "culture": "讨论中“我理解你的顾虑”不表示已接受全部方案。有效协商需复述具体限制，记录谁有权确认，避免把讨论中的点头写成正式批准。",
+      "trans": [
+        [
+          "中→德：虽然我支持这个想法，但我们仍需要例外安排。",
+          "Obwohl ich die Idee unterstütze, brauchen wir eine Ausnahmeregelung.",
+          "让步和实际需求并存。"
+        ],
+        [
+          "德→中：Wir haben uns auf einen Vorschlag geeinigt, nicht auf die Umsetzung.",
+          "我们就提案达成一致，并非就实施达成一致。",
+          "对比否定限定一致范围。"
+        ],
+        [
+          "英→德：Could we consider another possibility?",
+          "Könnten wir eine andere Möglichkeit berücksichtigen?",
+          "第二虚拟式使建议委婉。"
+        ],
+        [
+          "德→英：Ich schicke ihn dir heute Abend.",
+          "I will send it to you this evening.",
+          "两个代词第四格在第三格前。"
+        ]
+      ]
+    },
+    {
+      "title": "B1结业项目：回顾、展示与下一步",
+      "de": "Lernfortschritte zeigen und nächste Schritte planen",
+      "goal": "完成有证据的学习档案，作简短展示并回应追问，制定进入B2前的巩固计划。",
+      "keys": [
+        "time",
+        "counterfact",
+        "nominal",
+        "participle",
+        "relative"
+      ],
+      "vocab": [
+        [
+          "das Lernziel, -e",
+          "learning goal",
+          "学习目标"
+        ],
+        [
+          "das Beispiel, -e",
+          "example",
+          "例子"
+        ],
+        [
+          "der Entwurf, Entwürfe",
+          "draft",
+          "初稿"
+        ],
+        [
+          "die Überarbeitung, -en",
+          "revision",
+          "修改"
+        ],
+        [
+          "die Aufnahme, -n",
+          "recording",
+          "录音"
+        ],
+        [
+          "die Selbsteinschätzung, -en",
+          "self-assessment",
+          "自评"
+        ],
+        [
+          "die Rückfrage, -n",
+          "follow-up question",
+          "追问"
+        ],
+        [
+          "die Stärke, -n",
+          "strength",
+          "长处"
+        ],
+        [
+          "die Schwierigkeit, -en",
+          "difficulty",
+          "困难"
+        ],
+        [
+          "der nächste Schritt, die nächsten Schritte",
+          "next step",
+          "下一步"
+        ],
+        [
+          "überarbeiten",
+          "revise",
+          "修改"
+        ],
+        [
+          "belegen",
+          "support with evidence",
+          "举证"
+        ],
+        [
+          "vorstellen",
+          "present",
+          "展示"
+        ],
+        [
+          "einschätzen",
+          "assess",
+          "评估"
+        ],
+        [
+          "festhalten",
+          "record",
+          "记录"
+        ],
+        [
+          "zusammenhängend",
+          "coherent",
+          "连贯的"
+        ],
+        [
+          "spontan",
+          "spontaneous",
+          "即时的"
+        ],
+        [
+          "verständlich",
+          "understandable",
+          "可理解的"
+        ],
+        [
+          "gezielt",
+          "targeted",
+          "有针对性的"
+        ],
+        [
+          "weiterhin",
+          "still/further",
+          "仍然、继续"
+        ]
+      ],
+      "dialogue": [
+        [
+          "A: Was möchtest du in deinem Abschlussgespräch zeigen?",
+          "结业面谈想展示什么？"
+        ],
+        [
+          "B: Eine alte und eine überarbeitete E-Mail sowie zwei Aufnahmen.",
+          "旧邮件、修改稿和两段录音。"
+        ],
+        [
+          "A: Woran erkennst du deinen Fortschritt?",
+          "怎么识别进步？"
+        ],
+        [
+          "B: Die neue E-Mail nennt den Anlass und die Bitte klarer.",
+          "新邮件事由请求更清楚。"
+        ],
+        [
+          "A: Und bei den Aufnahmen?",
+          "录音呢？"
+        ],
+        [
+          "B: Ich kann länger zusammenhängend sprechen, brauche aber noch Pausen.",
+          "我连贯讲得更长，但还需停顿。"
+        ],
+        [
+          "A: Hast du auch eine neue Aufgabe ohne Vorlage versucht?",
+          "还做了无范文的新任务吗？"
+        ],
+        [
+          "B: Ja. Dabei fehlten mir Wörter für eine unerwartete Rückfrage.",
+          "做了，意外追问时缺词。"
+        ],
+        [
+          "A: Was wäre früher hilfreich gewesen?",
+          "以前什么可能有帮助？"
+        ],
+        [
+          "B: Wenn ich öfter frei gesprochen hätte, wäre ich vielleicht sicherer.",
+          "若更常自由表达，可能更有把握。"
+        ],
+        [
+          "A: Was planst du jetzt?",
+          "现在计划什么？"
+        ],
+        [
+          "B: Jede Woche ein neues Gespräch und eine kurze Auswertung.",
+          "每周一段新对话并简短复盘。"
+        ]
+      ],
+      "mono": [
+        [
+          "Mein Lernordner enthält nicht nur fertige Texte.",
+          "档案不只有成稿。"
+        ],
+        [
+          "Ich bewahre auch Entwürfe und Rückmeldungen auf.",
+          "也保留初稿和反馈。"
+        ],
+        [
+          "So kann ich die Überarbeitung nachvollziehen.",
+          "这样看得出修改过程。"
+        ],
+        [
+          "Beim Sprechen helfen mir inzwischen Stichwörter.",
+          "如今关键词能帮助口语。"
+        ],
+        [
+          "Unerwartete Fragen bleiben eine Herausforderung.",
+          "意外提问仍是挑战。"
+        ],
+        [
+          "Deshalb übe ich neue Situationen ohne vollständigen Text.",
+          "所以练习不带全文的新情境。"
+        ],
+        [
+          "Die bestandenen Übungen sind Hinweise auf Fortschritte.",
+          "通过练习是进步线索。"
+        ],
+        [
+          "Für eine sichere Einschätzung brauche ich mehrere neue Aufgaben.",
+          "可靠评价需要多项新任务。"
+        ]
+      ],
+      "listen": [
+        "展示哪些材料？邮件改进何处？新任务困难？下一步安排？",
+        "旧和修改邮件、两录音；事由请求更清楚；意外追问缺词；每周新对话及复盘。"
+      ],
+      "speak": "准备3分钟结业展示：一个初稿与改稿、一段口语对比、一个新任务困难、两项下一步。伙伴问两道未预告问题，允许澄清和改述。",
+      "writing": "写130至160词学习回顾：入门状态、具体改变、证据、仍有困难、可执行的四周安排。不要仅写“水平提高了”。",
+      "model": [
+        "Als ich diesen Kurs begann, konnte ich viele einzelne Sätze bilden, aber längere Gespräche machten mir noch Schwierigkeiten. Inzwischen gelingt es mir besser, eine Erfahrung mit Anfang, Problem und Ergebnis zu erzählen. Das sehe ich an zwei Aufnahmen, die ich im Abstand von mehreren Wochen gemacht habe. Auch meine E-Mails sind klarer geworden: In der überarbeiteten Fassung nenne ich zuerst den Anlass und formuliere dann eine konkrete Bitte. Trotzdem brauche ich weiterhin Übung. Bei einer neuen mündlichen Aufgabe wusste ich nicht sofort, wie ich auf eine unerwartete Frage reagieren sollte. Wenn ich früher häufiger ohne vollständigen Text gesprochen hätte, wäre ich vielleicht sicherer geworden. Für die nächsten vier Wochen plane ich deshalb jede Woche ein freies Gespräch und eine kurze schriftliche Auswertung. Außerdem werde ich zwei neue Texte lesen und ihre Hauptaussagen ohne Vorlage zusammenfassen. Danach überprüfe ich meine Ziele erneut.",
+        "开始能造句但长对话难，现在能按开头问题结果讲经历，两段间隔录音作证。邮件先事由再请求。新口语题意外追问仍难；若更早脱稿练可能更稳。后四周每周自由对话加书面复盘，另读两篇新文脱稿概括，再查目标。"
+      ],
+      "culture": "B1.1至B1.4是本系列的内部教学分册，并非四个独立官方等级。完成本册可用于B1整合复习；是否进入B2应结合新材料表现、互动稳定性及实际需要判断。",
+      "trans": [
+        [
+          "中→德：我保留了修改后的版本。",
+          "Ich habe die überarbeitete Fassung aufbewahrt.",
+          "定冠词阴性单数第四格后，分词定语加-e；可分动词完成式aufbewahrt。"
+        ],
+        [
+          "德→中：Die Aufgaben, die ich ohne Hilfe lösen kann, zeigen meine Fortschritte.",
+          "我能独立解决的任务显示我的进步。",
+          "关系代词die作lösen宾语。"
+        ],
+        [
+          "英→德：If I had practised more, I might have been more confident.",
+          "Wenn ich mehr geübt hätte, wäre ich vielleicht sicherer gewesen.",
+          "过去反事实与vielleicht共同保留不确定性。"
+        ],
+        [
+          "德→英：Beim Sprechen helfen mir Stichwörter.",
+          "Keywords help me when speaking.",
+          "名词化不定式Sprechen大写。"
+        ]
+      ]
+    }
+  ],
+  "grammar": {
+    "time": {
+      "title": "叙事的时间层次：Perfekt、Präteritum与Plusquamperfekt",
+      "explain": "先画时间线，再选时态。口头叙事常用Perfekt：ich habe gelernt；sein、haben和情态动词常用Präteritum：ich war、hatte、musste。书面故事常以Präteritum推进。Plusquamperfekt由hatte或war加第二分词构成，表示相对某个过去时点更早发生：Als ich ankam, hatte der Kurs begonnen。它不是“很久以前”的专用时态；同一段中无需每句都保持过去完成时。交代先前事件后可回到叙事主线。haben/sein的选择与Perfekt一致：hatte gelernt、war angekommen。现在的评价用Präsens，使“那时发生”和“现在认为”分开。",
+      "examples": [
+        [
+          "Als ich ankam, hatte die Führung schon begonnen.",
+          "我到达时导览已经开始了。"
+        ],
+        [
+          "Damals war ich unsicher. Heute frage ich schneller nach.",
+          "当时我不确定，现在我会更快追问。"
+        ]
+      ],
+      "error": "不能只因出现gestern就用过去完成时；必须存在过去参照点。",
+      "task": "合并：Ich kaufte eine Karte. Danach fuhr ich zum Museum. 用nachdem。",
+      "answer": "Nachdem ich eine Karte gekauft hatte, fuhr ich zum Museum. 买票早于乘车。"
+    },
+    "when": {
+      "title": "时间连接：als、wenn、während与bevor",
+      "explain": "als用于过去一次事件或一个过去阶段：Als ich ein Kind war...；“阶段持续很久”不妨碍用als。wenn用于现在未来的时间条件，也用于过去反复：Immer wenn ich dort war...。während表达同时发生，也可表示对比，须看语境。bevor表达在另一事件之前，不自动要求某个固定时态。四者均引导变位动词末位的从句；前置从句整体占主句前场，因此紧接主句变位动词。时间连词不负责决定事实是否已经完成，仍要读时态、时间词和上下文。",
+      "examples": [
+        [
+          "Als ich zum ersten Mal dort war, kannte ich niemanden.",
+          "第一次去那里时我谁也不认识。"
+        ],
+        [
+          "Während Nora kocht, deckt Ben den Tisch.",
+          "Nora做饭时Ben摆餐具。"
+        ]
+      ],
+      "error": "德语“当我昨天到达”用als；when不能机械一律译成wenn。",
+      "task": "填空：___ ich gestern ankam, wartete Eva schon.",
+      "answer": "Als。昨天的一次到达。"
+    },
+    "links": {
+      "title": "连贯表达：主句副词与并列连词",
+      "explain": "deshalb、trotzdem、außerdem、danach等副词可占前场，后面动词第二位：Danach ging ich。und、aber、oder、denn是并列连词，本身不占前场：..., aber ich blieb。weil、obwohl、nachdem则引导末位动词从句。不要只背中文意思，应同时记“关系+句型”。deshalb连接原因到结果；trotzdem连接与预期相反的结果；danach只说先后，不自动证明因果。一个前场可以是长短语或整个从句，“第二位”是第二句法成分而非第二个单词。",
+      "examples": [
+        [
+          "Der Bus fiel aus. Deshalb gingen wir zu Fuß.",
+          "公交取消，所以我们走路。"
+        ],
+        [
+          "Es regnete, aber wir blieben draußen.",
+          "下雨了，但我们留在外面。"
+        ]
+      ],
+      "error": "Deshalb wir gingen错误；danach和deshalb不能无条件互换。",
+      "task": "改错：Trotzdem wir haben weitergemacht.",
+      "answer": "Trotzdem haben wir weitergemacht. 变位助动词第二位，分词句末。"
+    },
+    "relative": {
+      "title": "关系从句：先行词决定性数，句内功能决定格",
+      "explain": "先找到被修饰名词，再看代词在关系从句里做什么。der Mann, den ich kenne中Mann阳性，但kennen需要第四格宾语，所以den；die Frau, der ich helfe中helfen支配第三格，所以der。介词也决定格：mit dem、für die。复数第三格关系代词是denen，不是den。关系从句用逗号分隔，变位动词末位；主句成分可在从句后继续。关系词不要按其在主句中的格照抄，中文“的”也不必逐个翻成关系从句。B1收尾应能用一层从句澄清对象，避免连续嵌套。",
+      "examples": [
+        [
+          "Das ist der Kollege, dem ich geholfen habe.",
+          "那是我帮助过的同事。"
+        ],
+        [
+          "Die Leute, mit denen ich reise, wohnen hier.",
+          "和我旅行的那些人住这里。"
+        ]
+      ],
+      "error": "helfen不是第四格；mit复数关系代词为denen。",
+      "task": "Die Frau, mit ___ ich gesprochen habe, kommt morgen.",
+      "answer": "der。Frau阴性，mit支配第三格。"
+    },
+    "cases": {
+      "title": "名词组检查：冠词、形容词词尾与弱变化名词",
+      "explain": "检查顺序是性数、句内格、冠词类型，再确定形容词词尾。定冠词已标明较多语法信息：mit dem neuen Kollegen；不定冠词主格阳性未显词尾，所以ein neuer Kollege；零冠词常需较强词尾，如mit frischem Brot。定冠词后单数主格及阴性中性第四格形容词通常-e，其余常-en；复数定冠词后-en。Kollege等弱变化阳性名词除单数主格外加-n/-en：den Kollegen、dem Kollegen、des Kollegen，复数die Kollegen。词尾不能靠“前面有-e所以后面也-e”猜。",
+      "examples": [
+        [
+          "Ich spreche mit einem neuen Kollegen.",
+          "我和一位新同事交谈。"
+        ],
+        [
+          "Wir suchen einen ruhigen Raum.",
+          "我们找一个安静的房间。"
+        ]
+      ],
+      "error": "einem只显示冠词，Kollege仍需变成Kollegen。",
+      "task": "补全：mit einem freundlich___ Kolleg___。",
+      "answer": "mit einem freundlichen Kollegen。两空都是-en。"
+    },
+    "request": {
+      "title": "礼貌与建议：könnte、würde、sollte",
+      "explain": "第二虚拟式在礼貌请求中不表示过去。Könnten Sie...？比Können Sie...？更委婉；Ich würde gern...表达愿望；Wir sollten...提出建议。würde加不定式形成动词框架，但sein、haben、情态动词优先用wäre、hätte、könnte等常用形式。礼貌程度还取决于称呼、上下文和语气，不能认为加würde就自动得体。明确具体动作、截止时间和对方可回应的选项，比无限添加bitte更有效。sollte也可能是sollen过去式，需结合时间判断。",
+      "examples": [
+        [
+          "Könnten Sie mir den neuen Termin bestätigen?",
+          "您能确认新时间吗？"
+        ],
+        [
+          "Wir sollten zuerst die Kosten vergleichen.",
+          "我们应先比较费用。"
+        ]
+      ],
+      "error": "würde加原形，不加已变位动词；könnte不是“过去能够”的默认形式。",
+      "task": "把Schicken Sie mir die Übersicht改为礼貌请求。",
+      "answer": "Könnten Sie mir bitte die Übersicht schicken? 其他清楚得体表达亦可。"
+    },
+    "condition": {
+      "title": "现实条件与现在假设：wenn、falls和第二虚拟式",
+      "explain": "可能实现的安排通常用直陈式：Wenn der Zug ausfällt, nehmen wir den Bus。falls突出“如果出现这种情况”，并不自动要求虚拟式。与现实不同或保持距离的设想可用第二虚拟式：Wenn ich mehr Zeit hätte, würde ich länger bleiben。条件从句动词末位，主句würde第二位、原形末位。不要从wenn本身判断真假，也不要把英文将来时规则机械搬来；德语现在时结合明天等时间词即可谈将来。省略wenn时可以动词前置Hätte ich...，本册先识别。",
+      "examples": [
+        [
+          "Falls es morgen regnet, treffen wir uns drinnen.",
+          "如果明天下雨，我们在室内见。"
+        ],
+        [
+          "Wenn ich frei hätte, würde ich mitkommen.",
+          "如果我有空，就会一起去。"
+        ]
+      ],
+      "error": "Falls ... würde不是唯一形式；现实安排常用Präsens。",
+      "task": "改为不现实设想：Ich habe mehr Geld. Ich reise länger.",
+      "answer": "Wenn ich mehr Geld hätte, würde ich länger reisen."
+    },
+    "indirect": {
+      "title": "间接问题与信息来源：ob、疑问词和dass",
+      "explain": "是否问题用ob：Ich weiß nicht, ob der Raum frei ist。带疑问词的问题保留wann、wo、warum等，变位动词同样末位。外层若为陈述句，句末通常句号；外层若为Können Sie mir sagen...的直接问句，则用问号。dass转述陈述而非“是否”。转述需调整人称、时间和地点：某人在周一说morgen，周三复述可明确am Dienstag。Laut der Nachricht...也可标明来源。第一虚拟式sei、habe常见于正式转述，本册重在识别，不要求系统替代所有dass直陈式。",
+      "examples": [
+        [
+          "Können Sie mir sagen, wann der Kurs beginnt?",
+          "您能告诉我课程何时开始吗？"
+        ],
+        [
+          "In der Nachricht steht, dass der Raum geändert wurde.",
+          "消息说房间改了。"
+        ]
+      ],
+      "error": "Ich frage, wann beginnt der Kurs错误；从句beginnt置后。",
+      "task": "改间接问句：Ist der Eintritt frei? 开头Ich möchte wissen。",
+      "answer": "Ich möchte wissen, ob der Eintritt frei ist. ob引是否从句。"
+    },
+    "purpose": {
+      "title": "目的、方式与结果：damit、um...zu、indem、sodass",
+      "explain": "目的回答“为了什么”：Ich schreibe, damit du Bescheid weißt。um...zu通常要求不定式的隐含行动者与主句行动者一致：Ich schreibe, um dich zu informieren。不同主语用damit更清楚。方式回答“怎么做到”：Wir sparen Zeit, indem wir die Aufgaben verteilen。sodass说明结果：Der Raum war voll, sodass einige stehen mussten。目的未必实现，结果则在语境中作为后果陈述。四种关系不能凭中文“这样就”混用；先写动作、行动者和关系，再选句式。",
+      "examples": [
+        [
+          "Wir sprechen langsam, damit alle folgen können.",
+          "我们慢慢讲，以便所有人能跟上。"
+        ],
+        [
+          "Wir sparen Papier, indem wir beide Seiten bedrucken.",
+          "我们双面打印来省纸。"
+        ]
+      ],
+      "error": "Ich schreibe, um du...不成立；不同主语用damit。",
+      "task": "用目的从句合并：Ich schicke dir den Plan. Du kannst dich vorbereiten.",
+      "answer": "Ich schicke dir den Plan, damit du dich vorbereiten kannst."
+    },
+    "future": {
+      "title": "计划、预测与承诺：Präsens和Futur I",
+      "explain": "德语谈将来常用现在时加时间：Morgen rufe ich an。Futur I为werden变位加不定式：Ich werde anrufen，可表达将来、意愿或预测，也能对现在作推测：Er wird zu Hause sein。时间由上下文决定，形式本身不保证事情发生。Ich werde versuchen...承诺尝试，不等于承诺结果；voraussichtlich、wahrscheinlich降低确定性。注意词义werden：Es wird kalt是“变冷”，后面没有不定式，不能简单标为Futur I。交接应区分自己可控制的行动和他人尚未确认的决定。",
+      "examples": [
+        [
+          "Ich werde dir bis Freitag antworten.",
+          "我会在周五前答复你。"
+        ],
+        [
+          "Der Termin findet voraussichtlich im Mai statt.",
+          "活动预计五月举行。"
+        ]
+      ],
+      "error": "wird加过去分词常是被动，不一定是将来；wird geöffnet是被打开。",
+      "task": "把Ich schicke den Bericht加入明天，用两种形式表达。",
+      "answer": "Morgen schicke ich den Bericht. / Ich werde den Bericht morgen schicken. 均可。"
+    },
+    "passive": {
+      "title": "动作被动与状态被动：werden和sein",
+      "explain": "动作被动强调发生过程：Die Tür wird geöffnet，结构werden加第二分词。状态被动描述结果状态：Die Tür ist geöffnet。过去动作可用wurde geöffnet；完成时为ist geöffnet worden，注意worden而非geworden，后者常用于词义“变成”。有情态动词时：Die Tür muss geöffnet werden，末尾形成分词加werden框架。第四格宾语可转主语，原第三格不因此变主格：Dem Gast wird geholfen是无人称被动。B1重点掌握常用过程与结果，对复杂被动保持理解即可。",
+      "examples": [
+        [
+          "Die Unterlagen werden heute geprüft.",
+          "材料今天接受检查。"
+        ],
+        [
+          "Die Unterlagen sind bereits geprüft.",
+          "材料已处于审核完成状态。"
+        ]
+      ],
+      "error": "Die Unterlagen sind geprüft worden说完成了检查动作；不要误写geworden。",
+      "task": "改动作被动：Das Team informiert die Gäste.",
+      "answer": "Die Gäste werden vom Team informiert. 原宾语Gäste成为主语。"
+    },
+    "infinitive": {
+      "title": "zu不定式：控制关系、可分动词与否定范围",
+      "explain": "不定式没有显式主语，但行动者可由前面的动词决定。Ich verspreche dir, zu kommen通常是我来；Ich bitte dich, zu kommen是你来。主语相同是常见情形，却不是万能规则。可分动词zu嵌在前缀与词干间：anzurufen、mitzubringen；不可分动词写zu besuchen。情态动词后不用zu：ich muss gehen。由um、ohne、statt引出的不定式组用逗号；其他扩展不定式组本册也用逗号保持清楚。nicht应贴合被否定内容，nicht zu kommen是否定来。",
+      "examples": [
+        [
+          "Nora bittet Ben, die Liste mitzubringen.",
+          "Nora请Ben带清单来。"
+        ],
+        [
+          "Ich habe vor, mich morgen anzumelden.",
+          "我计划明天报名。"
+        ]
+      ],
+      "error": "zu mitbringen应为mitzubringen；versprechen和bitten的行动者不同。",
+      "task": "合并：Eva bittet mich. Ich soll sie anrufen.",
+      "answer": "Eva bittet mich, sie anzurufen. 打电话的是我。"
+    },
+    "prep": {
+      "title": "动词支配、代副词与人物指代",
+      "explain": "固定介词要与动词一起记：warten auf加第四格、teilnehmen an加第三格、sich interessieren für加第四格。问物或事情用wo(r)+介词：worauf；回应可用da(r)+介词：darauf。元音前常插r：woran、darüber。指人通常用介词加代词：auf wen、auf ihn，不用darauf代替某个人。代副词也可预告从句：Ich freue mich darauf, dass du kommst。比较sich freuen auf未来期待与über既有事情的喜悦，时态仍要结合上下文，不能只背中文“高兴”。",
+      "examples": [
+        [
+          "Worauf wartest du? Auf die Bestätigung.",
+          "你等什么？等确认。"
+        ],
+        [
+          "Auf wen wartest du? Auf meine Kollegin.",
+          "你等谁？等我同事。"
+        ]
+      ],
+      "error": "“等她”是auf sie，不是darauf；介词格来自搭配。",
+      "task": "Ich interessiere mich ___ den Kurs. Ich möchte mehr ___ erfahren.",
+      "answer": "für；darüber。sich interessieren für、über etwas erfahren。"
+    },
+    "negative": {
+      "title": "否定与数量范围：nicht、kein、kaum、erst、nur",
+      "explain": "kein否定不定名词组：keine Zeit、kein Auto；nicht否定谓语、特定成分或带定冠词的名词组：nicht heute、nicht den roten。nicht的位置随焦点变化：Ich komme heute nicht常是否定今天来；Ich komme nicht heute, sondern morgen明确对比时间。nicht alle仅否定全部，不能改成niemand；kaum表示几乎不，仍不等于零。erst强调晚或进度仅到某点，nur限制数量或选择：erst um acht八点才；nur zwei只有两个。noch nicht尚未，nicht mehr不再，二者时间方向相反。",
+      "examples": [
+        [
+          "Nicht alle haben geantwortet.",
+          "并不是所有人都回复了。"
+        ],
+        [
+          "Der Raum ist noch nicht bereit.",
+          "房间还没准备好。"
+        ]
+      ],
+      "error": "nicht alle不是alle nicht；把尚未写成不再会改动事实。",
+      "task": "译：不是所有参加者都同意。",
+      "answer": "Nicht alle Teilnehmenden sind einverstanden. 或Nicht alle Teilnehmer stimmen zu. 部分否定。"
+    },
+    "concession": {
+      "title": "让步与对照：obwohl、trotzdem、zwar...aber",
+      "explain": "让步把一个通常会阻碍结果的事实与实际结果并列：Obwohl es teuer ist, kaufen wir es。trotzdem表达相同逻辑但引主句：Es ist teuer. Trotzdem kaufen wir es。zwar...aber先承认一点再补限制：Es ist zwar teuer, aber praktisch。während也可作两个情况的对照，不一定表示同时。论述中不能把“有一项优点”推成“总体无条件更好”；用für mich、in diesem Fall限定观点范围。obwohl从句末位、trotzdem占前场、aber不占前场，是形式上的关键区别。",
+      "examples": [
+        [
+          "Obwohl der Weg länger ist, fahren wir mit dem Rad.",
+          "虽然路更长，我们仍骑车。"
+        ],
+        [
+          "Der Kurs ist zwar günstig, aber er findet sehr spät statt.",
+          "课虽便宜，但开得很晚。"
+        ]
+      ],
+      "error": "不要写obwohl...trotzdem作为必须成对的模板；独立选一种结构即可。",
+      "task": "用trotzdem连接：Es regnete. Die Führung fand statt.",
+      "answer": "Es regnete. Trotzdem fand die Führung statt."
+    },
+    "comparison": {
+      "title": "比较与选择：als、wie、je...desto",
+      "explain": "比较级加als：günstiger als；原级相等用so...wie，否定时nicht so...wie。比较级需注意不规则gut-besser、viel-mehr、gern-lieber，部分单音节词变元音如groß-größer。je...desto/umso表示随变量变化的关联：Je früher wir buchen, desto günstiger sind die Karten。je从句变位动词末位；desto加比较级短语占主句前场。相关变化不必然证明因果。对方案比较应保持同一指标：价格含不含材料、时间是否包含通勤，先写清条件再下结论。",
+      "examples": [
+        [
+          "Der zweite Weg ist kürzer als der erste.",
+          "第二条路比第一条短。"
+        ],
+        [
+          "Je kleiner die Gruppe ist, desto leichter können alle sprechen.",
+          "小组越小，大家越容易发言。"
+        ]
+      ],
+      "error": "besser wie不是本册标准书面形式，应besser als。",
+      "task": "填空：Dieser Kurs ist genauso lang ___ der andere.",
+      "answer": "wie。genauso...wie表达同等程度。"
+    },
+    "counterfact": {
+      "title": "过去假设与遗憾：hätte/wäre＋第二分词",
+      "explain": "过去无法改变的设想用第二虚拟式过去时：Wenn ich früher gefragt hätte, hätte ich Hilfe bekommen。按Perfekt助动词选择hätte或wäre：wäre gekommen、hätte gelernt。条件与结果都可能是过去假设；现实事实须另说清楚。“若早点出发就赶上”不等于真的早出发或真的赶上。vielleicht表示推测限制，尤其不确定改变一个因素是否能保证结果。区别hatte gefragt过去完成时陈述事实、hätte gefragt虚拟反事实。情态动词过去虚拟的双不定式较复杂，本册先理解hätte kommen können等，不强求自由生成。",
+      "examples": [
+        [
+          "Wenn wir früher losgefahren wären, hätten wir den Zug erreicht.",
+          "如果早些出发，我们就赶上火车了。"
+        ],
+        [
+          "Ohne deine Hilfe hätte ich es vielleicht nicht geschafft.",
+          "没有你的帮助，我也许做不到。"
+        ]
+      ],
+      "error": "hatte与hätte不能省略变音点；运动变化事件常用wäre。",
+      "task": "补全：Wenn ich früher gekommen ___, hätte ich sie getroffen.",
+      "answer": "wäre。kommen的Perfekt助动词是sein。"
+    },
+    "cause": {
+      "title": "原因表达的层级：weil、denn、wegen和deshalb",
+      "explain": "weil引原因从句，denn连接完整主句，wegen加名词组，deshalb在结果主句里作副词。四者不能只替换一个词而保留原句型。标准书面语wegen通常加第二格：wegen des Regens；日常口语第三格常见，本册写作练习使用第二格。名词化原因会隐藏行动者：wegen der Änderung只说由于变更，必要时用weil解释谁改了什么。用deshalb时先交代原因，再推出与证据相称的结果，不能把先后相连的两件事自动解释成因果。",
+      "examples": [
+        [
+          "Wegen des Regens bleiben wir drinnen.",
+          "由于下雨，我们待在室内。"
+        ],
+        [
+          "Wir bleiben drinnen, denn es regnet stark.",
+          "我们待在室内，因为雨很大。"
+        ]
+      ],
+      "error": "wegen后不能直接接完整主谓从句；需名词组或改weil。",
+      "task": "用weil改写：Wegen der Verspätung verpassen wir den Anschluss.",
+      "answer": "Weil wir Verspätung haben, verpassen wir den Anschluss. 也可Weil der Zug Verspätung hat...，需明确合理主语。"
+    },
+    "reference": {
+      "title": "回指与信息压缩：das、dieser、dabei、dadurch",
+      "explain": "代词可回指名词或整件事。dieser Plan指明确名词，das kann helfen可指前面整个做法。dabei常指在某活动过程中或关于该活动，dadurch通常引出由前述方式产生的结果。一个段落有多个人物时，er/sie可能模糊；必要时重复名字或岗位。摘要不是尽量用最短代词，而是删去次要细节并保留时间、行动者、条件和限制。auch、nur、bisher、vielleicht虽短，却常决定原文范围，不能压缩掉。转述别人观点需保留来源，不把它写成自己的已证实事实。",
+      "examples": [
+        [
+          "Wir teilen die Aufgaben. Dadurch sparen wir Zeit.",
+          "我们分工，因此节省时间。"
+        ],
+        [
+          "Eva sprach mit Nora. Danach schickte Nora die Einladung.",
+          "Eva与Nora谈了，随后Nora发邀请。"
+        ]
+      ],
+      "error": "有两个女性人物时sie不自动清楚；dabei不总等于“因此”。",
+      "task": "改清楚：Ben traf Amir. Er hatte die Liste dabei.（带清单者Amir）",
+      "answer": "Ben traf Amir. Amir hatte die Liste dabei."
+    },
+    "register": {
+      "title": "信息功能与语气：陈述、请求、建议和转述",
+      "explain": "同一动词形式可能承担不同功能。Sie kommen morgen是陈述，Kommen Sie morgen?是一般疑问，Kommen Sie bitte morgen是请求。Ich schlage vor, dass...标建议，尚未等于集体决定；Wir haben vereinbart, dass...才报告已达成约定。邮件应在称呼后延续句子，常以小写ich起笔（名词和Sie等仍大写）；du与Sie的人称变位须一致。请求可以直接明确而保持礼貌，不需每句使用虚拟式。论述区分Ich vermute推测、Ich habe beobachtet观察、Laut ...来源。",
+      "examples": [
+        [
+          "Ich schlage vor, dass wir früher beginnen.",
+          "我建议早点开始。"
+        ],
+        [
+          "Wir haben vereinbart, dass Nora die Karten kauft.",
+          "我们已约定Nora买票。"
+        ]
+      ],
+      "error": "提案不能译成已经决定；du和Sie的称呼、代词和动词不能混用。",
+      "task": "将“我们建议周五见面”写成尚未决定的提议。",
+      "answer": "Wir schlagen vor, uns am Freitag zu treffen. / Wir schlagen vor, dass wir uns am Freitag treffen."
+    },
+    "space": {
+      "title": "地点、方向与时间介词：格不是由动词是否运动决定",
+      "explain": "两用介词an、auf、in等表示位置用第三格，表示进入目标位置用第四格。Ich laufe im Park是在公园内跑，虽有运动仍第三格；Ich laufe in den Park是跑进公园。固定动词介词搭配不按位置方向判断，如warten auf加第四格。zu通常第三格，nach常用于无冠词地名及nach Hause，in用于进入空间及带冠词国家。时间中seit常配持续到现在的Präsens，vor标多久以前，in可标多久以后；bis Freitag是最迟到周五这一界限，具体含义必要时确认。",
+      "examples": [
+        [
+          "Wir treffen uns im Museum und gehen dann in den Garten.",
+          "我们在博物馆见，再去花园。"
+        ],
+        [
+          "Seit zwei Monaten lerne ich hier Deutsch.",
+          "我在这里学德语已有两个月。"
+        ]
+      ],
+      "error": "有动作就第四格是错误规则；先判断地点还是目的地。",
+      "task": "补全：Ich stelle die Tasche auf ___ Tisch. Sie steht dann auf ___ Tisch.",
+      "answer": "den；dem。放到目标与放置后的位置不同。"
+    },
+    "nominal": {
+      "title": "名词化、属格与清楚的动词句",
+      "explain": "动词不定式名词化时大写，多为中性：das Lesen、beim Lernen。动作名词可接属格：die Planung des Ausflugs；阳性中性单数属格冠词des，名词常加-s/-es。名词化方便标题和概括，但连续名词链会使行动者不清：Die Prüfung der Anmeldung最好按需要改成Nora prüft die Anmeldung。von加第三格也能表达所属，日常语中常见。名词化形容词如die Teilnehmenden按形容词规则变化；阅读先理解指“参与的人”，主动写作也可用die Personen, die teilnehmen。",
+      "examples": [
+        [
+          "Beim Lernen mache ich kurze Pausen.",
+          "学习时我短暂休息。"
+        ],
+        [
+          "Die Planung des Ausflugs dauert eine Stunde.",
+          "规划出游用一小时。"
+        ]
+      ],
+      "error": "beim后名词化Lernen应大写；不要把每个动词都强行名词化。",
+      "task": "改为行动者清楚的句子：Die Prüfung der Liste erfolgt durch Eva.",
+      "answer": "Eva prüft die Liste."
+    },
+    "participle": {
+      "title": "分词定语与关系从句互换",
+      "explain": "第一分词通常不定式加-d，描述主动进行或持续属性：wartend；第二分词可表示完成、结果或被动：geöffnet、angekommen。第二分词并非全是被动，angekommene Gäste指已经到达的客人。作为定语时两类分词均按形容词变格：die wartenden Gäste、ein geöffneter Raum。作为动词复合时态一部分则不加形容词词尾：Die Gäste sind angekommen。信息多时改关系从句更易懂。B1优先学常见短定语，对多层长分词定语只需拆解识别。",
+      "examples": [
+        [
+          "Die wartenden Gäste bekommen Wasser.",
+          "等候的客人得到水。"
+        ],
+        [
+          "Bitte lesen Sie die geänderten Angaben.",
+          "请读修改后的信息。"
+        ]
+      ],
+      "error": "die geändert Angaben少了词尾，应geänderten；分词形式不决定其必定被动。",
+      "task": "将die Gäste, die warten压缩为分词定语。",
+      "answer": "die wartenden Gäste。定冠词复数后-en。"
+    },
+    "position": {
+      "title": "动词框架、中场顺序与代词宾语",
+      "explain": "主句变位动词第二位，分词、不定式或可分前缀在句末形成框架：Morgen bringe ich die Liste mit。中场常遵循已知信息先于新信息；“时间-原因-方式-地点”是有用倾向，不是不可改变的法则。两个名词宾语中第三格常先于第四格：Ich gebe dem Gast den Plan；两个非重读代词常第四格先于第三格：Ich gebe ihn ihm。一个代词通常先于普通名词宾语：Ich gebe ihm den Plan。否定和强调可影响位置，B1先用中性顺序，再说明为何突出某项。",
+      "examples": [
+        [
+          "Ich schicke meiner Kollegin morgen den Plan.",
+          "我明天给同事发计划。"
+        ],
+        [
+          "Ich schicke ihn ihr morgen.",
+          "我明天把它发给她。"
+        ]
+      ],
+      "error": "两个非重读代词通常不是ihr ihn；先标直接宾语与间接宾语。",
+      "task": "把Ich gebe Eva das Buch中两个宾语都换代词。",
+      "answer": "Ich gebe es ihr. das Buch→es第四格，Eva→ihr第三格。"
+    },
+    "interaction": {
+      "title": "协商中的连接：nicht nur...sondern auch、entweder...oder",
+      "explain": "成对连接结构应连接同层级成分：nicht nur günstig, sondern auch praktisch；entweder am Samstag oder am Sonntag。nicht...sondern用于纠正前项，nicht nur...sondern auch则添加后项，二者含义不同。weder...noch否定两项，一般不再额外加nicht。连接主句时每句仍有自己的动词框架。协商不能只罗列两个选项；要问对方限制，提出替代，确认暂定与最终约定。与nicht nur等相配的两个成分尽量平行，减少不清楚的省略。",
+      "examples": [
+        [
+          "Wir können entweder früher anfangen oder eine Pause streichen.",
+          "我们可以早点开始，或取消一次休息。"
+        ],
+        [
+          "Der Ort ist nicht nur ruhig, sondern auch gut erreichbar.",
+          "地方不仅安静，还交通方便。"
+        ]
+      ],
+      "error": "weder...noch已经否定两项，不再随意添加nicht。",
+      "task": "合并：Der Raum ist hell. Er ist auch ruhig. 用nicht nur。",
+      "answer": "Der Raum ist nicht nur hell, sondern auch ruhig."
+    }
+  },
+  "readings": {
+    "1": {
+      "short": [
+        [
+          "Als Amir vor zwei Jahren in eine neue Stadt zog, kannte er dort fast niemanden. Er hatte bereits einen Deutschkurs besucht, traute sich aber selten, ein längeres Gespräch zu beginnen. Eines Tages lud ihn eine Nachbarin zu einem kleinen Kochabend ein. Amir wollte zuerst absagen, weil ihm viele Wörter für Zutaten fehlten. Schließlich ging er doch und brachte ein Gericht mit, das er gut kannte. Während des Kochens erklärte er einzelne Schritte mit Gesten und einfachen Sätzen. Nicht alles klappte sofort, aber die anderen fragten freundlich nach. Am Ende bat ihn jemand um das Rezept. Heute erinnert sich Amir besonders an diesen Moment. Er hatte nicht fehlerfrei gesprochen, trotzdem war etwas Gemeinsames entstanden. Seitdem nimmt er häufiger an kleinen Treffen teil und wartet nicht mehr darauf, zuerst alle nötigen Wörter zu kennen.",
+          "Amir两年前搬家后少社交，虽学德语却不敢长谈。邻居邀共餐，他因缺食材词想拒绝，最后带熟悉菜去了。借手势短句讲步骤，大家友善追问并索食谱。如今记得的不在于语言完美，而在于共同完成了事情，因此不再等会所有词才参加活动。"
+        ]
+      ],
+      "long": [
+        [
+          "Als Lea ihre erste Stelle in einer kleinen Werkstatt antrat, hatte sie bereits eine Ausbildung abgeschlossen. Die fachlichen Aufgaben waren ihr deshalb nicht völlig fremd. Trotzdem fiel ihr der Anfang schwer. In der neuen Gruppe wurden viele Dinge schnell und nebenbei besprochen. Lea verstand die einzelnen Wörter meistens, wusste aber nicht immer, welche Aufgabe gerade für sie gemeint war. Aus Angst, unaufmerksam zu wirken, stellte sie nur selten Rückfragen. Nach einigen Tagen merkte sie, dass dieses Schweigen die Arbeit nicht leichter machte. Sie musste später häufig noch einmal von vorn beginnen.",
+          "Lea入职前已完成培训，专业任务不陌生。难在同事快速随口沟通，她懂词却不清楚哪项归自己。怕显得不认真而少问，结果常要重做。"
+        ],
+        [
+          "Ein konkreter Fehler veränderte ihre Haltung. Ein Kollege hatte sie gebeten, einige Materialien für den nächsten Morgen vorzubereiten. Lea nahm an, dass nur die kleine Lieferung gemeint war. Tatsächlich ging es um zwei verschiedene Aufträge. Als der Kollege am folgenden Tag nach dem zweiten Teil fragte, konnte sie ihn nicht finden. Zuerst ärgerte sie sich über sich selbst. Dann stellte sich im Gespräch heraus, dass auch die ursprüngliche Bitte nicht eindeutig gewesen war. Beide hatten sich auf etwas bezogen, das für die andere Person nicht selbstverständlich war.",
+          "一次同事要她备次晨材料，她以为只有小批货，其实两个订单。次日找不到第二部分，先自责，谈后发现原要求也不清。双方都假定对方知道所指。"
+        ],
+        [
+          "In der Pause erzählte Lea einer erfahrenen Kollegin davon. Diese riet ihr nicht einfach, besser aufzupassen. Stattdessen zeigte sie ihr eine kurze Frage, die sie selbst oft benutzte: „Meinst du damit nur diesen Auftrag oder beide?“ Lea schrieb den Satz in ihr kleines Notizbuch. Am nächsten Tag probierte sie ihn bei einer ähnlichen Aufgabe aus. Der Kollege beantwortete die Frage sofort und ergänzte sogar den gewünschten Zeitpunkt. Das Gespräch dauerte weniger als eine Minute. Für Lea war wichtig, dass niemand ihre Rückfrage als Zeichen mangelnder Fähigkeit behandelte.",
+          "资深女同事给了具体澄清句“只指这个订单还是两个？”Lea记下并次日用。对方立刻答并补期限，不到一分钟，也没人视其为无能。"
+        ],
+        [
+          "Nach und nach entwickelte sie weitere Möglichkeiten, ihr Verständnis zu prüfen. Wenn eine Aufgabe mehrere Schritte hatte, fasste sie diese am Ende kurz zusammen. Bei neuen Begriffen bat sie um ein Beispiel. Falls gerade viel los war, notierte sie die Frage und vereinbarte einen passenden Moment für die Antwort. Diese Vorgehensweise löste nicht jedes Problem. Manchmal blieb der Zeitdruck hoch, und manchmal musste sie dieselbe Sache zweimal hören. Aber sie konnte nun besser unterscheiden, ob ihr ein Wort fehlte oder ob die Aufgabe selbst noch unklar war.",
+          "渐渐用步骤复述、请求例子、忙时记问并约答复时点。并非解决一切，仍有赶时间或需再听，但能分清不懂词与任务本身不清。"
+        ],
+        [
+          "Ein halbes Jahr später begann ein neuer Mitarbeiter in der Werkstatt. Lea zeigte ihm die wichtigsten Räume und erklärte einen einfachen Arbeitsablauf. Als er nur nickte, fragte sie nicht bloß, ob alles klar sei. Sie bat ihn, den nächsten Schritt mit eigenen Worten zu beschreiben. Dabei fiel auf, dass er zwei Behälter verwechselt hatte. Gemeinsam korrigierten sie den Fehler, bevor die Arbeit begann. Lea erkannte darin ihre frühere Situation wieder. Sie achtete deshalb darauf, ihre Erklärung nicht unnötig schnell zu geben und Fragen ausdrücklich willkommen zu heißen.",
+          "半年后新员工来，Lea带看房间讲流程。对方点头，她请他复述下一步，发现混淆两容器，开工前纠正。想到自己曾经处境，放慢并欢迎提问。"
+        ],
+        [
+          "Heute erzählt Lea diese Geschichte, wenn jemand sagt, man müsse erst perfekt sprechen, bevor man Verantwortung übernehmen könne. Sie widerspricht dieser Aussage, ohne ihre eigenen Schwierigkeiten kleinzureden. Fachkenntnisse, klare Absprachen und sprachliche Mittel gehören für sie zusammen. Rückblickend war nicht der einzelne Fehler ihr größter Fortschritt, sondern die veränderte Reaktion darauf. Sie wartet nicht mehr darauf, Unsicherheit vollständig zu vermeiden. Stattdessen versucht sie, sie rechtzeitig sichtbar zu machen. Ihr Notizbuch benutzt sie noch immer, inzwischen auch für gelungene Gespräche und für Fragen, die sie beim nächsten Mal genauer stellen möchte.",
+          "如今Lea用此经历回应“完美语言才可负责”。她不淡化困难，而将知识、明确约定和表达结合。进步在于更早呈现不确定性；仍用笔记记录成功对话及可问得更准的问题。"
+        ]
+      ],
+      "notes": [
+        "hatte ... abgeschlossen在入职之前，叙事主线trat/an、fiel、merkte为过去式。",
+        "Meinst du damit ... oder ...?把模糊问题变为可选的具体对象。",
+        "als Zeichen mangelnder Fähigkeit中的als表示“作为”，不是时间连词。"
+      ],
+      "questions": [
+        "短文：Amir为什么起初想拒绝，后来做了什么？",
+        "长文：材料错误是否只由Lea语言不足造成？列依据。",
+        "长文：Lea后来怎样确认新员工理解？",
+        "用两句描述一次困难与现在的改变。"
+      ],
+      "answers": [
+        "缺食材词怕表达不了；后来带熟悉菜去，用手势短句解释。",
+        "第2段原请求也含糊，双方指代预设不同；不能全归给Lea。",
+        "第5段请其用自己话说下一步，发现容器混淆。",
+        "示例：Früher fragte ich selten nach. Heute fasse ich wichtige Aufgaben kurz zusammen."
+      ]
+    },
+    "2": {
+      "short": [
+        [
+          "Vier Freunde möchten ein Wochenende am See verbringen. Sie haben eine Unterkunft gebucht und wollen am Samstag eine Führung besuchen. Zwei Tage vor der Reise erfahren sie, dass ihre Zugverbindung ausfällt. Ben sucht sofort nach einem Ersatz, während Nora die Unterkunft anruft. Die Gruppe findet einen Bus, der später ankommt. Noch ist aber unklar, ob die bisherigen Fahrkarten dort gelten. Deshalb kauft niemand sofort neue Karten. Eva fragt außerdem beim Museum nach, ob die Führung auf Sonntag verschoben werden kann. Am Abend vergleichen die Freunde ihre Informationen. Die spätere Ankunft ist möglich, und im Museum gibt es am Sonntag noch Plätze. Erst nachdem auch die Ticketfrage geklärt ist, ändern sie ihren Plan. Sie verlieren etwas Zeit am See, vermeiden aber mehrere unbestätigte Buchungen. Für die Rückfahrt notieren sie zusätzlich eine alternative Verbindung.",
+          "四人周末湖边行，火车停开。Ben查替代，Nora问住宿，Eva问导览改周日；公交晚到但车票适用未知，所以未立即再买。住宿和导览确认、车票问题也解决后才改计划，虽少玩些却没做多项未确认预订，并记返程备选。"
+        ]
+      ],
+      "long": [
+        [
+          "Die Reisegruppe bestand aus vier Personen, die sich aus einem Sprachkurs kannten. Sie wollten zum ersten Mal gemeinsam ein Wochenende außerhalb der Stadt verbringen. Bei der Planung hatten sie vieles berücksichtigt: die Kosten, die Lage der Unterkunft und die Interessen aller Beteiligten. Amir wollte wandern, Eva interessierte sich für ein kleines Museum, und die anderen freuten sich vor allem auf Gespräche ohne Zeitdruck. Der ursprüngliche Plan wirkte übersichtlich. Trotzdem hatten sie nicht besprochen, was passieren sollte, wenn ein Teil der Reise anders verlief als erwartet oder eine wichtige Verbindung ausfiel.",
+          "四名语言班同学首次周末出行，已顾预算、住宿位置和各人兴趣：徒步、博物馆、轻松聊天。计划清楚，却没谈线路变化或停开的应对。"
+        ],
+        [
+          "Am Freitag kam die Nachricht, dass der gebuchte Zug am nächsten Morgen nicht fahren würde. Zuerst suchten alle gleichzeitig auf ihren Handys nach Möglichkeiten. Nach zwanzig Minuten hatten sie viele Bildschirmbilder, aber keinen gemeinsamen Überblick. Einige Vorschläge bezogen sich auf verschiedene Bahnhöfe, andere enthielten eine sehr knappe Umsteigezeit. Eva unterbrach die Suche und schrieb drei Fragen auf: Wann können wir tatsächlich ankommen, welche Kosten entstehen zusätzlich und welche Teile unseres Programms lassen sich ändern? Die Gruppe beschloss, diese Fragen einzeln zu klären, statt immer neue Verbindungen in den Chat zu schicken.",
+          "周五得知次晨车取消，四人乱查得到很多截图却无总览，站点和换乘条件不一。Eva列三问：到达、额外费用、可改项目，转为逐项查。"
+        ],
+        [
+          "Ben übernahm die Verkehrsauskunft. Er fand einen Bus, mit dem sie ungefähr zwei Stunden später ankommen konnten. Die Anzeige allein beantwortete jedoch nicht, ob ihre Karten auch für diese Fahrt gültig waren. Er fragte deshalb gezielt nach und notierte die Antwort zusammen mit der Verbindung, auf die sie sich bezog. Nora sprach inzwischen mit der Unterkunft. Eine spätere Ankunft war dort grundsätzlich möglich, musste aber vorher angekündigt werden. Sie ließ sich erklären, wie die Gruppe in diesem Fall den Schlüssel bekommen würde. Beide gaben nur die bestätigten Informationen an die anderen weiter.",
+          "Ben找晚到两小时公交，另问车票适用并记具体班次。Nora查住宿可晚到但需预告，问取钥匙。双方只转达确认信息。"
+        ],
+        [
+          "Eva kontaktierte das Museum. Die Führung am Samstag konnten sie nicht mehr rechtzeitig erreichen, aber am Sonntag gab es eine passende Alternative. Amir war zunächst enttäuscht, weil dadurch weniger Zeit für seine geplante Wanderung blieb. Die anderen versuchten nicht, ihm diese Enttäuschung auszureden. Sie fragten, welcher Teil des Ausflugs ihm besonders wichtig war. Es stellte sich heraus, dass er vor allem eine Stunde am Wasser verbringen wollte und nicht unbedingt die gesamte lange Strecke gehen musste. Gemeinsam ersetzten sie die Wanderung durch einen kürzeren Weg in der Nähe der Unterkunft.",
+          "博物馆可换周日，Amir为徒步缩短失望。大家询问最重要部分，得知他主要想水边一小时，不一定走全程，改住宿附近短路。"
+        ],
+        [
+          "Am Abend lag ein neuer Plan vor. Darin standen nicht nur Zeiten, sondern auch die bestätigten Bedingungen und die noch offenen Punkte. Ben schickte die Verkehrsinformation, Nora hielt den Kontakt zur Unterkunft, und Eva bestätigte die geänderte Führung. Für den nächsten Morgen vereinbarten sie einen Treffpunkt, an dem auch jemand ohne Internetzugang die anderen finden konnte. Niemand behauptete, dass nun sicher nichts mehr schiefgehen würde. Aber alle wussten, was sie selbst tun sollten und wann sie sich erneut abstimmen würden. Diese Klarheit beruhigte die Gruppe mehr als eine zusätzliche Liste möglicher Probleme.",
+          "晚间新计划记时间、确认条件及未知。分工确认交通住宿导览；集合点也适合断网者找人。不保证无变故，但知道责任与再沟通时间。"
+        ],
+        [
+          "Die Fahrt dauerte schließlich länger als ursprünglich geplant. Trotzdem blieb das Wochenende für die Freunde eine gute Erfahrung. Sie konnten das Museum besuchen, am Wasser sitzen und gemeinsam essen. Auf der Rückfahrt sprachen sie darüber, was ihnen geholfen hatte. Es war nicht allein die gefundene Ersatzverbindung gewesen. Entscheidend waren die geteilten Aufgaben, konkrete Nachfragen und die Bereitschaft, Wünsche genauer zu erklären. Für ihre nächste Reise wollten sie deshalb nicht jede Minute vorplanen. Sie wollten einige wichtige Bedingungen früh klären und genügend Raum lassen, um unterwegs gemeinsam auf Veränderungen reagieren zu können.",
+          "旅程更久但仍逛馆、亲水、共餐。回程总结关键不仅替代班次，更是分工、具体追问和解释愿望；下次留可调整空间并早查核心条件。"
+        ]
+      ],
+      "notes": [
+        "nicht ... ob...：间接是否问题，ob从句动词末位。",
+        "Es stellte sich heraus, dass...意为“结果发现”，主句形式主语es预告后文。",
+        "mit dem sie ... ankommen konnten：介词关系从句，dem第三格来自mit。"
+      ],
+      "questions": [
+        "短文：为什么没有立即买新票？",
+        "长文：Eva把混乱搜索变成哪三个问题？",
+        "长文：怎样照顾Amir的愿望？",
+        "写一项自己负责的行动和一项仍待确认的事项。"
+      ],
+      "answers": [
+        "旧票在公交是否有效未知，需先确认。",
+        "第2段：实际到达时间、额外费用、可调整节目。",
+        "第4段问核心愿望，以近处一小时水边短路代全徒步。",
+        "示例：Ich frage nach der Ankunftszeit. Ob unsere Karten gelten, ist noch unklar."
+      ]
+    },
+    "3": {
+      "short": [
+        [
+          "Nora möchte an einem Abendkurs teilnehmen, weiß aber noch nicht, welcher Kurs zu ihren Vorkenntnissen passt. Sie schreibt an die Beratung und erhält zunächst eine automatische Nachricht. Darin wird nur bestätigt, dass ihre Anfrage angekommen ist. Ein Termin steht noch nicht fest. Zwei Tage später schlägt eine Mitarbeiterin einen Dienstagvormittag vor. Nora arbeitet zu dieser Zeit und nennt deshalb zwei andere Möglichkeiten. Sie fragt außerdem, ob sie ihre bisherigen Kursbescheinigungen mitbringen soll. Die Mitarbeiterin bestätigt schließlich einen Termin am Donnerstag und nennt Raum und Unterlagen. Nora notiert beides und bereitet drei Fragen vor. Im Gespräch entscheidet sie sich noch nicht sofort für einen Kurs. Zuerst möchte sie die Unterrichtszeiten und den Umfang der Hausaufgaben prüfen. Sie versteht die Beratung als Hilfe bei der Auswahl, nicht als bereits abgeschlossene Anmeldung oder als Garantie für einen freien Platz.",
+          "Nora想选晚课，自动回信仅收件确认，未定预约。周二上午不合工作，提出两段时间并问材料；终确认周四房间及材料。咨询前备三问，谈后仍查上课和作业安排，咨询不等于报名或保证名额。"
+        ]
+      ],
+      "long": [
+        [
+          "Als Lin sich nach einer längeren Pause wieder für einen Deutschkurs interessierte, fand sie im Internet mehrere Angebote. Die Beschreibungen nannten verschiedene Lernziele, aber sie konnte ihre eigenen Kenntnisse nicht sicher zuordnen. Deshalb schrieb sie an eine Beratungsstelle. In ihrer Nachricht erklärte sie kurz, wann sie zuletzt gelernt hatte und zu welchen Zeiten sie arbeiten musste. Sie bat um ein Gespräch, bevor sie sich anmeldete. Kurz darauf kam eine automatische Antwort. Lin las sie sorgfältig und erkannte, dass damit nur der Eingang ihrer Nachricht bestätigt wurde, noch kein Beratungstermin und erst recht kein Kursplatz.",
+          "Lin停学后选课难，写咨询说明上次学习及工作时间，请先谈再报名。自动回信只确认收到，不是预约更不是课程名额。"
+        ],
+        [
+          "Am nächsten Tag erhielt sie einen Terminvorschlag. Leider lag dieser mitten in ihrer Arbeitszeit. Früher hätte Lin vielleicht nur geschrieben, dass sie nicht kommen könne. Diesmal nannte sie zwei konkrete Alternativen und fragte, ob eine davon möglich sei. Außerdem wollte sie wissen, welche Unterlagen gebraucht wurden. Die Mitarbeiterin antwortete mit einem neuen Termin und bat sie, vorhandene Kursinformationen mitzubringen. Ein bestimmtes Formular musste sie vorher nicht ausfüllen. Lin fasste die wichtigsten Angaben in einer kurzen Antwort zusammen. So konnte die Mitarbeiterin sofort sehen, ob beide denselben Zeitpunkt und denselben Ort meinten.",
+          "提议时段与工作冲突，Lin给两具体备选并问材料。工作人员改时间，要求现有课程信息，无需预填特定表。Lin回复复述时地核对理解。"
+        ],
+        [
+          "Vor dem Gespräch bereitete Lin drei Fragen vor. Sie wollte wissen, wie oft der Kurs stattfand, wie viel selbstständige Arbeit erwartet wurde und ob sie zunächst an einer Einstufung teilnehmen sollte. Sie schrieb nicht jede mögliche Frage auf, weil sie das Gespräch nicht mit einer langen Liste beginnen wollte. Wichtig war ihr vor allem, eine Entscheidung treffen zu können, die zu ihrem Alltag passte. Ihre alten Notizen nahm sie ebenfalls mit. Darin konnte sie zeigen, welche Aufgaben ihr leichtfielen und bei welchen Texten sie häufig Unterstützung benötigte.",
+          "备三问：频率、自学量、是否先分级。避免无限清单，重点选适合日常的课。旧笔记展示强项和需帮助处。"
+        ],
+        [
+          "Während der Beratung bemerkte die Mitarbeiterin, dass Lin beim Sprechen recht sicher war, längere Texte aber sehr langsam las. Daraus folgte nicht automatisch eine bestimmte Kursentscheidung. Beide besprachen zunächst, welche Ziele Lin in den nächsten Monaten erreichen wollte. Die Mitarbeiterin erklärte zwei Möglichkeiten und nannte jeweils Zeiten und Schwerpunkte. Lin fragte nach, als sie das Wort „begleitet“ nicht verstand. Sie bekam ein konkretes Beispiel für die zusätzliche Unterstützung. Diese Erklärung half ihr mehr als eine allgemeine Aussage, der Kurs sei besonders gut oder für alle Lernenden geeignet.",
+          "咨询发现口语稳、长文慢，但未自动定课；先谈目标，再看两课时间重点。“begleitet”不懂就问，具体支持例子比泛称好课有用。"
+        ],
+        [
+          "Am Ende nahm Lin eine schriftliche Übersicht mit. Sie enthielt Informationen, aber noch keine verbindliche Anmeldung. Einen der beiden Kurse konnte sie wegen ihrer Arbeitszeiten ausschließen. Beim anderen wollte sie zunächst klären, ob der regelmäßige zusätzliche Lerntermin für sie möglich war. Sie vereinbarte, sich bis Freitag zurückzumelden. Die Mitarbeiterin erklärte ausdrücklich, dass ein freier Platz erst bei der tatsächlichen Anmeldung bestätigt werden konnte. Lin notierte diese Bedingung neben dem Termin, damit sie später nicht aus einer hilfreichen Beratung eine Zusage ableitete, die niemand gegeben hatte.",
+          "拿书面概览但尚未正式报名。排除不合工时课，另一课还查额外学习安排，约周五反馈。空位需正式报名时确认，记录这一条件免误认承诺。"
+        ],
+        [
+          "Rückblickend fand Lin nicht nur die Kursinformation wertvoll. Sie hatte auch geübt, ihre eigenen Voraussetzungen zu beschreiben und höflich um Klarheit zu bitten. Sie musste dafür weder jedes Fachwort kennen noch sofort auf alles eine Antwort haben. Hilfreich waren kurze Notizen, konkrete Alternativen und die abschließende Zusammenfassung gewesen. Bei einem späteren Termin in einer anderen Einrichtung nutzte sie dieselbe Vorgehensweise. Der Inhalt war neu, aber die sprachliche Aufgabe war ähnlich: erklären, was man braucht, verstehen, was bereits feststeht, und festhalten, welcher nächste Schritt noch von wem erledigt werden muss.",
+          "收获也在描述条件、礼貌澄清，不需全懂术语或即答。短记、备选和总结可迁移到别的机构预约：需要什么、已定什么、谁下一步做什么。"
+        ]
+      ],
+      "notes": [
+        "erst recht kein...表示“更谈不上”，延伸否定程度。",
+        "welche Unterlagen gebraucht wurden为间接问题内的被动，变位wurden末位。",
+        "bevor sie sich anmeldete：从句动作发生在咨询之后，bevor不要求过去完成时。"
+      ],
+      "questions": [
+        "短文：自动回信与后续人工消息各确认什么？",
+        "长文：Lin怎样使改期请求容易回应？",
+        "长文：课程席位何时才能确认？",
+        "写一句区分咨询与报名的摘要。"
+      ],
+      "answers": [
+        "自动回信仅收件；人工消息最终确认周四时地与材料。",
+        "第2段给两个具体备选并问材料，随后复述时地。",
+        "第5段实际报名时才可确认，咨询不保证空位。",
+        "示例：Die Beratung hilft bei der Auswahl, bestätigt aber noch keinen Kursplatz."
+      ]
+    },
+    "4": {
+      "short": [
+        [
+          "Ben hat einen Monat lang jeden Abend mit einer Lern-App geübt. Die Anzeige zeigt viele erledigte Aufgaben, und Ben freut sich über seine Regelmäßigkeit. Bei einem Gespräch mit Eva merkt er jedoch, dass er einige bekannte Wörter nicht selbst verwenden kann. Er erkennt sie in einer Auswahl, findet sie aber ohne Hilfe nicht schnell genug. Deshalb verändert er seine Übung. Zu fünf wichtigen Wörtern schreibt er eigene Beispiele und erzählt damit eine kurze Geschichte. Eva hört zu und fragt nach. Nach zwei Wochen kann Ben diese Wörter leichter benutzen, während andere weiterhin schwierig bleiben. Er entscheidet sich nicht gegen die App, sondern ergänzt sie durch freies Sprechen. Für ihn zählt nun nicht nur, wie oft er eine Aufgabe anklickt, sondern auch, was er anschließend ohne Vorlage ausdrücken kann. Seine Erfahrung beschreibt er ausdrücklich als persönliche Beobachtung, nicht als Beweis für alle Lernenden.",
+          "Ben应用打卡很规律，但选项中认词不代表无提示能说。改为五词造例再讲故事，Eva追问。两周部分词更易用，部分仍难，保留应用加自由口语；只说个人观察，不推广全体。"
+        ]
+      ],
+      "long": [
+        [
+          "In einer Lerngruppe entstand eine Diskussion darüber, ob digitale Übungen oder handschriftliche Notizen besser seien. Nora bevorzugte ihr Handy, weil sie unterwegs kurze Pausen zum Wiederholen nutzen konnte. Amir schrieb lieber auf Papier und fand, dass ihn Nachrichten am Bildschirm zu oft unterbrachen. Zunächst sammelten beide vor allem Gründe für die Methode, die sie ohnehin schon mochten. Die Kursleiterin fragte deshalb, was sie mit „besser“ eigentlich meinten. Ging es um mehr Übungszeit, um das Erkennen von Wörtern oder darum, in einem Gespräch ohne Vorlage etwas sagen zu können? Plötzlich wurden aus zwei allgemeinen Meinungen mehrere konkrete Fragen.",
+          "Nora爱手机利用碎片，Amir爱纸张免通知。最初只支持各自偏好，教师问“更好”是多练、认词还是脱稿说？从二分转成多项具体问题。"
+        ],
+        [
+          "Die Gruppe vereinbarte einen kleinen Versuch. Jede Person wählte zehn Wörter aus einem vertrauten Thema. Eine Woche lang durfte sie mit ihrer bevorzugten Methode üben. Danach sollte sie eine kurze Aufgabe lösen, bei der nicht dieselben Sätze wie in der Übung vorkamen. Wer zum Beispiel Wörter zum Reisen gelernt hatte, musste einer Partnerin eine geänderte Verbindung erklären. Die Gruppe wusste, dass dies keine wissenschaftliche Untersuchung war. Die Personen hatten unterschiedliche Vorkenntnisse und übten nicht alle gleich lange. Trotzdem konnte der Versuch ihnen helfen, die eigenen Lerngewohnheiten genauer zu beobachten und ihre Ziele klarer zu formulieren.",
+          "每人选熟题十词，用喜欢方式一周后做新句任务，例如解释改路线。明确非科学实验：基础与时长不同，但可观察习惯、明确目标。"
+        ],
+        [
+          "Nora übte täglich mit ihrer App. Sie schaltete währenddessen andere Nachrichten aus und bemerkte, dass sie dadurch seltener unterbrochen wurde. Am Ende der Woche erkannte sie fast alle Wörter schnell. Bei der mündlichen Aufgabe fehlten ihr jedoch einige Verbindungen zwischen den Wörtern. Sie wusste etwa, was „Bestätigung“ bedeutete, hatte aber Mühe, eine höfliche Bitte darum zu formulieren. Daraufhin ergänzte sie zu jedem wichtigen Wort einen vollständigen Satz. Sie sprach diese Sätze laut und veränderte anschließend Namen, Zeiten oder Gründe. So blieb die Übung nicht auf das Wiedererkennen eines einzelnen Wortes beschränkt.",
+          "Nora关通知后少打断，认词快却难串句，如懂Bestätigung却难礼貌索确认。于是加完整句、朗读再换时名原因，超越单词识别。"
+        ],
+        [
+          "Amir hatte mehrere Seiten mit handschriftlichen Notizen gefüllt. Seine Beispiele waren verständlich, aber er hatte sie kaum ohne Blick auf das Papier ausprobiert. Als die Partnerin eine unerwartete Rückfrage stellte, suchte er lange nach einer Formulierung. Er war zunächst enttäuscht, weil er viel Zeit investiert hatte. Im Gespräch erkannte er, dass seine Notizen eine gute Vorbereitung waren, aber das freie Reagieren noch nicht ersetzten. Er begann, nach jeder Schreibphase das Heft zu schließen und zwei Minuten über das Thema zu sprechen. Erst danach öffnete er es wieder und ergänzte, was ihm gefehlt hatte.",
+          "Amir纸笔很多但少脱稿，意外追问难答，投入多却失望。明白笔记是准备非互动替代，改每次合本讲两分钟，再补缺项。"
+        ],
+        [
+          "Beim nächsten Treffen verglichen die Lernenden nicht einfach die Zahl richtiger Antworten. Sie beschrieben auch, welche Aufgabe ihnen leichter geworden war und wo sie weiterhin Unterstützung brauchten. Einige kombinierten nun verschiedene Materialien. Andere behielten ihre bisherige Methode, änderten aber die Art der Wiederholung. Die Kursleiterin machte deutlich, dass eine passende Lernweise auch vom verfügbaren Alltag abhängt. Wer jeden Tag lange unterwegs ist, hat andere Möglichkeiten als jemand mit einem ruhigen Arbeitsplatz zu Hause. Die Gruppe wollte deshalb keine einzige Lösung festlegen, die alle unabhängig von ihren Voraussetzungen übernehmen sollten.",
+          "下次比具体任务改进与仍需支持，不单比正确数。有的混合，有的改复习方法。通勤长与家有安静空间条件不同，不统一强制一种。"
+        ],
+        [
+          "Nach vier Wochen schrieb Nora eine kurze Rückmeldung. Ihre App half ihr weiterhin, regelmäßig anzufangen. Die eigenen Beispielsätze und Gespräche halfen ihr dagegen, das Gelernte zu verwenden. Sie konnte nicht genau sagen, welcher einzelne Teil den größten Unterschied gemacht hatte. Trotzdem wusste sie nun besser, warum sie bestimmte Übungen auswählte. Amir kam zu einem ähnlichen Ergebnis. Für beide war die wichtigste Veränderung, nicht mehr nur auf die Menge erledigter Aufgaben zu schauen. Sie wollten auch sehen, ob sie mit neuen Informationen umgehen, etwas erklären und auf eine andere Person reagieren konnten, ohne vorher jeden Satz vorzubereiten.",
+          "四周后Nora认为应用帮助规律、例句对话帮助使用，不确定各项贡献大小。Amir相近。不只看完成量，还看新信息、说明和未预写回应能力。"
+        ]
+      ],
+      "notes": [
+        "was sie mit „besser“ meinten：间接问题保留疑问词was，meinten末位。",
+        "nicht ... sondern...纠正对立；nicht nur ... sondern auch...才是添加两项。",
+        "ohne vorher jeden Satz vorzubereiten：ohne...zu不定式，可分动词zu置中间。"
+      ],
+      "questions": [
+        "短文：Ben如何改变练习？",
+        "长文：为什么不能称为科学证明？",
+        "长文：Nora与Amir分别补了哪类训练？",
+        "提出一项能检验“会用词”而不只“认得词”的任务。"
+      ],
+      "answers": [
+        "为五词写例子，讲故事由Eva追问。",
+        "第2段基础和时长不一致，没有受控比较。",
+        "第3、4段：Nora加完整句和变换；Amir合本自由说再补缺。",
+        "例如：不用选项给伙伴解释路线变化，伙伴问一个新问题。"
+      ]
+    },
+    "5": {
+      "short": [
+        [
+          "Eva zieht am Samstag in eine kleinere Wohnung. Sie bittet drei Freunde um Hilfe und schreibt ihnen vorher, wann sie kommen sollen und welche Aufgaben geplant sind. Die Kisten beschriftet sie mit dem jeweiligen Zimmer. Nur die Werkzeugkiste bleibt zunächst ohne Schild. Am Umzugstag stehen die Möbel zuerst im Flur, sodass der Weg zur Küche eng wird. Ben schlägt vor, die großen Teile sofort in die richtigen Räume zu bringen. Während zwei Freunde den Tisch aufbauen, sucht Eva nach dem Werkzeug. Schließlich findet sie es unter mehreren Büchern. Rückblickend hätte sie diese Kiste deutlicher kennzeichnen sollen. Am Nachmittag ist der wichtigste Teil geschafft. Die Gruppe macht eine Pause, und Eva bedankt sich. Die restlichen Bücher packt sie später allein aus. Sie erwartet nicht, dass alle Freunde ohne vorherige Absprache bis zum Abend bleiben.",
+          "Eva周六搬小房，提前告时与任务、按房间标箱，但工具箱漏标。家具堵走廊，Ben建议直接入房。工具混在书下难找，回看应标清。下午主任务完即休息感谢，剩书自己拆，不默认朋友留至晚。"
+        ]
+      ],
+      "long": [
+        [
+          "Für Amir war der Umzug nicht nur ein Wechsel der Adresse. Er zog zum ersten Mal ohne seine bisherige Wohngemeinschaft in eine eigene kleine Wohnung. In den Wochen davor hatte er Möbel ausgemessen, Kisten gesammelt und Freunde um Hilfe gebeten. Die neue Wohnung lag zwar näher an seiner Arbeit, hatte aber keinen Aufzug. Deshalb wollte er die schweren Dinge gut vorbereiten. In seiner ersten Nachricht schrieb er jedoch nur, dass er am Samstag Hilfe brauche. Erst nach einer Rückfrage ergänzte er Beginn, voraussichtliche Dauer und die Aufgaben, bei denen tatsächlich Unterstützung nötig war.",
+          "Amir首次离合租独居，量家具集箱请友。新家近工作却无电梯需准备。第一消息只说周六帮忙，追问后补开始、时长和具体任务。"
+        ],
+        [
+          "Am Freitag packte er bis spät in die Nacht. Viele Kisten bekamen ein Schild mit dem Zielraum, einige aber nur eine sehr allgemeine Beschreibung wie „Sachen“. Außerdem legte er wichtige Werkzeuge zwischen Bücher, damit er sie nicht vergaß. Diese Idee schien ihm zunächst praktisch. Am nächsten Morgen konnte er sich jedoch nicht mehr erinnern, in welcher Kiste die Werkzeuge lagen. Seine Freundin Lea schlug vor, eine kleine Tasche mit Dingen zu behalten, die während des Umzugs sofort gebraucht wurden. Dazu gehörten auch die Schlüssel, eine Liste mit Telefonnummern und die Adresse der neuen Wohnung.",
+          "周五晚标箱有的仅“Sachen”，工具夹书以免忘却次晨找不到。Lea建议即时物品独立袋，含工具钥匙号码地址。"
+        ],
+        [
+          "Als die Gruppe in der neuen Wohnung ankam, stellten einige Helfer die Kisten zunächst im Flur ab. Nach kurzer Zeit war der Weg so eng, dass niemand mehr bequem zur Küche gelangen konnte. Amir sagte zunächst nur, die Kisten sollten „weiter nach hinten“. Das führte zu weiteren Fragen. Schließlich erklärte er genauer, welche Kisten ins Arbeitszimmer und welche vor das Regal im Wohnzimmer gehörten. Eine Person blieb oben und zeigte die Plätze. Die anderen konnten die Dinge nun direkt dorthin tragen. Dadurch wurde der Flur wieder frei, und unnötiges Umstellen ließ sich vermeiden.",
+          "到新家先堆走廊导致难去厨房，“再往后”不清。Amir明确哪些去书房哪些客厅架前，一人楼上指位置，直接搬到位，通道恢复。"
+        ],
+        [
+          "Während zwei Freunde den Tisch aufbauten, räumte Lea die Küche ein. Sie fragte vorher, welche Gegenstände Amir am ersten Abend brauchen würde. Statt alle Schränke sofort vollständig zu ordnen, stellte sie nur das Nötigste an gut erreichbare Plätze. Amir bemerkte, dass diese Auswahl Zeit sparte. Er selbst hatte geplant, möglichst alles an einem Tag fertigzustellen. Nun sah er, dass eine nutzbare Wohnung wichtiger war als jede perfekt sortierte Schublade. Die ungeöffneten Bücherkisten konnten noch einige Tage im Arbeitszimmer bleiben, solange sie den Weg nicht versperrten und eindeutig gekennzeichnet waren.",
+          "两人装桌，Lea先问当晚所需，仅摆厨房必需品。Amir原想当日全完，发现先可居住比抽屉完美更重要，书箱不挡路且标清可缓拆。"
+        ],
+        [
+          "Am frühen Nachmittag musste Ben gehen, weil er einen weiteren Termin hatte. Er hatte das bereits am Anfang gesagt, aber Amir hatte es im Trubel fast vergessen. Die Gruppe verteilte die verbleibenden Aufgaben neu, statt Ben zum längeren Bleiben zu drängen. Sie brauchte nun etwas mehr Zeit für den letzten Schrank. Amir bedankte sich ausdrücklich für die Hilfe und notierte, welche geliehenen Kisten er zurückbringen musste. Nach einer Pause beschlossen die übrigen Freunde gemeinsam, noch eine Stunde weiterzumachen. Diese zusätzliche Zeit war eine neue Absprache und keine selbstverständliche Verlängerung der ursprünglichen Bitte.",
+          "Ben早说下午有约，Amir忙中忘了，但未逼留，重分任务。记借箱归还并感谢；其余人另约加一小时，不视为原请求自动延长。"
+        ],
+        [
+          "Einige Tage später schrieb Amir eine kurze Nachricht an die Gruppe. Er erzählte, dass die Wohnung inzwischen gut nutzbar sei, und nannte zwei Dinge, die er beim nächsten Mal ändern würde. Wenn er die Werkzeugkiste deutlich markiert hätte, hätten sie weniger suchen müssen. Wenn er die Zielräume schon vor dem Tragen erklärt hätte, wäre der Flur nicht so schnell voll geworden. Gleichzeitig wollte er den Tag nicht nur als Sammlung von Fehlern sehen. Die Freunde hatten flexibel zusammengearbeitet und offen gesagt, was möglich war. Gerade diese klaren Grenzen hatten dazu beigetragen, dass die Hilfe für alle angenehm blieb.",
+          "几日后写信说已可正常生活，回顾若标工具、先讲目标房可少找少堵。也看到灵活协作和明确能力边界，使帮助体验好。"
+        ]
+      ],
+      "notes": [
+        "ins Arbeitszimmer方向第四格；im Arbeitszimmer位置第三格。",
+        "hätten ... suchen müssen为过去虚拟式情态双不定式，识别即可；主动可写hätten wir Zeit gespart。",
+        "statt Ben ... zu drängen：同一小组选择不逼Ben留下，表示替代做法。"
+      ],
+      "questions": [
+        "短文：Eva如何界定朋友帮助的时间？",
+        "长文：为什么“weiter nach hinten”不够？",
+        "长文：Ben离开后小组如何处理？",
+        "用一句过去假设说明工具箱标注的改进。"
+      ],
+      "answers": [
+        "提前说明任务；下午主要任务结束，剩余自己处理，不默认整晚帮助。",
+        "第3段没指明确目标空间，后来分房间并由一人指引。",
+        "第5段重新分工，其余加时另行约定，未强留Ben。",
+        "Wenn Amir die Werkzeugkiste beschriftet hätte, hätte er weniger gesucht."
+      ]
+    },
+    "6": {
+      "short": [
+        [
+          "Ein Kulturzentrum veranstaltet einen Werkstatttag. Am Empfang werden die angemeldeten Gäste begrüßt und mit Namensschildern versorgt. Die wartenden Personen erhalten einen Plan mit drei Stationen. Auf dem ersten Entwurf der Hinweise steht: „Nach Beendigung ist eine Rückgabe erforderlich.“ Zwei Testleser verstehen nicht, ob sie den Plan, das Schild oder beide Dinge zurückgeben sollen. Das Team ändert den Satz in: „Bitte geben Sie am Ende nur das Namensschild am Empfang zurück. Den Plan dürfen Sie behalten.“ Auch die übrigen Hinweise werden geprüft. Ein kurzer Text ist für das Team erst dann gelungen, wenn eine neue Person daraus eine eindeutige Handlung ableiten kann. Am Veranstaltungstag fragt eine Kollegin einige Gäste, welcher Hinweis hilfreich war und wo noch Fragen blieben. Diese Antworten werden für den nächsten Termin gesammelt, nicht als Beweis verwendet, dass alle Besucher alles verstanden haben.",
+          "文化中心工作坊接待领牌及三站图。初稿“结束后须归还”未指物品，试读者不清。改只还姓名牌、图可保留，并检其他提示。用新读者能否行动判断清楚度；现场抽问反馈仅供改进，不代表全体都懂。"
+        ]
+      ],
+      "long": [
+        [
+          "Das Team eines kleinen Kulturzentrums plante einen offenen Werkstatttag. Besucherinnen und Besucher sollten verschiedene kreative Tätigkeiten kennenlernen und selbst etwas ausprobieren können. Die Mitarbeitenden kannten den Ablauf aus früheren Veranstaltungen sehr gut. Gerade deshalb übersahen sie zunächst, wie viele Informationen für neue Gäste nicht selbstverständlich waren. Auf dem ersten Plan standen Namen von Räumen, die nur das Team benutzte. Außerdem wurden Anmeldung, Ausgabe der Materialien und Beginn der Führungen in einem einzigen langen Absatz erklärt. Niemand wollte unfreundlich sein, aber die Beschreibung verlangte von neuen Personen bereits viel Vorwissen und Geduld.",
+          "中心办体验工作坊，团队熟流程反忽略新客所需。初图用内部房名，将登记领材导览挤长段。无恶意，却要求先验知识和耐心。"
+        ],
+        [
+          "Lea schlug vor, die Hinweise mit zwei Personen zu testen, die das Gebäude noch nicht kannten. Sie gab ihnen den Entwurf und bat sie, den ersten Schritt zu erklären. Beide lasen aufmerksam, verstanden aber unterschiedliche Wege. Eine Person wollte direkt in den größten Raum gehen, die andere zuerst nach einem Formular suchen. Das Team erklärte nicht sofort die richtige Antwort, sondern notierte die Stellen, an denen Unsicherheit entstand. So wurde sichtbar, dass nicht die Gäste zu wenig aufpassten. Der Text stellte die Reihenfolge und die Orte einfach noch nicht klar genug dar.",
+          "Lea请两陌生建筑者试读，说出第一步，出现直接进大厅与找表的不同理解。团队先记不立即纠正，看出问题在流程地点表达而非读者不认真。"
+        ],
+        [
+          "Anschließend überarbeiteten die Mitarbeitenden den Anfang. Nun stand dort zuerst: „Bitte kommen Sie zum Empfang im Erdgeschoss.“ Im nächsten Satz wurde erklärt, dass dort die Anmeldung geprüft und ein Namensschild ausgegeben wurde. Wer noch nicht angemeldet war, sollte sich an eine bestimmte Kollegin wenden. Für wartende Gäste lag ein Plan bereit. Die Beschreibungen der drei Stationen wurden getrennt und mit einfachen Tätigkeiten verbunden. Das Team ersetzte außerdem einige abstrakte Nomen durch Verben. Aus einer komplizierten Formulierung über die Durchführung einer Kontrolle wurde die konkrete Information, wer welche Angaben prüfte und was danach geschah.",
+          "改先一楼接待，再核报名发牌；未报名找指定同事，等候有图。三站分述具体操作，将抽象名词改动作，谁查什么及后续更清楚。"
+        ],
+        [
+          "Besonders viel diskutierte das Team über einen Satz am Ende. Ursprünglich hieß es nur, dass nach der Veranstaltung eine Rückgabe erforderlich sei. Einige Mitarbeitende fanden das ausreichend, weil sie natürlich die Namensschilder meinten. Die Testleser konnten das aber nicht wissen. Deshalb ergänzte das Team sowohl den Gegenstand als auch den Ort: Nur die Schilder sollten am Empfang zurückgegeben werden. Die Pläne durften die Gäste mitnehmen. Das Wort „nur“ war dabei keine unnötige Kleinigkeit. Es verhinderte, dass jemand aus Vorsicht alle erhaltenen Unterlagen wieder abgab oder aufbewahrte, obwohl sie für zu Hause gedacht waren.",
+          "结尾归还原句未指姓名牌，内部觉得自然、外人不知。补物品地点，仅牌归接待、图带走。nur防止误还或误留全部资料。"
+        ],
+        [
+          "Am Werkstatttag verlief nicht alles ohne Rückfragen. Eine ältere Besucherin konnte die kleine Schrift auf dem Plan schwer lesen, und ein Gast fand den Empfang trotz des Hinweises nicht sofort. Das Team stellte deshalb ein zusätzliches Schild auf und hielt einige größere Ausdrucke bereit. Lea notierte diese Änderungen, damit sie beim nächsten Termin nicht wieder vergessen wurden. Gleichzeitig achtete sie darauf, aus einzelnen Rückmeldungen keine Aussage über alle Gäste zu machen. Einige hatten den Text gar nicht benutzt, weil sie gemeinsam mit erfahrenen Freunden gekommen waren und sich an ihnen orientierten.",
+          "现场仍有人看不清小字、找不到接待，加牌与大字版并记入下次。有些客人跟熟人根本未读，不能据个别反馈声称全懂。"
+        ],
+        [
+          "Nach der Veranstaltung sammelte das Team die Erfahrungen in einer kurzen Übersicht. Es unterschied zwischen Informationen, die fehlten, Formulierungen, die missverständlich waren, und Problemen der Darstellung. Für jede Änderung wurde eine zuständige Person genannt. Die neue Fassung war nicht einfach die kürzeste Version des Textes. Sie war diejenige, bei der die wichtigsten Schritte deutlich voneinander getrennt waren. Das Team nahm sich vor, künftige Hinweise wieder mit neuen Personen auszuprobieren. Verständlichkeit wurde damit zu einem Teil der Vorbereitung und nicht erst zu einer Erklärung, die man gab, nachdem am Veranstaltungstag schon mehrere Menschen am falschen Ort warteten.",
+          "活动后分缺信息、歧义、展示问题，逐项定负责人。新版不是最短，而是步骤分明。今后准备期请新人试读，不等走错才补解释。"
+        ]
+      ],
+      "notes": [
+        "die wartenden Personen：现在分词定语强调等候者。",
+        "geprüft ... ausgegeben wurde：过去动作被动；两动作共享助动词。",
+        "diejenige, bei der...意为“那一版，其…”，diejenige承接Fassung。"
+      ],
+      "questions": [
+        "短文：修改后的归还要求具体是什么？",
+        "长文：测试者误解后为什么先记录而不立刻解释？",
+        "长文：现场出现了哪些展示问题，如何处理？",
+        "把“材料发放后进行归还”改成明确的行动提示。"
+      ],
+      "answers": [
+        "结束仅姓名牌还接待处，图可留。",
+        "第2段要定位文本本身的歧义；立即解释会掩盖读者首次理解。",
+        "第5段字小、接待难找；备大字版并加指路牌。",
+        "示例：Bitte geben Sie die Schere am Ende an Station 2 zurück. 物品地点时间明确即可。"
+      ]
+    },
+    "7": {
+      "short": [
+        [
+          "Eine Wohngemeinschaft möchte zweimal im Monat gemeinsam kochen. Bisher hat jede Person meist allein eingekauft, obwohl manche Zutaten bereits in der Küche vorhanden waren. Die Gruppe vereinbart deshalb zunächst zwei Probeabende. Pro Person sollen höchstens sechs Euro für Zutaten ausgegeben werden. Vor dem Einkauf fragt Nora nach Zusagen und besonderen Wünschen. Amir prüft die vorhandenen Vorräte, während Eva zwei einfache Gerichte vorschlägt. Nicht alle müssen dieselbe Aufgabe übernehmen, aber Einkauf, Kochen und Aufräumen sollen fair verteilt sein. Nach dem ersten Abend bleibt viel Reis übrig. Beim zweiten Mal wird die Menge angepasst. Am Ende vergleichen die Mitbewohner Kosten, Zeitaufwand und Reste. Sie stellen fest, dass gemeinsames Kochen gut funktionieren kann, wenn die Zahl der Gäste rechtzeitig bekannt ist. Eine feste wöchentliche Regel beschließen sie noch nicht, weil sich die Arbeitszeiten im nächsten Monat ändern.",
+          "合租想每月共餐两次，先试两晚，食材每人最多六欧。Nora收人数需求，Amir查储备，Eva提菜；公平分工不必人人同做。首晚米饭多，次晚调量。看费用时长剩余，人数及时有助；工时将变所以未定每周规则。"
+        ]
+      ],
+      "long": [
+        [
+          "In einer Wohngemeinschaft mit fünf Erwachsenen war die Küche immer gut gefüllt, trotzdem fehlte beim Kochen oft genau das, was jemand gerade brauchte. Gleichzeitig wurden manche Vorräte doppelt gekauft und später vergessen. Nora schlug deshalb vor, gelegentlich gemeinsam zu essen und den Einkauf besser abzustimmen. Die anderen fanden die Idee interessant, hatten aber unterschiedliche Vorstellungen. Amir wollte vor allem Geld sparen, Eva wünschte sich mehr gemeinsame Zeit, und Ben befürchtete zusätzliche Verpflichtungen nach langen Arbeitstagen. Bevor die Gruppe einen festen Plan machte, sammelte sie diese Erwartungen und schrieb auch die jeweiligen Grenzen dazu.",
+          "五人厨房储备多仍缺特定物且重买。Nora提共餐协调，Amir省钱、Eva相处、Ben怕工后负担。先收目标和边界。"
+        ],
+        [
+          "Sie beschlossen, mit zwei Abenden zu beginnen. Damit sollte niemand sofort einer dauerhaften Regel zustimmen müssen. Für die Zutaten legten sie einen Betrag von höchstens sechs Euro pro Person fest. Dieser Betrag bezog sich nicht auf neue Küchengeräte oder auf Getränke, die einzelne Personen zusätzlich kaufen wollten. Nora fragte nach besonderen Wünschen und danach, welche Zutaten nicht verwendet werden sollten. Die Gruppe vermied es, aus Herkunft oder Gewohnheiten automatisch auf Vorlieben zu schließen. Wer etwas nicht erklären wollte, konnte die konkrete Einschränkung nennen, ohne dafür eine persönliche Geschichte erzählen zu müssen.",
+          "先两晚非长期，食材上限六欧不含设备及额外饮品。直接询问不用食材，不据背景推偏好，报限制无需解释私人缘由。"
+        ],
+        [
+          "Vor dem ersten Einkauf prüfte Amir gemeinsam mit Eva die vorhandenen Vorräte. Sie fanden mehrere Packungen Reis, Gewürze und Gemüse, das zuerst verwendet werden sollte. Danach verglichen sie zwei Gerichte nach Preis, Aufwand und passenden Alternativen. Ein besonders günstiger Vorschlag schied aus, weil er für zwei Personen nicht geeignet war und keine einfache Abwandlung möglich schien. Die Gruppe entschied sich für ein Gericht, bei dem einzelne Zutaten getrennt ergänzt werden konnten. So mussten nicht zwei völlig verschiedene Mahlzeiten gekocht werden. Ben übernahm einen Teil des Aufräumens, weil er erst später nach Hause kommen konnte.",
+          "查米、香料及应先用蔬菜，按价工时替代比较。最便宜不适两人且难改被排，选可分加配料菜；Ben晚归负责部分清理。"
+        ],
+        [
+          "Der erste Abend war angenehm, aber die Mengen passten noch nicht gut. Eine Person hatte kurzfristig abgesagt, nachdem bereits eingekauft worden war. Außerdem hatte die Gruppe die Beilagen zu großzügig berechnet. Nora wollte zunächst nur festhalten, dass zu viel übrig geblieben war. Eva fragte genauer nach, welche Menge geplant und wie viele Personen tatsächlich dabei gewesen waren. Dadurch konnte die Gruppe beim zweiten Abend sinnvoller anpassen. Sie vereinbarte außerdem einen Zeitpunkt für Zu- und Absagen vor dem Einkauf. Änderungen danach waren weiterhin möglich, sollten aber sofort mitgeteilt werden, damit niemand mit einer alten Zahl weiterplante.",
+          "首晚临时采购后取消一人且配菜高估。Eva让记计划量与实到人数，不只“剩多”。第二晚可据调，约采购前确认期，之后变动立刻报。"
+        ],
+        [
+          "Nach dem zweiten Essen verglichen die Mitbewohner nicht nur die Ausgaben. Sie sprachen auch darüber, wie viel Vorbereitung nötig gewesen war und ob die Aufgaben fair verteilt waren. Ben fand hilfreich, dass sein später Feierabend berücksichtigt worden war. Amir war mit den Kosten zufrieden, wollte aber keine sichere Ersparnis behaupten, solange nur zwei Abende vorlagen. Eva hatte das gemeinsame Gespräch genossen, merkte jedoch, dass ein langer Kochabend nicht in jede Woche passte. Die Gruppe hielt deshalb unterschiedliche Ergebnisse nebeneinander fest, statt aus einer positiven Erfahrung sofort eine einzige gemeinsame Bewertung abzuleiten.",
+          "评价除费用还准备量公平。Ben被照顾、Amir满意但两晚不称保证省钱、Eva享聊天但不每周可行；保留不同结果而非强同一结论。"
+        ],
+        [
+          "Für den folgenden Monat wollten sie zwei weitere Termine suchen. Eine wöchentliche Verpflichtung beschlossen sie nicht, weil mehrere Arbeitspläne noch unbekannt waren. Ihre kleine Übersicht enthielt nun eine Liste vorhandener Zutaten, den Zeitpunkt für Rückmeldungen und eine einfache Aufteilung der Aufgaben. Wichtig war ihnen, dass diese Liste Unterstützung bot und nicht zu einer neuen Streitquelle wurde. Wenn eine Regel im Alltag nicht funktionierte, wollten sie sie gemeinsam ändern. Das gemeinsame Essen blieb damit ein Versuch, der zu ihren tatsächlichen Möglichkeiten passen musste. Gerade diese begrenzte Vereinbarung machte es für alle leichter, überhaupt teilzunehmen und Verantwortung zu übernehmen.",
+          "下月再找两晚，不立每周约因工时未知。列表含储备、回复期、分工，用来支持不是争吵；不行就改。有限承诺更便参与负责。"
+        ]
+      ],
+      "notes": [
+        "höchstens上限；mindestens下限；etwa约数，预算阅读须分清。",
+        "nachdem bereits eingekauft worden war：过去完成时被动，表示取消前已买；主动表达可简化为nachdem wir eingekauft hatten。",
+        "jeweilig表示各自相应，不等于所有人的限制一样。"
+      ],
+      "questions": [
+        "短文：为什么尚未定每周共餐？",
+        "长文：最便宜方案为何被排除？",
+        "长文：如何把“剩多了”变成可用记录？",
+        "写两句共同计划，含条件和明确分工。"
+      ],
+      "answers": [
+        "下一月工时会变。",
+        "第3段不适合两人且难以简单调整。",
+        "第4段记计划量与实际人数，设采购前回复时间。",
+        "Wenn alle zugesagt haben, planen wir die Mengen. Amir prüft vorher die Vorräte."
+      ]
+    },
+    "8": {
+      "short": [
+        [
+          "Im Gruppenchat erscheint die Nachricht, dass das Stadtmuseum ab Montag für längere Zeit geschlossen werde. Eva möchte deshalb einen geplanten Besuch absagen. Bevor sie das tut, liest sie die vollständige Mitteilung des Museums. Dort steht, dass nur der Raum mit der Fotoausstellung für vier Tage nicht zugänglich ist. Die anderen Bereiche bleiben geöffnet. Außerdem stammt die weitergegebene Nachricht aus einer älteren Planung. Der genaue Beginn der Arbeiten wird noch einmal bestätigt. Eva schreibt der Gruppe eine kurze Zusammenfassung und nennt die Quelle sowie das Datum der aktuellen Mitteilung. Sie erklärt, welche Information feststeht und was noch offen ist. Den Besuch sagt sie nicht sofort ab, sondern fragt, ob gerade die Fotoausstellung für die Gruppe wichtig ist. Erst danach soll über eine Änderung entschieden werden. Aus einer ungenauen Nachricht wird so eine konkrete Frage, die sich gemeinsam beantworten lässt.",
+          "群聊称博物馆周一长期关，Eva查全文仅摄影室四天不能进、其他开放；转发还来自旧计划，开工日待再确认。摘要注明来源日期已定未知，先问摄影是否关键再决定是否改访。"
+        ]
+      ],
+      "long": [
+        [
+          "Ein kleiner Lesekreis traf sich regelmäßig in der Stadtbibliothek. Als eines Morgens im Chat die Nachricht „Bibliothek geschlossen“ erschien, reagierten mehrere Mitglieder sofort. Einige wollten das nächste Treffen absagen, andere suchten bereits nach einem Ersatzraum. Die Nachricht enthielt jedoch weder ein Datum noch einen Hinweis auf die ursprüngliche Quelle. Nora fragte deshalb nach dem vollständigen Text. Die Person, die die Meldung weitergegeben hatte, hatte nur eine Überschrift gesehen und ging davon aus, dass sie für das ganze Gebäude galt. Niemand hatte absichtlich eine falsche Information verbreitet, aber die verkürzte Form veränderte den Inhalt erheblich.",
+          "读书会群聊“馆关”无日期源，众人拟取消找房。Nora索全文，转发者只见标题以为全楼。非故意造假，压缩却大改意义。"
+        ],
+        [
+          "Auf der Seite der Bibliothek fand Nora eine ausführlichere Mitteilung. Dort wurde erklärt, dass der Lesesaal wegen Arbeiten vorübergehend nicht genutzt werden konnte. Die Ausleihe im Erdgeschoss blieb geöffnet, und bereits bestellte Bücher konnten abgeholt werden. Der genaue Beginn der Arbeiten war noch nicht festgelegt. In einer älteren Nachricht hatte ein möglicher Montag gestanden, aber dieser Termin wurde inzwischen geprüft. Nora notierte die Unterschiede zwischen den beiden Fassungen. Sie vermied es, die ältere Information einfach als völlig nutzlos zu bezeichnen. Sie war nur nicht mehr der aktuelle Stand, auf dessen Grundlage die Gruppe entscheiden sollte.",
+          "官网详述仅阅览室暂不能用，一楼借还及预订领取继续，开工未定。旧稿曾可能周一现待核，不说旧信息全无价值，而是不能作当前决策依据。"
+        ],
+        [
+          "Für die Gruppe schrieb Nora eine kurze Zusammenfassung. Sie nannte zuerst die Quelle und das Datum, dann die betroffenen Räume und schließlich die offenen Fragen. Dabei achtete sie auf kleine Wörter wie „nur“, „vorübergehend“ und „noch nicht“. Ohne diese Wörter hätte ihre Nachricht wieder nach einer vollständigen und bereits begonnenen Schließung klingen können. Sie fügte keinen neuen Termin hinzu, nur weil eine Nachricht mit Datum vollständiger gewirkt hätte. Stattdessen schrieb sie ausdrücklich, dass die Gruppe die nächste Bestätigung abwarten müsse. Eine fehlende Information blieb dadurch sichtbar und wurde nicht unbemerkt durch eine Vermutung ersetzt.",
+          "摘要先源日，再范围，再未知，保留nur、暂时、尚未。没为完整而编日期，明确等待确认，缺口可见不被猜测替换。"
+        ],
+        [
+          "Anschließend fragte Nora, welche Folgen die Mitteilung tatsächlich für den Lesekreis hatte. Die Mitglieder brauchten vor allem einen ruhigen Raum zum Sprechen. Die Möglichkeit, Bücher auszuleihen, war an diesem Abend weniger wichtig. Deshalb konnte ein Ersatzraum sinnvoll sein, obwohl die Bibliothek nicht vollständig schloss. Zwei Personen boten an, andere Räume zu prüfen. Sie fragten dabei nach derselben Zeit und derselben Gruppengröße, damit die Angebote vergleichbar waren. Die Gruppe trennte nun zwei Fragen, die vorher vermischt worden waren: Was sagt die Nachricht, und welche Entscheidung ist für unseren eigenen Termin praktisch sinnvoll?",
+          "读书会要安静谈话、当晚借书次要，因此全馆未关也可需备用。两人按同时间人数查房，区分消息内容和自身实用决策。"
+        ],
+        [
+          "Am Freitag veröffentlichte die Bibliothek einen bestätigten Zeitraum. Nora aktualisierte ihre Zusammenfassung und kennzeichnete, welche Angabe neu war. Sie schrieb nicht, die vorherige offene Formulierung sei ein Fehler gewesen. Zum früheren Zeitpunkt hatte die Information tatsächlich noch gefehlt. Die Gruppe hatte inzwischen einen Ersatzraum gefunden und konnte den Termin beibehalten. Ein Mitglied bedankte sich besonders dafür, dass die verschiedenen Stände klar erkennbar geblieben waren. So musste niemand aus mehreren alten Nachrichten erraten, welche Aussage noch galt. Der Chat enthielt nun einen kurzen aktuellen Hinweis statt einer langen Folge unverbundener Vermutungen.",
+          "周五官网确认时段，Nora标新增，先前未定并非写错。找到备用照常聚，有人感谢版本清楚，不需从旧帖猜哪些有效。"
+        ],
+        [
+          "Beim nächsten Treffen besprachen die Mitglieder ihre Vorgehensweise. Sie wollten nicht jede alltägliche Nachricht mit einem langen Prüfbericht versehen. Bei Informationen, die gemeinsame Pläne verändern, sollten Quelle, Datum und Umfang aber kurz kontrolliert werden. Außerdem wollten sie Zusammenfassungen so schreiben, dass andere die ursprüngliche Aussage wiederfinden konnten. Nora betonte, dass Nachfragen nicht automatisch Misstrauen gegenüber der Person bedeuteten, die etwas weitergab. Manchmal half bereits die Frage, ob nur ein Raum oder das ganze Gebäude gemeint sei. Genaues Lesen und verständliches Weitergeben erwiesen sich damit als praktische Teile einer Zusammenarbeit, nicht als zusätzliche Aufgabe ohne erkennbaren Nutzen.",
+          "以后不每条消息长审，但影响计划就查源日范围，摘要可回溯。追问不等于怀疑转发者；问一室还是全楼便可能解决。准确读传是协作工具。"
+        ]
+      ],
+      "notes": [
+        "geschlossen werde在短文转述里为第一虚拟式，提示他人消息；主动可用Im Chat steht, dass ... geschlossen wird。",
+        "auf dessen Grundlage：dessen回指Stand，属格关系；本册只需识别，可改用nach diesem Stand。",
+        "weder ... noch ...表示两项均无，不能把无日期误读为日期尚未来临。"
+      ],
+      "questions": [
+        "短文：完整消息如何改变了原先的理解？",
+        "长文：旧消息与新消息的差异有哪些？",
+        "长文：为什么备用房仍有必要？",
+        "用三句转述：已确认内容、未确定内容、下一步。"
+      ],
+      "answers": [
+        "仅摄影室关四天，其余开；确切开始仍待确认，非全馆长期关闭。",
+        "第2段范围仅阅览室，借阅开；旧可能周一不再是当前定案。",
+        "第4段需要安静讨论场地，阅览室不能用已影响任务，无需全馆关闭才找房。",
+        "Laut der Mitteilung bleibt die Ausleihe offen. Der Beginn der Arbeiten ist noch unklar. Wir prüfen am Freitag die neue Nachricht."
+      ]
+    },
+    "9": {
+      "short": [
+        [
+          "Für ein Nachbarschaftsfest schlägt Ben vor, den Innenhof einen Tag lang ohne parkende Autos zu nutzen. Er möchte mehr Platz für Spiele und Gespräche schaffen. Nora unterstützt das Ziel, weist aber darauf hin, dass einige Gäste nur kurze Wege gehen können. Außerdem müssen Tische und Getränke geliefert werden. Die Gruppe diskutiert deshalb nicht nur über Zustimmung oder Ablehnung, sondern über eine passende Umsetzung. Sie entwickelt einen Vorschlag mit einem freien Spielbereich und einer getrennten Zufahrt zum kurzen Aussteigen. Lieferungen sollen möglichst vor Beginn des Festes stattfinden. Noch fehlt eine Person, die die Zufahrt betreut. Der Vorschlag wird deshalb zunächst an die zuständige Leitung geschickt. Erst nach deren Bestätigung soll der Plan veröffentlicht werden. Die Gruppe hat einen Kompromiss erarbeitet, aber noch nicht jede praktische Frage gelöst oder die endgültige Entscheidung getroffen.",
+          "Ben提院子无停车以多游戏交流，Nora赞目标但提短行距客人和配送。折中保留独立下客道、送货尽量开场前。照看人未定，先交负责人确认，尚非全部解决或最终决定。"
+        ]
+      ],
+      "long": [
+        [
+          "Die Vorbereitung des Nachbarschaftsfestes begann mit einer einfachen Idee: Der Innenhof sollte für einen Tag mehr Platz zum Begegnen bieten. Ben schlug vor, alle parkenden Autos aus dem Hof zu entfernen. Er stellte sich Spiele, kleine Tische und einen ruhigen Bereich zum Sitzen vor. Viele reagierten zunächst positiv. Nora fragte jedoch, ob mit dem Vorschlag auch jede Zufahrt ausgeschlossen sei. Ihre Frage klang für einige wie eine Ablehnung des ganzen Festes. Dabei wollte sie nur eine konkrete Bedingung klären, bevor die Gruppe einen Plan festlegte, der später möglicherweise geändert werden musste.",
+          "邻里节Ben提移走停车置游戏桌椅，多数支持。Nora问是否任何车都不可进，被误作反对节日，实仅查实施条件。"
+        ],
+        [
+          "Nora erklärte, dass zwei ältere Gäste nicht weit laufen konnten und nahe am Eingang aussteigen mussten. Außerdem sollten am Morgen Tische und Getränkekisten geliefert werden. Ben antwortete zuerst, dass die Gruppe doch etwas für Kinder tun wolle. Daraufhin fasste Eva beide Anliegen zusammen: mehr freie Fläche und gleichzeitig ein nutzbarer Zugang für bestimmte Situationen. Diese Zusammenfassung half, die Diskussion zu verändern. Die Gruppe musste nicht mehr entscheiden, welches Bedürfnis wichtiger klang. Sie konnte nun nach einer Gestaltung suchen, die möglichst viel von beiden Anliegen berücksichtigte, ohne so zu tun, als gäbe es überhaupt keinen Konflikt.",
+          "Nora提两位长者短距和晨配送，Ben先强调儿童；Eva复述自由空间与特殊进出两个需求，使讨论找兼顾设计，承认存在冲突。"
+        ],
+        [
+          "Zunächst wurden drei Möglichkeiten gesammelt. Eine vollständige Schließung war einfach zu erklären, passte aber nicht zu allen Gästen. Eine offene Zufahrt durch den ganzen Hof hätte dagegen den geplanten Spielbereich beeinträchtigt. Als dritte Möglichkeit kam ein getrennt gehaltener Weg an der Seite zur Sprache. Die Gruppe prüfte auf einem Plan, ob dieser Weg tatsächlich bis zum Eingang führte. Sie fragte außerdem, wer während der Veranstaltung auf den Zugang achten könnte. Ein Vorschlag wurde dadurch nicht allein nach seiner freundlichen Formulierung beurteilt, sondern danach, ob er unter den vorhandenen Bedingungen überhaupt umgesetzt werden konnte.",
+          "三案全封、全开、侧道。前二各牺牲需求，第三对图查通入口并问管理人，以可实施而非好听来评。"
+        ],
+        [
+          "Ben erklärte sich bereit, die Lieferungen zeitlich abzustimmen. Wenn möglichst alles vor Beginn des Festes ankam, musste später weniger Material durch den Hof getragen werden. Nora wollte mit den Gästen sprechen, die einen kurzen Zugang brauchten. Noch war aber unklar, ob sich genügend Helfer für die Betreuung des seitlichen Weges finden würden. Die Gruppe hielt diesen Punkt ausdrücklich offen. Sie schrieb nicht einfach einen Namen in den Plan, ohne die betreffende Person zu fragen. Außerdem sollte die zuständige Leitung prüfen, ob die vorgesehene Aufteilung des Hofes für diese Veranstaltung tatsächlich möglich war.",
+          "Ben调配送尽量开场前，Nora问需短通道客人。侧道人员未知，不擅填名，另请负责人核布局可用性。"
+        ],
+        [
+          "Am Ende formulierten die Beteiligten eine gemeinsame Nachricht. Sie beschrieben zuerst das Ziel, dann die unterschiedlichen Bedürfnisse und schließlich den vorläufigen Vorschlag. Die Nachricht enthielt auch die offenen Fragen und eine Bitte um Rückmeldung bis Mittwoch. Eva achtete darauf, dass die Zustimmung innerhalb der kleinen Planungsgruppe nicht als endgültige Genehmigung dargestellt wurde. Ben fand die Formulierung zunächst zu vorsichtig. Nach einem kurzen Gespräch verstand er jedoch den Unterschied: Die Gruppe konnte ihren eigenen Vorschlag unterstützen, aber nicht im Namen aller zuständigen Personen sprechen. Diese Grenze machte die Nachricht genauer, ohne den gemeinsam erreichten Fortschritt kleinzureden.",
+          "消息写目标需求暂案未知，请周三前答。Eva防小组赞同被写批准，Ben起觉保守后理解只能代表自身支持，非替所有授权者决定。"
+        ],
+        [
+          "In der folgenden Woche konnte ein Teil des Plans bestätigt werden. Für die Betreuung fehlte weiterhin eine Person, sodass die Gruppe die Dauer des offenen Zugangs anpassen musste. Trotzdem empfanden die Beteiligten die erste Diskussion als hilfreich. Sie hatten gelernt, einen Einwand nicht sofort als persönliche Kritik zu hören. Konkrete Beispiele hatten ihnen mehr geholfen als allgemeine Aussagen darüber, wer vernünftig oder unvernünftig sei. Für spätere Gespräche wollten sie drei Schritte beibehalten: das Anliegen der anderen Person kurz wiedergeben, nach noch fehlenden Bedingungen fragen und am Ende deutlich zwischen einem Vorschlag, einer Vereinbarung und einer endgültigen Bestätigung unterscheiden.",
+          "次周部分确认，人员少需改开放时长。仍认为讨论有用，异议非人格批评，具体例子优于评理性。保留复述、追问条件、分提案约定确认三步骤。"
+        ]
+      ],
+      "notes": [
+        "ohne ... so zu tun, als gäbe es...为较复杂虚拟比较，先理解“不假装不存在冲突”，不要求模仿全结构。",
+        "sich bereit erklären, ... zu...意为表示愿意做，行动者是主句主语。",
+        "sodass引出人员不足的后果；damit应表达目的，两者不可互换。"
+      ],
+      "questions": [
+        "短文：哪些事项仍未完成？",
+        "长文：Eva如何让讨论摆脱二选一？",
+        "长文：为什么不能直接在分工表填姓名？",
+        "提出一个异议，并用一句话承认对方目标。"
+      ],
+      "answers": [
+        "侧道照看人未定，负责人未最终确认。",
+        "第2段把两方具体需求并列，转向空间设计而非谁更正确。",
+        "第4段该人尚未被问且未承诺，不能代其同意。",
+        "Ich unterstütze das Ziel, mehr Platz zu schaffen. Wir müssen aber einen kurzen Zugang für einige Gäste ermöglichen."
+      ]
+    },
+    "10": {
+      "short": [
+        [
+          "Zum Abschluss des Kurses stellt Lea eine kleine Lernmappe zusammen. Darin liegen nicht nur ihre besten Texte, sondern auch ein früher Entwurf, eine Rückmeldung und eine überarbeitete Fassung. Sie markiert, wo sie den Anlass einer E-Mail klarer erklärt und eine Bitte genauer formuliert hat. Zusätzlich vergleicht sie zwei kurze Aufnahmen. In der neueren spricht sie zusammenhängender, macht aber weiterhin Pausen bei unerwarteten Fragen. Um zu prüfen, ob sie das Gelernte übertragen kann, bearbeitet sie eine neue Aufgabe ohne Vorlage. Dabei merkt sie, dass sie Ortsangaben noch genauer üben möchte. Für die nächsten vier Wochen plant sie deshalb wöchentlich ein Gespräch mit einer veränderten Situation. Ihre Mappe zeigt Fortschritte und offene Lernziele zugleich. Sie versteht den Kursabschluss als Anlass für eine begründete Selbsteinschätzung, nicht als automatische Bestätigung, dass jede Aufgabe auf dem nächsten Niveau bereits leicht sein wird.",
+          "Lea档案含好稿、早稿、反馈、修改，标事由请求改进；录音更连贯但追问仍停。新题发现地点表达需练，未来四周每周变式对话。档案同时显示进展和目标，结课不等于下级任务全轻松。"
+        ]
+      ],
+      "long": [
+        [
+          "Am Ende der Kursreihe wollte die Lerngruppe nicht nur eine letzte Liste mit Grammatikregeln bearbeiten. Die Teilnehmenden sollten zeigen, was sie mit der Sprache tatsächlich tun konnten und wo sie noch Unterstützung brauchten. Dafür stellte jede Person eine kleine Lernmappe zusammen. Die Aufgabe bestand nicht darin, möglichst viele Seiten zu sammeln. Gefragt waren wenige Beispiele, an denen ein Lernweg sichtbar wurde: ein früher Text, eine Rückmeldung, eine überarbeitete Fassung und eine neue Aufgabe ohne Vorlage. Dazu kam eine kurze mündliche Erklärung, warum gerade diese Materialien ausgewählt worden waren und welche Veränderungen sie zeigten.",
+          "结课非只语法清单，而展示实际能力和需支持处。档案求少量有学习轨迹样本：早稿反馈改稿新题，并口头解释选择与变化。"
+        ],
+        [
+          "Lea entschied sich für eine E-Mail, in der sie früher um eine Terminänderung gebeten hatte. In der ersten Fassung war der Grund ausführlich beschrieben, die eigentliche Bitte aber kaum zu erkennen. Nach einer Rückmeldung hatte sie den Text umgestellt. Nun nannte sie den ursprünglichen Termin, erklärte den Anlass kurz und bot zwei konkrete Alternativen an. In ihrer Präsentation sagte sie nicht einfach, die neue Fassung sei besser. Sie zeigte die entsprechenden Stellen und erklärte, welche Information die empfangende Person nun schneller finden konnte. So wurde aus einem allgemeinen Urteil eine nachvollziehbare Beobachtung über eine bestimmte Aufgabe.",
+          "Lea原改期邮件原因长、请求不显；反馈后先原时间，短原因，两备选。展示指具体处说明收件人更易找到信息，非只说更好。"
+        ],
+        [
+          "Für den mündlichen Teil hörte sie sich zwei eigene Aufnahmen an. In der älteren las sie fast einen vollständigen Text ab. In der neueren sprach sie mit Stichwörtern und reagierte auf zwei Fragen ihrer Partnerin. Sie bemerkte Fortschritte in der Verbindung ihrer Gedanken, aber auch längere Pausen. Besonders eine unerwartete Frage hatte sie aus dem Konzept gebracht. Die Kursleiterin bat sie, diese Schwierigkeit nicht aus der Mappe zu entfernen. Gerade daran ließ sich ein sinnvolles nächstes Lernziel erkennen: ein Gespräch auch dann weiterführen, wenn die vorbereiteten Wörter und Beispiele nicht genau zur Frage passten.",
+          "旧录音近照读，新用关键词答两问，连贯改善仍停顿；意外问扰乱。教师让保留缺点，作为下一目标：预备词例不贴题也继续交流。"
+        ],
+        [
+          "Anschließend bearbeitete Lea eine neue Aufgabe. Sie sollte mit einem Partner eine Veranstaltung planen, deren Raum kurzfristig geändert worden war. Zunächst konnte sie Vorschläge machen und Aufgaben verteilen. Als der Partner nach dem Weg zum neuen Eingang fragte, wurden ihre Ortsangaben jedoch ungenau. Sie korrigierte sich und bat um einen Moment, aber eine zusätzliche Übung erschien sinnvoll. Diese Erfahrung widersprach den vorherigen Fortschritten nicht. Sie zeigte nur, dass eine gelungene bekannte Aufgabe noch nicht bedeutete, jede ähnliche Situation ohne Schwierigkeiten bewältigen zu können. Die neue Aufgabe ergänzte deshalb die Mappe um eine wichtige weitere Perspektive.",
+          "新题活动换房，能提案分工，问新门路径时位置不准，自纠请稍等仍需练。这不否定进步，熟题成功不保证所有类似场景；新题添视角。"
+        ],
+        [
+          "Aus ihren Beobachtungen entwickelte Lea einen Plan für vier Wochen. Jede Woche wollte sie ein kurzes freies Gespräch führen, dabei mindestens eine nicht vorbereitete Rückfrage beantworten und anschließend zwei konkrete Stellen auswerten. Zusätzlich plante sie, zwei neue Texte zu lesen und deren Hauptaussagen mit eigenen Worten wiederzugeben. Sie legte nicht für jeden Tag eine lange Liste fest. Der Plan sollte in ihren Alltag passen und genügend Wiederholung enthalten. Am Ende wollte sie erneut eine neue Aufgabe versuchen und vergleichen, welche Schwierigkeiten seltener auftraten. Für Probleme, die bestehen blieben, würde sie gezielt Unterstützung suchen.",
+          "四周每周自由对话、至少一意外追问、复盘两处；另读两篇脱稿概括，不每日长清单，合生活可重复。末再新题，看哪问题减少，持续问题求针对支持。"
+        ],
+        [
+          "Beim Abschlussgespräch stellte die Gruppe ihre unterschiedlichen Wege vor. Einige waren beim Schreiben sicherer geworden, andere konnten Gespräche leichter beginnen oder längere Texte besser gliedern. Niemand musste behaupten, nun keine Fehler mehr zu machen. Entscheidend war, Fortschritte mit Beispielen zu zeigen und nächste Schritte begründet zu wählen. Die Kursreihe war damit abgeschlossen, das Lernen aber nicht beendet. Für den Übergang zu anspruchsvolleren Aufgaben wollten die Teilnehmenden sowohl ihre vorhandenen Mittel nutzen als auch neue Anforderungen schrittweise kennenlernen. Ihre Mappen sollten ihnen dabei helfen, nicht nur eine Stufe als Etikett zu sehen, sondern konkrete Fähigkeiten, die im Alltag immer wieder gebraucht und weiterentwickelt werden.",
+          "结业各有写作对话阅读进步，无需称零错。以例证展示及择下一步；课程结束学习继续，向难任务过渡结合既有能力与逐步新要求，不只标签看等级。"
+        ]
+      ],
+      "notes": [
+        "aus dem Konzept bringen使某人乱了思路；不能逐字按“从概念带出”译。",
+        "deren Raum回指Veranstaltung的房间，为属格关系形式；主动可用Der Raum der Veranstaltung...拆句。",
+        "die überarbeitete Fassung：完成分词作形容词；Beim Schreiben：不定式名词化。"
+      ],
+      "questions": [
+        "短文：Lea为何加入新任务？",
+        "长文：邮件改进有哪些可见证据？",
+        "长文：新任务失败是否推翻已有进步？为什么？",
+        "列一项目标、一个练习安排和一个检查证据。"
+      ],
+      "answers": [
+        "检验迁移，不只熟题表现；发现地点表达待练。",
+        "第2段原预约、简短原因、两具体备选使请求清晰可找。",
+        "第4段没有，能力随情境不完全稳定，新题提供更多诊断证据。",
+        "示例：目标回应追问；每周无全文对话；月底用未预告新题录音比较能否澄清并继续。"
+      ]
+    }
+  },
+  "intro": [
+    [
+      "使用说明与本册定位",
+      [
+        [
+          "这本书接在哪里",
+          "本册承接B1.3，是本系列B1四分册中的最后一册。沿用10单元、每单元5课的结构，把已有句型用于较完整的日常沟通。B1.1至B1.4是课程内部安排，不是CEFR额外设立的四个官方等级。完成本册后，可用新材料评估是否需要继续巩固或进入B2。"
+        ],
+        [
+          "学完能做什么",
+          "围绕熟悉主题讲有顺序的经历；在出行和服务场景中澄清需求；解释看法并回应他人；读懂日常消息的主要内容和关键限制；写结构清楚的邮件与简短报告；遇到词汇缺口时用解释、例子和追问维持交流。目标是可理解且能完成任务，不要求语言零错误。"
+        ],
+        [
+          "保留的五课制",
+          "第1课词汇与搭配；第2课五项语法详解；第3课听力与口语；第4课阅读与写作；第5课文化与四向翻译。每单元随后有独立答案页。第5与第10单元含阶段回看；册末有四技能综合测评、独立语法诊断、评分与学习档案建议。"
+        ],
+        [
+          "语料与辅助语言",
+          "德语是目标语言，中文解释语法与内容，英语主要辅助词汇和翻译对比。阅读段后的中文是辅助释义与内容梳理，不逐词对应。请先读德语再看中文；不把能看懂中文当作独立读懂德语。全部人物和事件为原创教学情境。"
+        ],
+        [
+          "听力如何使用",
+          "本书提供朗读脚本，不附录音。请教师或伙伴朗读德语；第一遍听主旨，第二遍抓事实和限制，最后核对脚本。自学时可用具备德语朗读功能的工具，但需检查发音；若直接看稿答题，只能记阅读脚本练习，不能记听力成绩。"
+        ],
+        [
+          "难度边界",
+          "长文保留系列的500词以上分段阅读，用于辅导、复现与策略训练；其中少数复杂结构只要求识别。第一虚拟式、属格关系代词、情态双不定式等均有提示，不等于要求掌握完整B2语法。"
+        ]
+      ]
+    ],
+    [
+      "学习节奏与任务循环",
+      [
+        [
+          "建议安排",
+          "可按10周推进，每周一单元；每单元五次45至60分钟学习，加两次30分钟复习和一次20分钟口语。另留两周作诊断、结业测评与补弱。时间只是建议，阅读较慢可把第4课拆成短文、长文、写作三次，不以赶页数替代完成任务。"
+        ],
+        [
+          "第1课：从识别到提取",
+          "先读20个德英中词项，名词连冠词复数；把其中6项写进3个个人句子。遮住德语，从中文回忆；第二天再次提取。一个词在不同单元复现属于有意巩固，200条是教学条目数，不声称全部为首次出现的不同词。"
+        ],
+        [
+          "第2课：概念、形式、意义",
+          "每项语法先划中文说明中的概念，再圈德语变位动词，比较正例和易错提醒。完成五题后看答案，必须说出理由。最后用本单元任务写4句，至少覆盖三项结构；少而准确比堆叠复杂句更有效。"
+        ],
+        [
+          "第3课：输入后互动",
+          "先看问题并遮稿听。核对后只留关键词，与伙伴更换时间、地点或条件重演。伙伴至少提出一个未预告追问；不懂时用Könntest du das genauer erklären?或Meinst du ...?，不要立即换中文。"
+        ],
+        [
+          "第4、5课：理解后迁移",
+          "短文找主旨；长文每次读一至两段，记录事实、观点和未知。独立写作后比较范文并改一稿。翻译先不看答案，核对语序、时态、限制词和语气；合理同义表达不必与答案逐字相同。"
+        ],
+        [
+          "一周回看",
+          "保留初稿、修改稿和一分钟录音。周末写三条：我能独立完成什么，仍需要什么提示，下周用哪项新任务检查。每次只挑两类反复错误重点改，如动词位置与信息遗漏。"
+        ]
+      ]
+    ],
+    [
+      "B1.3衔接诊断 · 先完成再看答案",
+      [
+        [
+          "题1至3：语序与逻辑",
+          "1. 排序：Deshalb / wir / kommen / später。2. 用ob改写：Ist der Raum frei? 开头Ich weiß nicht。3. 用obwohl合并：Es regnet. Wir gehen spazieren。"
+        ],
+        [
+          "题4至6：格与不定式",
+          "4. Das ist die Frau, mit ___ ich gesprochen habe。5. Ich bitte Ben, mich morgen ___（anrufen）。6. 我把书给Eva，换双代词：Ich gebe Eva das Buch。"
+        ],
+        [
+          "题7至10：时间与信息",
+          "7. 用nachdem合并：Wir kauften die Karten. Dann fuhren wir los。8. Wenn ich mehr Zeit ___, würde ich bleiben（haben）。9. 把“尚未确认”译成德语。10. Nachricht: Nur der Lesesaal ist geschlossen; die Ausleihe bleibt geöffnet. 可以概括为Die ganze Bibliothek ist geschlossen吗？说明原因。"
+        ],
+        [
+          "参考答案1至5",
+          "1. Deshalb kommen wir später，副词前置V2。2. Ich weiß nicht, ob der Raum frei ist。3. Obwohl es regnet, gehen wir spazieren。4. der：mit第三格、Frau阴性。5. anzurufen：可分动词zu在中间，行动者Ben。"
+        ],
+        [
+          "参考答案6至10",
+          "6. Ich gebe es ihr。7. Nachdem wir die Karten gekauft hatten, fuhren wir los。8. hätte：现在非现实设想。9. noch nicht bestätigt。10. 不可以，nur限制阅览室，借阅区仍开；摘要扩大范围。每题1分，5和7允许等义规范句，关键意义须保留。"
+        ],
+        [
+          "如何使用结果",
+          "8至10分：进入单元并按错误选复习；5至7分：先复习对应语序、格或时间主题，再重做同类新句；0至4分：建议先回B1.3相应讲解并完成新例，之后再测。此为课堂安排建议，不是等级认证分数。"
+        ]
+      ]
+    ],
+    [
+      "语法工具箱 · 如何读本书的解释",
+      [
+        [
+          "四个格与动词支配",
+          "第一格Nominativ通常作主语；第四格Akkusativ常作直接宾语；第三格Dativ常作间接宾语或由动词介词要求；第二格Genitiv常表达所属。不能只用“人是第三格、物是第四格”判断：Ich sehe den Mann，helfen却要求第三格。"
+        ],
+        [
+          "变位动词与句框",
+          "变位动词随人称和时态改变，如komme、kam、hat。主句V2指第二句法成分，不是第二单词。从句weil/ob/dass等后变位动词通常末位；Perfekt中的分词和情态动词后的原形也形成框架。先找真正变位的部分再判断。"
+        ],
+        [
+          "时态与语气",
+          "时态组织事件时间；语气区分陈述、假设、请求等。hatte gelernt是先于过去时点的事实，hätte gelernt是过去假设。könnte礼貌请求不等于过去能力konnte。德语现在时加时间词可表达未来，不能按英语时态机械一一配对。"
+        ],
+        [
+          "从句、不定式与行动者",
+          "从句一般有明确主语和变位动词；zu不定式没有显式主语，行动者由主句动词或语境决定。Ich verspreche dir, zu kommen是我来，Ich bitte dich, zu kommen是你来。写之前用中文明确谁做什么。"
+        ],
+        [
+          "复数与词典标记",
+          "词表逗号后为复数：-e加e，-n加n，-表示单复数形式相同，完整写出的复数直接记；Sg.表示本义主要以单数使用，不是断言该词任何含义都无复数。动词可分前缀在主句拆开，在zu不定式中留出zu位置。"
+        ],
+        [
+          "先保证意义，再修形式",
+          "检查顺序：有没有完成任务、人物时间是否正确、是否把建议写成决定、是否漏nur/noch/vielleicht，再检查变位、语序、格和词尾。错误形式可能影响可理解度，信息范围错误即使语法正确也会误导。"
+        ]
+      ]
+    ],
+    [
+      "B1综合表达 · 可直接迁移的句型",
+      [
+        [
+          "叙事和时间线",
+          "Als ich ... begann, hatte ich bereits ...。Zuerst ...; danach ...; schließlich ...。Heute sehe ich ... anders。先交代背景，再讲具体变化，最后说明现在的评价，不必每句都加时间副词。"
+        ],
+        [
+          "澄清和确认",
+          "Habe ich richtig verstanden, dass ...? Bezieht sich das auf ... oder auf ...? Könnten Sie mir sagen, ob ...? Dann übernehme ich ... bis ..., richtig? 复述应给对方纠正机会。"
+        ],
+        [
+          "观点和异议",
+          "Meiner Meinung nach ...。Ein konkretes Beispiel dafür ist ...。Ich verstehe deinen Punkt, allerdings ...。Obwohl ..., ...。Ich stimme teilweise zu, weil ...。异议针对具体条件，不推断对方动机。"
+        ],
+        [
+          "计划和未知",
+          "Ich schlage vor, ... zu ...。Falls ..., könnten wir ...。Bestätigt ist bisher ...。Noch offen ist, ob ...。Ich werde ... prüfen und bis ... antworten。把自己能做的行动与他人决定分开。"
+        ],
+        [
+          "概括和来源",
+          "Laut der Mitteilung ...。Der Text beschreibt vor allem ...。Dabei geht es nur um ...。Das bedeutet noch nicht, dass ...。来源词和限制词能让摘要更准确，不为了短而删掉关键范围。"
+        ],
+        [
+          "词汇不足时继续",
+          "Mir fehlt gerade das Wort. Ich meine etwas, mit dem man ...。Ich erkläre es mit einem Beispiel。Könntest du die Frage anders formulieren? B1互动允许停顿、自我修正和改述，目标是保持共同理解。"
+        ]
+      ]
+    ]
+  ],
+  "appendix": [
+    [
+      "复习一 · 时态、语气与句子结构",
+      [
+        [
+          "过去事实与过去假设",
+          "Perfekt：ich habe gefragt；Präteritum：ich fragte；Plusquamperfekt：ich hatte gefragt；过去第二虚拟式：ich hätte gefragt。前两者可讲过去事件，第三者与另一个过去时点比较，第四者设想不同过去。例：Als ich kam, war sie gegangen；Wenn ich früher gekommen wäre, hätte ich sie getroffen。"
+        ],
+        [
+          "三类连接成分",
+          "weil/obwohl/wenn/dass/ob/nachdem：变位动词末位。deshalb/trotzdem/danach/außerdem：副词若占前场，动词随即第二位。und/aber/denn/oder：并列连词不占后句前场。练习时将连接词和其后第一个变位动词同时圈出。"
+        ],
+        [
+          "四种关系",
+          "目的damit或同主语um...zu；方式indem；结果sodass；原因weil/denn/wegen。先回答“为什么、为了什么、怎么做到、结果怎样”，再写句型。Wir verteilen Aufgaben, damit alle mitmachen können不是已证明大家都参与。"
+        ],
+        [
+          "请求与现实条件",
+          "Könnten Sie ...?、Ich hätte gern ...是礼貌；Falls der Zug ausfällt, nehmen wir den Bus是现实可能；Wenn ich frei hätte, würde ich mitkommen是保持距离的设想。形式相近并不代表同一时间或同一功能。"
+        ],
+        [
+          "复习练习与答案",
+          "改写：Der Zug fällt aus. Wir nehmen den Bus。用deshalb：Der Zug fällt aus. Deshalb nehmen wir den Bus。用weil：Weil der Zug ausfällt, nehmen wir den Bus。用falls会把既定取消变成条件，不能在要求保留事实时随意替换。"
+        ]
+      ]
+    ],
+    [
+      "复习二 · 格、定语与动词搭配",
+      [
+        [
+          "定冠词速查",
+          "阳性：der/den/dem/des；阴性：die/die/der/der；中性：das/das/dem/des；复数：die/die/den/der。顺序为一四三二格。复数第三格名词通常加-n，原已-n或-s的通常不再加；关系代词复数第三格为denen。"
+        ],
+        [
+          "形容词与分词",
+          "der neue Plan、ein neuer Plan、mit einem neuen Plan、die geänderten Pläne。分词定语沿用形容词词尾；die wartenden Gäste主动等待，die angekommenen Gäste已到达而非被到达。长定语难懂时改关系从句。"
+        ],
+        [
+          "介词与方向",
+          "auf den Tisch放到桌上，auf dem Tisch在桌上；在公园跑im Park仍位置。固定搭配另记：warten auf＋Akk.、teilnehmen an＋Dat.、sich interessieren für＋Akk.、sich erinnern an＋Akk.。支配优先于泛化的位置解释。"
+        ],
+        [
+          "人物与事情",
+          "Worauf wartest du? Auf die Antwort；Auf wen wartest du? Auf Ben。da-/wo-复合通常指事情，不替代人物。Ich denke daran, morgen anzurufen中daran预告后面要记住的事情。"
+        ],
+        [
+          "复习练习与答案",
+          "补全：Das sind die Gäste, mit ___ wir gesprochen haben；Wir geben ___ den Plan（客人代词，第三格复数）。答案：denen；ihnen。再换双代词：Wir geben ihn ihnen。普通人称代词不是关系代词。"
+        ]
+      ]
+    ],
+    [
+      "复习三 · 从信息到短文和报告",
+      [
+        [
+          "先确定文本任务",
+          "私人邮件可用Hallo/Liebe...，正式邮件Sehr geehrte...；观点帖先观点再理由例子；经历文背景-事件-转折-评价；流程按谁何时何地做什么。格式服务内容，不把所有任务写成同一套模板。"
+        ],
+        [
+          "写作前四问",
+          "收件人是谁？要他知道或做什么？哪些事实已确认？哪些条件和时间不能遗漏？列关键词而非先整篇中文逐字翻译，先完成核心任务点再润色。"
+        ],
+        [
+          "摘要四项保留",
+          "来源、时间、范围、确定性。Nur der Lesesaal ist vorübergehend geschlossen不能压成Die Bibliothek ist geschlossen；voraussichtlich Dienstag不能改成am Dienstag确定发生。暂定信息和新确认信息应可区分。"
+        ],
+        [
+          "论述和共同计划",
+          "立场加理由，再用一例具体化，承认限制后提建议。共同计划需时间地点、行动者、条件、下一次确认；写“我们会安排”不如写“Eva查房间并在周五回复”。"
+        ],
+        [
+          "修改顺序",
+          "先查漏信息、矛盾与范围，再查段落连接，然后动词位置、时态语气、词尾拼写。最后用新条件重写两句验证理解，不只抄范文。阅读范文后依赖原句完成的作品不算独立输出。"
+        ]
+      ]
+    ],
+    [
+      "结业评分、学习档案与B2衔接",
+      [
+        [
+          "计分方法",
+          "听力15题、阅读15题，各题1分；各自正确数÷15×25，保留一位小数。写作25分、口语25分，四项共100分。语法诊断20分单列。无实际听音时听力记未测，不能用读稿替代，也不把剩余分数折算成完整总分。"
+        ],
+        [
+          "写作与口语尺度",
+          "写作任务一10分：信息4、连贯2、语言2、语气格式2；任务二15分：信息5、组织3、语言4、语气格式3。口语任务一7分：回应3、追问2、可理解2；任务二8分：内容3、组织2、语言可理解3；任务三10分：回应协商4、方案3、语言可理解3。按实际完成程度给整分。"
+        ],
+        [
+          "如何看成绩",
+          "本书自设教学建议：某技能低于该项60%优先补对应任务；60%至79%继续用新题检验稳定性；80%以上仍检查是否依赖模板或熟题。这不是官方合格线或证书换算。语法分不能替代互动与理解能力。轻微超出建议词数不机械扣分，但遗漏任务点应在信息维度体现。"
+        ],
+        [
+          "结业学习档案",
+          "每人保留两篇初稿与改稿、两段不同时点口语、一次听力错因记录、一次新文本摘要和一项变式互动。每份标日期、是否看提示、最初困难和修改理由。选两个具体进步与两个待练目标作3分钟展示。"
+        ],
+        [
+          "四周补弱模板",
+          "第1周找两类高频错因；第2周在新场景用同结构；第3周增加未预告追问与限时摘要；第4周换新材料重测。每天15至20分钟主动提取，每周一次真实或模拟互动。计划必须与生活时间相容。"
+        ],
+        [
+          "进入B2前的准备",
+          "继续扩大熟悉话题之外的输入，练习更长论述和较自然语速；逐步深化复杂定语、转述和论证结构。但先确保B1核心任务能在新条件下完成：主旨理解、细节核实、连贯叙述、解释理由、协商安排、写清请求。课程完成不自动等于通过官方B1考试。"
+        ]
+      ]
+    ]
+  ],
+  "sources": [
+    [
+      "Goethe-Institut：Deutsch B1能力说明（核对2026-11-06）",
+      "https://www.goethe.de/ins/de/de/uun/dln/db1.html"
+    ],
+    [
+      "欧洲委员会：CEFR描述语与使用范围（核对2026-11-06）",
+      "https://www.coe.int/en/web/common-european-framework-reference-languages/the-cefr-descriptors"
+    ],
+    [
+      "Goethe-Institut：B1成人官方样卷（独立考试练习参考）",
+      "https://www.goethe.de/pro/relaunch/prf/materialien/B1/b1_modellsatz_erwachsene.pdf"
+    ]
+  ],
+  "exam": {
+    "listening": [
+      [
+        "Was soll Amir zuerst tun?",
+        "a) Sofort neue Karten kaufen. b) Die Gültigkeit der vorhandenen Karten prüfen. c) Die Reise endgültig absagen.",
+        "A: Unser Zug fährt heute nicht. Ich sehe aber einen Ersatzbus. B: Dann kaufe ich schnell neue Karten. A: Warte bitte. Vielleicht gelten unsere bisherigen Karten auch dort. Das steht auf der Anzeige nicht. B: Stimmt, ich frage zuerst am Schalter. Danach entscheiden wir, ob wir überhaupt etwas zusätzlich kaufen müssen.",
+        "b",
+        "已有票是否适用未确认，先问再决定。"
+      ],
+      [
+        "Warum möchte Eva den Termin ändern?",
+        "a) Sie hat den Ort vergessen. b) Der Kurs wurde abgesagt. c) Ihre Arbeitszeit hat sich geändert.",
+        "A: Guten Tag, ich habe einen Beratungstermin für Dienstag um zehn. Leider muss ich nun an diesem Vormittag arbeiten. B: Möchten Sie absagen oder einen neuen Termin? A: Einen neuen Termin, bitte. Donnerstag nach zwei wäre möglich. B: Ich prüfe das und schicke Ihnen eine Bestätigung.",
+        "c",
+        "因工作变动改期；周四尚待确认。"
+      ],
+      [
+        "Welche Erfahrung beschreibt Ben?",
+        "a) Er erkannte Wörter, konnte sie aber nicht frei benutzen. b) Er hatte überhaupt nicht geübt. c) Er konnte alle neuen Wörter sofort verwenden.",
+        "A: Deine App zeigt ja viele erledigte Übungen. B: Ja, ich habe regelmäßig gelernt. Im Gespräch gestern war es trotzdem schwierig. A: Hast du die Wörter vergessen? B: Nicht ganz. Wenn ich sie sehe, verstehe ich sie. Aber ohne Auswahl konnte ich sie nicht schnell in einem eigenen Satz verwenden.",
+        "a",
+        "识别与主动表达不一致，并非未练或全部会用。"
+      ],
+      [
+        "Wohin sollen die Bücherkisten?",
+        "a) In den Flur. b) Ins Arbeitszimmer neben das Regal. c) Unter den Küchentisch.",
+        "A: Ich habe noch drei Bücherkisten im Auto. Soll ich sie zunächst in den Flur stellen? B: Bitte nicht, dort brauchen wir einen freien Weg. Bring sie direkt ins Arbeitszimmer. A: Neben den Schreibtisch? B: Neben das Regal, bitte. Der Platz am Schreibtisch bleibt für die Werkzeugkiste frei.",
+        "b",
+        "书箱进书房书架旁；桌边为工具箱。"
+      ],
+      [
+        "Was vereinbaren beide?",
+        "a) Ab sofort jede Woche zu kochen. b) Keine gemeinsamen Mahlzeiten anzubieten. c) Zunächst zwei gemeinsame Abende auszuprobieren.",
+        "A: Ich würde gern häufiger zusammen kochen. B: Ich auch, aber meine Arbeitszeiten wechseln bald. Eine feste wöchentliche Regel kann ich noch nicht zusagen. A: Dann versuchen wir zuerst zwei Abende im nächsten Monat. B: Gut. Danach schauen wir, ob Kosten, Zeit und Aufgaben für uns passen.",
+        "c",
+        "有限两次试行，之后再评。"
+      ],
+      [
+        "Die Gäste dürfen den Veranstaltungsplan behalten.",
+        "richtig / falsch",
+        "Herzlich willkommen. Bitte holen Sie am Empfang Ihr Namensschild und einen Plan ab. Am Ende der Veranstaltung geben Sie das Namensschild dort wieder zurück. Den Plan dürfen Sie mit nach Hause nehmen. Gäste ohne Anmeldung wenden sich bitte zuerst an die Kollegin neben dem Eingang.",
+        "richtig",
+        "只归还姓名牌，图可带回。"
+      ],
+      [
+        "Die gesamte Bibliothek ist ab heute geschlossen.",
+        "richtig / falsch",
+        "Eine Information für unsere Besucher: Wegen geplanter Arbeiten wird der Lesesaal vorübergehend geschlossen. Die Ausleihe bleibt geöffnet. Der genaue Beginn der Arbeiten steht noch nicht fest. Bitte beachten Sie die nächste Mitteilung. Die Nachricht von letzter Woche enthält einen früheren Planungsstand.",
+        "falsch",
+        "仅阅览室且起始未定，不是全馆今日起关。"
+      ],
+      [
+        "Für den Einkauf werden höchstens sieben Euro pro Person eingeplant.",
+        "richtig / falsch",
+        "Für unseren Kochabend sammeln wir sieben Euro pro Person als Höchstbetrag für Zutaten ein. Wir prüfen zuerst, was bereits in der Küche vorhanden ist. Getränke bringt jede Person selbst mit. Bitte meldet euch bis Dienstag an, damit wir die Mengen vor dem Einkauf anpassen können.",
+        "richtig",
+        "七欧是食材上限，饮品另带。"
+      ],
+      [
+        "Der Vorschlag für den Innenhof ist bereits endgültig genehmigt.",
+        "richtig / falsch",
+        "Unsere Planungsgruppe unterstützt den Vorschlag mit einem freien Spielbereich und einer getrennten Zufahrt. Wir schicken ihn heute an die Leitung. Ihre Bestätigung fehlt noch. Außerdem suchen wir weiterhin eine Person für die Betreuung des Zugangs. Bitte veröffentlicht deshalb noch keinen endgültigen Plan.",
+        "falsch",
+        "组内支持非批准，仍缺负责人确认与管理人。"
+      ],
+      [
+        "Die Lernmappe soll ausschließlich fehlerfreie Endfassungen enthalten.",
+        "richtig / falsch",
+        "Bringen Sie zum Abschlussgespräch bitte einen frühen Entwurf, eine Rückmeldung und die überarbeitete Fassung mit. Ein Text mit früheren Fehlern ist ausdrücklich willkommen, wenn Sie erklären können, was Sie geändert haben. Ergänzen Sie außerdem eine neue Aufgabe, die Sie ohne Vorlage bearbeitet haben.",
+        "falsch",
+        "明确需要早稿、反馈、改稿与独立新题。"
+      ],
+      [
+        "Was hat Lea bei ihrem Vortrag geholfen?",
+        "a) Ein vollständig auswendig gelernter Text. b) Stichwörter und ein konkretes Beispiel. c) Der Verzicht auf alle Rückfragen.",
+        "Hallo Amir, der Vortrag ist gut gelaufen. Ich hatte diesmal nur fünf Stichwörter dabei. Als mir ein Wort fehlte, habe ich ein Beispiel erklärt. Danach wussten die anderen, was ich meinte. Die Rückfragen waren hilfreich. Einen vollständigen Text hätte ich wahrscheinlich nur vorgelesen. Wir können diese Vorbereitung nächste Woche gemeinsam ausprobieren.",
+        "b",
+        "五关键词与例子；未取消问答，亦非背全文。"
+      ],
+      [
+        "Was ist für Donnerstag bestätigt?",
+        "a) Nur ein Beratungstermin. b) Ein fester Kursplatz. c) Der Beginn eines neuen Kurses.",
+        "Guten Tag, Frau Wei. Hiermit bestätigen wir Ihren Beratungstermin am Donnerstag um fünfzehn Uhr in Raum sechs. Bringen Sie bitte Ihre bisherigen Kursinformationen mit. Ein Kursplatz ist damit noch nicht reserviert. Über eine Anmeldung können Sie nach dem Gespräch entscheiden. Bei Fragen erreichen Sie mich morgen Vormittag.",
+        "a",
+        "只确认咨询，非课程名额或开课。"
+      ],
+      [
+        "Welche Information wurde neu bestätigt?",
+        "a) Dass die Arbeiten nie stattfinden. b) Dass das ganze Gebäude schließt. c) Dass die Arbeiten am Mittwoch beginnen.",
+        "Hallo Nora, es gibt eine neue Nachricht zum Lesesaal. Der Beginn war gestern noch offen; jetzt ist Mittwoch bestätigt. Die Ausleihe bleibt wie angekündigt geöffnet. Bitte ändere in unserer Zusammenfassung nur die neue Zeitangabe. Die übrigen Informationen sind weiterhin richtig. Ich habe das Datum der aktuellen Mitteilung dazugeschrieben.",
+        "c",
+        "新确认周三开始，借阅仍开。"
+      ],
+      [
+        "Warum konnte Ben nicht bis zum Ende helfen?",
+        "a) Er hatte vorher schon einen weiteren Termin genannt. b) Er war ohne Erklärung gegangen. c) Die anderen wollten keine Hilfe mehr.",
+        "Hallo Eva, danke für die Fotos vom Umzug. Schade, dass ich beim letzten Schrank nicht mehr dabei war. Wie am Morgen besprochen, musste ich um zwei zu einem anderen Termin. Amir hat mir später erzählt, dass ihr die Aufgaben neu verteilt habt. Ich bringe ihm morgen noch die geliehenen Werkzeuge zurück.",
+        "a",
+        "早已说明两点另有约，非无故走。"
+      ],
+      [
+        "Was plant Eva für die nächsten vier Wochen?",
+        "a) Nur alte Texte abzuschreiben. b) Regelmäßig frei zu sprechen und unerwartete Fragen zu üben. c) Keine neuen Aufgaben mehr zu bearbeiten.",
+        "Hallo Lea, ich habe meine Aufnahmen verglichen. Ich kann jetzt länger erzählen, aber bei neuen Fragen stocke ich noch. Deshalb will ich vier Wochen lang jede Woche ein freies Gespräch führen. Könntest du mir dabei jeweils eine nicht vorbereitete Frage stellen? Danach notiere ich zwei Stellen, die ich verbessern möchte.",
+        "b",
+        "每周自由说加未准备追问，再复盘。"
+      ]
+    ],
+    "read_texts": [
+      [
+        "A · Ausflug（题1至3）",
+        "Liebe Gruppe, für unseren Ausflug am Sonntag gibt es eine Änderung. Der Bus um neun fährt nicht. Wir nehmen die Verbindung um zehn und kommen um elf Uhr am See an. Die Unterkunft brauchen wir für diesen Tagesausflug nicht. Die Führung im Museum beginnt nun um vierzehn Uhr; diese Änderung ist bestätigt. Bitte kauft noch keine zusätzlichen Karten: Ben prüft heute, ob unsere bisherigen Tickets im späteren Bus gelten. Er meldet sich bis achtzehn Uhr. Wer wegen der späteren Rückfahrt nicht mehr teilnehmen kann, soll Nora noch heute informieren. Wir entscheiden anschließend, ob die Rückfahrt für alle gemeinsam bleibt oder ob einige früher zurückfahren."
+      ],
+      [
+        "B · Sprachberatung（题4至6）",
+        "Sehr geehrter Herr Kaya, Ihr Beratungstermin am Freitag um neun Uhr ist bestätigt. Das Gespräch findet in Raum 12 statt. Bitte bringen Sie Ihre bisherigen Kursinformationen mit. Sie müssen vorab kein neues Formular ausfüllen. Im Gespräch besprechen wir Ihre Ziele und mögliche Kurszeiten. Eine Teilnahme an einem bestimmten Kurs ist damit noch nicht gebucht. Wenn Sie sich danach anmelden möchten, prüfen wir die freien Plätze. Falls Sie den Termin nicht wahrnehmen können, bitten wir um eine kurze Nachricht mit zwei möglichen Alternativen. Eine automatische Eingangsbestätigung ersetzt keine neue Terminvereinbarung."
+      ],
+      [
+        "C · Kochabend（题7至9）",
+        "Unser erster gemeinsamer Kochabend war gut besucht. Von neun angemeldeten Personen kamen acht; eine Absage erreichte uns erst nach dem Einkauf. Wir hatten außerdem die Reismenge zu großzügig geplant. Beim nächsten Mal notieren wir deshalb die vorgesehenen Portionen genauer und bitten um Rückmeldungen bis Mittwochabend. Änderungen danach sollen weiterhin sofort gemeldet werden. Der Betrag von sieben Euro pro Person gilt nur als Obergrenze für Zutaten. Getränke bringt jede Person selbst mit. Wir beschließen noch keinen festen Wochentag, da zwei Arbeitspläne für den kommenden Monat fehlen. Nach dem zweiten Abend vergleichen wir Kosten, Zeitaufwand und Verteilung der Aufgaben."
+      ],
+      [
+        "D · Aktuelle Museumsinformation（题10至12）",
+        "Stand: Donnerstag, 12. November. Die Arbeiten im Raum der Fotoausstellung beginnen am kommenden Mittwoch und dauern voraussichtlich vier Tage. Die übrigen Ausstellungsräume bleiben geöffnet. Gruppen, die nur die Fotoausstellung besuchen möchten, können einen anderen Termin anfragen. Ein Ersatztermin ist erst nach unserer schriftlichen Bestätigung vereinbart. Die ältere Mitteilung nannte Montag als möglichen Beginn; diese Planung gilt nicht mehr. Bitte verwenden Sie bei der Weitergabe von Informationen die aktuelle Fassung und nennen Sie den betroffenen Raum. Von einer Schließung des gesamten Museums ist nicht die Rede."
+      ],
+      [
+        "E · Abschlussgespräch（题13至15）",
+        "Für das Abschlussgespräch wählen Sie bitte wenige aussagekräftige Beispiele aus Ihrer Lernmappe. Vergleichen Sie einen Entwurf mit der überarbeiteten Fassung und erklären Sie zwei konkrete Änderungen. Zeigen Sie außerdem anhand einer Aufnahme, was beim Sprechen leichter geworden ist. Eine neue Aufgabe ohne Vorlage soll ergänzen, was Sie bereits aus bekannten Übungen wissen. Benennen Sie auch eine Schwierigkeit, die weiterhin besteht, und planen Sie dafür einen nächsten Schritt. Das Gespräch dauert ungefähr zehn Minuten und enthält Rückfragen. Sie dürfen Stichwörter mitbringen, sollen aber keinen vollständigen Vortrag ablesen. Der Kursabschluss ersetzt keine externe Sprachprüfung."
+      ]
+    ],
+    "reading": [
+      [
+        "1",
+        "Wann kommt die Gruppe am See an?",
+        "a) Um neun. b) Um zehn. c) Um elf.",
+        "c",
+        "A十点出发，十一点到。"
+      ],
+      [
+        "2",
+        "Die neue Museumszeit ist bereits bestätigt.",
+        "richtig / falsch",
+        "richtig",
+        "A明确十四点导览变更确认。"
+      ],
+      [
+        "3",
+        "Was prüft Ben?",
+        "a) Die Gültigkeit der vorhandenen Tickets. b) Die Lage der Unterkunft. c) Die Öffnung einer neuen Ausstellung.",
+        "a",
+        "A查旧票是否适晚班。"
+      ],
+      [
+        "4",
+        "Was soll Herr Kaya mitbringen?",
+        "a) Ein neu ausgefülltes Formular. b) Seine bisherigen Kursinformationen. c) Eine Bestätigung über einen gebuchten Kursplatz.",
+        "b",
+        "B带旧课程信息，无需新表，尚无订位。"
+      ],
+      [
+        "5",
+        "Mit dem Beratungstermin ist zugleich ein Kursplatz reserviert.",
+        "richtig / falsch",
+        "falsch",
+        "B明确并非订课。"
+      ],
+      [
+        "6",
+        "Was wird bei einer Absage erbeten?",
+        "a) Keine weitere Nachricht. b) Eine sofortige Kurszahlung. c) Zwei mögliche alternative Termine.",
+        "c",
+        "B取消时给两备选。"
+      ],
+      [
+        "7",
+        "Wie viele Personen kamen zum ersten Kochabend?",
+        "a) Acht. b) Neun. c) Sieben.",
+        "a",
+        "C九报名八到。"
+      ],
+      [
+        "8",
+        "Die sieben Euro schließen Getränke für alle ein.",
+        "richtig / falsch",
+        "falsch",
+        "C只食材上限，饮品自带。"
+      ],
+      [
+        "9",
+        "Warum wird noch kein fester Wochentag beschlossen?",
+        "a) Niemand möchte nochmals kochen. b) Zwei Arbeitspläne fehlen. c) Alle Aufgaben sind bereits verteilt.",
+        "b",
+        "C下月两人工时未知。"
+      ],
+      [
+        "10",
+        "Welcher Bereich ist betroffen?",
+        "a) Das ganze Gebäude. b) Nur die Verwaltung. c) Der Raum der Fotoausstellung.",
+        "c",
+        "D仅摄影室。"
+      ],
+      [
+        "11",
+        "Die Dauer von vier Tagen wird als voraussichtlich bezeichnet.",
+        "richtig / falsch",
+        "richtig",
+        "D预计四天，非无条件保证。"
+      ],
+      [
+        "12",
+        "Wann gilt ein Ersatztermin als vereinbart?",
+        "a) Nach schriftlicher Bestätigung. b) Sobald die Gruppe eine Anfrage sendet. c) Automatisch am früher genannten Montag.",
+        "a",
+        "D明确书面确认后才约定。"
+      ],
+      [
+        "13",
+        "Was soll der Vergleich zweier Textfassungen zeigen?",
+        "a) Nur die Zahl der Seiten. b) Zwei konkrete Änderungen. c) Dass beide Texte identisch sind.",
+        "b",
+        "E要求说明两处具体修改。"
+      ],
+      [
+        "14",
+        "Beim Gespräch soll ein vollständiger Vortrag abgelesen werden.",
+        "richtig / falsch",
+        "falsch",
+        "E关键词可，不能读全稿。"
+      ],
+      [
+        "15",
+        "Wozu dient die neue Aufgabe ohne Vorlage?",
+        "a) Sie ersetzt jede Rückfrage. b) Sie garantiert ein externes Zertifikat. c) Sie ergänzt die Erkenntnisse aus bekannten Übungen.",
+        "c",
+        "E新任务提供迁移证据，不替考试。"
+      ]
+    ],
+    "writing": [
+      [
+        "任务一 · 改期与确认邮件（10分）",
+        "写130至160词给课程咨询员Frau Berger。你原定周二10点咨询，临时工作冲突；周四14点后或周五上午可。说明原因、提出两备选、询问应带材料与新房间、请求书面确认。尚未获得改期批准，不要写成已约定。",
+        "参考：Sehr geehrte Frau Berger, vielen Dank für den Beratungstermin am Dienstag um zehn Uhr. Leider hat sich meine Arbeitszeit kurzfristig geändert, sodass ich an diesem Vormittag nicht kommen kann. Ich möchte Sie deshalb um einen anderen Termin bitten. Am Donnerstag wäre ich nach vierzehn Uhr verfügbar. Am Freitag könnte ich am Vormittag kommen. Bitte teilen Sie mir mit, ob einer dieser Zeiträume für Sie möglich ist. Außerdem würde ich gern wissen, welche Unterlagen ich zur Beratung mitbringen soll. Meine bisherigen Kursinformationen habe ich bereits zusammengestellt. Falls Sie noch etwas benötigen, kann ich es Ihnen vorher schicken. Könnten Sie mir bitte den neuen Termin und den Raum schriftlich bestätigen? Bis zu Ihrer Rückmeldung gehe ich noch nicht davon aus, dass meine Anfrage angenommen wurde. Vielen Dank für Ihre Unterstützung. Mit freundlichen Grüßen, Amir Kaya\n评分：信息4分（原预约与原因1、两备选1、材料与房间问题1、确认请求且不虚构批准1）；连贯2；语言2；语气格式2。"
+      ],
+      [
+        "任务二 · 经验与改进报告（15分）",
+        "写140至170词给合租伙伴：第一次共餐九人报名八人到，取消在采购后；米饭过多；每人食材上限七欧，不含饮品。回顾两项观察，提出人数与采购改进，说明下月两人工时未知，建议再试一次而非直接每周固定，并提出分工。",
+        "参考：Liebe Mitbewohnerinnen und Mitbewohner, ich möchte unseren ersten Kochabend kurz zusammenfassen. Von neun angemeldeten Personen kamen acht. Eine Absage erreichte uns erst, nachdem bereits eingekauft worden war. Außerdem hatten wir zu viel Reis vorbereitet. Für das nächste Mal sollten wir die geplanten Portionen genauer notieren und die Zahl der Gäste vor dem Einkauf noch einmal bestätigen. Änderungen danach müssen natürlich weiterhin möglich sein, sollten aber sofort mitgeteilt werden. Die sieben Euro pro Person sind eine Obergrenze für Zutaten; Getränke gehören nicht dazu. Damit darüber keine Missverständnisse entstehen, könnten wir diese Angabe in jede Einladung schreiben. Da die Arbeitspläne von zwei Personen noch fehlen, schlage ich vor, zunächst einen weiteren Abend zu vereinbaren. Eine feste wöchentliche Regel wäre jetzt zu früh. Ich könnte die Zusagen sammeln, während Eva die vorhandenen Vorräte prüft. Nach dem zweiten Abend sollten wir gemeinsam Kosten, Zeitaufwand und Aufgabenverteilung besprechen. Viele Grüße, Nora\n评分：信息5分（人数与取消时点1、米饭问题1、七欧范围1、改进与分工1、工时未知及有限试行1）；组织3；语言4；语气格式3。不得把上限写实际花费，也不能把九报名写成九到场。"
+      ]
+    ],
+    "speaking": [
+      [
+        "任务一 · 经历交流与追问（7分）",
+        "两人各用约1分钟讲一次计划改变的经历，包含原计划、变化和反应。伙伴问一个时间问题和一个原因问题，讲述者回应并可自我修正。经历可明确虚构。",
+        "可用：Ursprünglich wollten wir ...; als ..., mussten wir ...; vorher hatten wir ...。追问：Was war vorher passiert? Warum habt ihr ...? 信息回应3、主动追问2、可理解度2。必须有双向回应，不能只背两个独白。"
+      ],
+      [
+        "任务二 · 学习方法短展示（8分）",
+        "准备2分钟，只写五个关键词。用约2分钟比较两种熟悉学习方法：各自用途、一个具体经历、一个限制与自己的选择。伙伴问“如果你每天只有十分钟，会怎样调整？”，你回应。",
+        "参考框架：Für kurze Wiederholungen ...; ein Beispiel dafür ...; allerdings ...; deshalb kombiniere ich ...。内容3、组织2、语言及可理解度3。不要求证明某方法普遍更好，须回应变化条件。"
+      ],
+      [
+        "任务三 · 共同安排结业活动（10分）",
+        "两人约4分钟安排结业交流。A知道12人、原房间周六不可用；B知道小房间周日15至17点可用，但只坐8人。两人比较替代时间或分组方案，商定询问同学与房间负责人的分工。评定者中途加入“其中三人周日只能16点后到”，两人调整并区分已知与待确认。",
+        "可选：分两组且事先征求大家意见；找更大房；改另日并核时间。不能假定12人都能坐8人房，也不能擅定周日全体同意。明确谁何时问、备用方案和再次确认时间。回应协商4、可行方案3、语言可理解度3。"
+      ]
+    ],
+    "grammar": [
+      [
+        "1. 用nachdem合并：Wir kauften die Karten. Dann fuhren wir los.",
+        "Nachdem wir die Karten gekauft hatten, fuhren wir los. 先买后走。"
+      ],
+      [
+        "2. ___ ich gestern zum ersten Mal dort war, kannte ich niemanden.",
+        "Als。过去一次事件。"
+      ],
+      [
+        "3. 改错：Deshalb wir kommen später.",
+        "Deshalb kommen wir später. 主句V2。"
+      ],
+      [
+        "4. Die Kollegin, mit ___ ich spreche, heißt Eva.",
+        "der。mit第三格，阴性。"
+      ],
+      [
+        "5. 补全：mit einem neu___ Kolleg___。",
+        "neuen Kollegen。每空0.5分，形容词-en，弱变化名词-en。"
+      ],
+      [
+        "6. 将Senden Sie mir den Plan改礼貌问句。",
+        "Könnten Sie mir bitte den Plan senden? 其他规范委婉请求亦可。"
+      ],
+      [
+        "7. Wenn ich mehr Zeit ___, würde ich länger bleiben.（haben）",
+        "hätte。现在假设。"
+      ],
+      [
+        "8. 改间接问题：Wann beginnt die Führung? 开头Ich möchte wissen。",
+        "Ich möchte wissen, wann die Führung beginnt. 从句变位末位。"
+      ],
+      [
+        "9. Ich schicke dir den Plan, ___ du dich vorbereiten kannst.（为了）",
+        "damit。不同主语目的从句。"
+      ],
+      [
+        "10. 改Futur I：Ich rufe morgen an.",
+        "Ich werde morgen anrufen. werden变位加不定式。"
+      ],
+      [
+        "11. 改动作被动：Das Team verteilt die Schilder.",
+        "Die Schilder werden vom Team verteilt. 原第四格宾语变主语。"
+      ],
+      [
+        "12. Eva bittet Ben, die Unterlagen ___（mitbringen）.",
+        "mitzubringen。可分动词zu内嵌。"
+      ],
+      [
+        "13. 指人物：Auf ___ wartest du? Auf meine Kollegin.",
+        "wen。auf＋第四格疑问代词；不填worauf。"
+      ],
+      [
+        "14. 译：房间还没准备好。",
+        "Der Raum ist noch nicht bereit. noch nicht而非nicht mehr。"
+      ],
+      [
+        "15. 用trotzdem：Es regnet. Die Veranstaltung findet statt.",
+        "Es regnet. Trotzdem findet die Veranstaltung statt. 副词前置后V2。"
+      ],
+      [
+        "16. Der Weg ist kürzer ___ der andere.",
+        "als。比较级。"
+      ],
+      [
+        "17. Wenn wir früher losgefahren ___, hätten wir den Zug erreicht.",
+        "wären。losfahren在此用sein的过去虚拟式。"
+      ],
+      [
+        "18. 改清楚，发送者Eva：Eva sprach mit Nora. Sie schickte danach die Einladung.",
+        "Eva sprach mit Nora. Danach schickte Eva die Einladung. 重复姓名消歧义。"
+      ],
+      [
+        "19. 把两个宾语换成代词：Ich gebe Eva das Buch.",
+        "Ich gebe es ihr. 第四格代词在第三格代词前。"
+      ],
+      [
+        "20. 合并：Der Raum ist hell. Er ist auch ruhig. 用nicht nur。",
+        "Der Raum ist nicht nur hell, sondern auch ruhig. 两个形容词平行。"
+      ]
+    ]
+  }
+}
